@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="2.6">
+  <location units="cm">
+    <width>0</width>
+    <height>0</height>
+  </location>
+  <instrumentsUsed>
+    <tuning>
+      <name>Standard</name>
+      <id>100</id>
+      <instrument>
+        <name>Six String</name>
+        <id>3</id>
+        <stringCount>6</stringCount>
+        <category>
+          <name>Guitar</name>
+          <id>1</id>
+        </category>
+      </instrument>
+      <stringsHighToLow>
+        <instrumentString>
+          <note>E</note>
+          <octave>C4C5</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>B</note>
+          <octave>C3C4</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>G</note>
+          <octave>C3C4</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>D</note>
+          <octave>C3C4</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>A</note>
+          <octave>C2C3</octave>
+        </instrumentString>
+        <instrumentString>
+          <note>E</note>
+          <octave>C2C3</octave>
+        </instrumentString>
+      </stringsHighToLow>
+    </tuning>
+  </instrumentsUsed>
+  <imagesData/>
+  <page>
+    <location units="cm">
+      <width>0</width>
+      <height>0</height>
+    </location>
+    <shape>
+      <location units="cm">
+        <width>1.799166667</width>
+        <height>2.301875</height>
+      </location>
+      <size units="cm">
+        <width>17.145</width>
+        <height>25.74395834</height>
+      </size>
+      <shapeType>RECTANGLE</shapeType>
+      <borderColor hex="#000000"/>
+      <useBorderColor>true</useBorderColor>
+      <fillColor hex="#FFFFFF"/>
+      <useFillColor>false</useFillColor>
+      <cornerDimension units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </cornerDimension>
+      <lineStyle>LINE_SOLID</lineStyle>
+      <lineWidth>2.0</lineWidth>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </shape>
+    <fretboard>
+      <location units="cm">
+        <width>1.640416667</width>
+        <height>2.69875</height>
+      </location>
+      <size units="cm">
+        <width>16.56291667</width>
+        <height>6.82625</height>
+      </size>
+      <titleElement type="8">
+        <blockElement type="4">
+          <inlineElement type="6">
+            <text type="0">
+              <content>A Mixolydian Position 5  (G Shape</content>
+            </text>
+            <containerStyle bold="true" fontHeight="16">
+              <parentStyle>
+                <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
+                  <parentStyle>
+                    <parentStyle>
+                      <parentStyle>
+                        <parentStyle class="canvasStyle" fontFamily="Segoe UI" fontHeight="9"/>
+                      </parentStyle>
+                    </parentStyle>
+                  </parentStyle>
+                  <fontColor hex="#000000"/>
+                  <fillColor hex="#FFFFFF"/>
+                  <borderThickness>2</borderThickness>
+                  <isTransparent>true</isTransparent>
+                </parentStyle>
+              </parentStyle>
+            </containerStyle>
+          </inlineElement>
+          <text type="0">
+            <content>)</content>
+          </text>
+          <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+        </blockElement>
+        <containerStyle reference="../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>HEADER</textType>
+        <hasShadow>false</hasShadow>
+      </titleElement>
+      <footerElement type="8">
+        <blockElement type="4">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle>
+            <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
+              <parentStyle reference="../../../../../titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle"/>
+              <fontColor hex="#000000"/>
+              <fillColor hex="#FFFFFF"/>
+              <borderThickness>2</borderThickness>
+              <isTransparent>true</isTransparent>
+            </parentStyle>
+          </containerStyle>
+        </blockElement>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>FOOTER</textType>
+        <hasShadow>false</hasShadow>
+      </footerElement>
+      <textElement reference="../titleElement"/>
+      <textElement reference="../footerElement"/>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>OVERRIDE_SINGLE_COLOUR</backgroundStyle>
+        <colourOverride hex="#FF0000"/>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>4</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>4</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>OVERRIDE_SINGLE_COLOUR</backgroundStyle>
+        <colourOverride reference="../../dot/colourOverride"/>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>4</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>OVERRIDE_SINGLE_COLOUR</backgroundStyle>
+        <colourOverride reference="../../dot/colourOverride"/>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>6</fretCount>
+      <startingFret>1</startingFret>
+      <specificFretNumberPosition>
+        <int>1</int>
+      </specificFretNumberPosition>
+      <title>Title</title>
+      <titleVisible>true</titleVisible>
+      <titleAlignment>16384</titleAlignment>
+      <footer>Title</footer>
+      <footerVisible>false</footerVisible>
+      <footerAlignment>16384</footerAlignment>
+      <fretNumbersFont name="Verdana" height="8" style="2"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <tuningBackgroundColour hex="#FFFFFF"/>
+      <tuningForegroundColour hex="#000000"/>
+      <key>NONE</key>
+      <rootNote>A</rootNote>
+      <noteNames/>
+      <backgroundStyle>TEXTURE</backgroundStyle>
+      <fretboardTexture>textures/H1584_ST15.jpg</fretboardTexture>
+      <fretboardColor hex="#FFFF96"/>
+      <fretwireColor hex="#9F9F9F"/>
+      <nutColor hex="#000000"/>
+      <noteMarkerColor hex="#000000"/>
+      <noteMarkerTextColor hex="#FFFFFF"/>
+      <titleBackgroundColour hex="#FFFFFF"/>
+      <titleForegroundColour hex="#000000"/>
+      <footerBackgroundColour hex="#FFFFFF"/>
+      <footerForegroundColour hex="#000000"/>
+      <noteMarkerRulerBackgroundColour hex="#FFFFFF"/>
+      <noteMarkerRulerForegroundColour hex="#000000"/>
+      <thinStringColour hex="#000000"/>
+      <thinBoldStringColour hex="#202020"/>
+      <thickOutlineStringColour hex="#303030"/>
+      <thickInteriorStringColour hex="#FFFFFF"/>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>false</highlightRoots>
+      <noteMarkerLabels>INTERVAL</noteMarkerLabels>
+      <openStringLabels>false</openStringLabels>
+      <upperExtensionSetting>SINGLE_OCTAVE_ONLY</upperExtensionSetting>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersShowOptions>STANDARD</fretNumbersShowOptions>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>true</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColour hex="#000000"/>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor hex="#C0C0C0"/>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <fretwiresWidth>STANDARD</fretwiresWidth>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <legendBackgroundColour hex="#FFFFFF"/>
+      <legendForegroundColour hex="#000000"/>
+      <leftHanded>false</leftHanded>
+      <fretboardStyle reference="../titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle"/>
+      <defaultDotSize units="cm">
+        <width>0.8995833334</width>
+        <height>0.8995833334</height>
+      </defaultDotSize>
+      <intervalColoursState>
+        <interval name="UNISON">
+          <state activated="false">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_2ND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="SECOND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FOURTH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FLAT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="PERFECT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+      </intervalColoursState>
+      <defaultFontSizeAdjustment>1</defaultFontSizeAdjustment>
+      <isDefaultUsingFontSizeAdjustment>false</isDefaultUsingFontSizeAdjustment>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </fretboard>
+    <fretboard>
+      <location units="cm">
+        <width>2.38125</width>
+        <height>16.08666667</height>
+      </location>
+      <size units="cm">
+        <width>7.46125</width>
+        <height>5.318125</height>
+      </size>
+      <titleElement type="8">
+        <blockElement type="4">
+          <text type="0">
+            <content>A</content>
+          </text>
+          <inlineElement type="6">
+            <text type="0">
+              <content>7</content>
+            </text>
+            <containerStyle>
+              <parentStyle>
+                <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
+                  <parentStyle>
+                    <parentStyle reference="../../../../../../../../../fretboard/titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle/parentStyle"/>
+                  </parentStyle>
+                  <fontColor hex="#000000"/>
+                  <fillColor hex="#FFFFFF"/>
+                  <borderThickness>2</borderThickness>
+                  <isTransparent>true</isTransparent>
+                </parentStyle>
+              </parentStyle>
+              <isSuperscript>true</isSuperscript>
+            </containerStyle>
+          </inlineElement>
+          <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+        </blockElement>
+        <containerStyle reference="../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>HEADER</textType>
+        <hasShadow>false</hasShadow>
+      </titleElement>
+      <footerElement type="8">
+        <blockElement type="4">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle>
+            <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
+              <parentStyle reference="../../../../../titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle"/>
+              <fontColor hex="#000000"/>
+              <fillColor hex="#FFFFFF"/>
+              <borderThickness>2</borderThickness>
+              <isTransparent>true</isTransparent>
+            </parentStyle>
+          </containerStyle>
+        </blockElement>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>FOOTER</textType>
+        <hasShadow>false</hasShadow>
+      </footerElement>
+      <textElement reference="../titleElement"/>
+      <textElement reference="../footerElement"/>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type>
+          <shape>X</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>true</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../dot[2]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <fingering>SECOND</fingering>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>6</fret>
+        </location>
+        <type reference="../../dot[4]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <fingering>FIRST</fingering>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot[4]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <fingering>FOURTH</fingering>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>6</fretCount>
+      <startingFret>4</startingFret>
+      <specificFretNumberPosition>
+        <int>1</int>
+      </specificFretNumberPosition>
+      <title>Title</title>
+      <titleVisible>true</titleVisible>
+      <titleAlignment>16384</titleAlignment>
+      <footer>Title</footer>
+      <footerVisible>true</footerVisible>
+      <footerAlignment>16384</footerAlignment>
+      <fretNumbersFont name="Verdana" height="7" style="2"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <tuningBackgroundColour hex="#FFFFFF"/>
+      <tuningForegroundColour hex="#000000"/>
+      <key>NONE</key>
+      <backgroundStyle>TEXTURE</backgroundStyle>
+      <fretboardTexture>textures/H1584_ST15.jpg</fretboardTexture>
+      <fretboardColor hex="#FFFF96"/>
+      <fretwireColor hex="#808080"/>
+      <nutColor hex="#000000"/>
+      <noteMarkerColor hex="#000000"/>
+      <noteMarkerTextColor hex="#FFFFFF"/>
+      <titleBackgroundColour hex="#FFFFFF"/>
+      <titleForegroundColour hex="#000000"/>
+      <footerBackgroundColour hex="#FFFFFF"/>
+      <footerForegroundColour hex="#000000"/>
+      <noteMarkerRulerBackgroundColour hex="#FFFFFF"/>
+      <noteMarkerRulerForegroundColour hex="#000000"/>
+      <thinStringColour hex="#000000"/>
+      <thinBoldStringColour hex="#202020"/>
+      <thickOutlineStringColour hex="#303030"/>
+      <thickInteriorStringColour hex="#FFFFFF"/>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>false</highlightRoots>
+      <noteMarkerLabels>FINGERING</noteMarkerLabels>
+      <openStringLabels>false</openStringLabels>
+      <upperExtensionSetting>SINGLE_OCTAVE_ONLY</upperExtensionSetting>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersShowOptions>STANDARD</fretNumbersShowOptions>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>true</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColour hex="#000000"/>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor hex="#C0C0C0"/>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <fretwiresWidth>DEFAULT</fretwiresWidth>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <legendBackgroundColour hex="#FFFFFF"/>
+      <legendForegroundColour hex="#000000"/>
+      <leftHanded>false</leftHanded>
+      <flipped>false</flipped>
+      <fretboardStyle reference="../titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle"/>
+      <defaultDotSize units="cm">
+        <width>0.555625</width>
+        <height>0.555625</height>
+      </defaultDotSize>
+      <intervalColoursState>
+        <interval name="UNISON">
+          <state activated="false">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_2ND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="SECOND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FOURTH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FLAT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="PERFECT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+      </intervalColoursState>
+      <defaultFontSizeAdjustment>1</defaultFontSizeAdjustment>
+      <isDefaultUsingFontSizeAdjustment>false</isDefaultUsingFontSizeAdjustment>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </fretboard>
+    <fretboard>
+      <location units="cm">
+        <width>10.00125</width>
+        <height>16.113125</height>
+      </location>
+      <size units="cm">
+        <width>7.858125</width>
+        <height>5.23875</height>
+      </size>
+      <titleElement type="8">
+        <blockElement type="4">
+          <text type="0">
+            <content>Em</content>
+          </text>
+          <inlineElement type="6">
+            <text type="0">
+              <content>7</content>
+            </text>
+            <containerStyle>
+              <parentStyle alignment="1">
+                <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
+                  <parentStyle>
+                    <parentStyle reference="../../../../../../../../../fretboard/titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle/parentStyle"/>
+                  </parentStyle>
+                  <fontColor reference="../../../../../../../../fretboard[2]/titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/fontColor"/>
+                  <fillColor hex="#00FF40"/>
+                  <borderThickness>2</borderThickness>
+                  <isTransparent>true</isTransparent>
+                </parentStyle>
+              </parentStyle>
+              <isSuperscript>true</isSuperscript>
+            </containerStyle>
+          </inlineElement>
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+        </blockElement>
+        <containerStyle reference="../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>HEADER</textType>
+        <hasShadow>false</hasShadow>
+      </titleElement>
+      <footerElement type="8">
+        <blockElement type="4">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle>
+            <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
+              <parentStyle reference="../../../../../titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle"/>
+              <fontColor reference="../../../../../../fretboard[2]/footerElement/blockElement/containerStyle/parentStyle/fontColor"/>
+              <fillColor reference="../../../../../../fretboard[2]/footerElement/blockElement/containerStyle/parentStyle/fillColor"/>
+              <borderThickness>2</borderThickness>
+              <isTransparent>true</isTransparent>
+            </parentStyle>
+          </containerStyle>
+        </blockElement>
+        <containerStyle reference="../blockElement/containerStyle/parentStyle"/>
+        <isAspectRatioEnabled>false</isAspectRatioEnabled>
+        <location units="cm">
+          <width>0</width>
+          <height>0</height>
+        </location>
+        <size units="cm">
+          <width>6.614583334</width>
+          <height>1.984375</height>
+        </size>
+        <shape>RECTANGLE</shape>
+        <textType>FOOTER</textType>
+        <hasShadow>false</hasShadow>
+      </footerElement>
+      <textElement reference="../titleElement"/>
+      <textElement reference="../footerElement"/>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot[2]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot[4]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <fingering>THIRD</fingering>
+        <label>FINGERING</label>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>6</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot[4]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <fingering>SECOND</fingering>
+        <label>FINGERING</label>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot[4]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <fingering>FOURTH</fingering>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>20</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot[4]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <fingering>FIRST</fingering>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>0</fret>
+        </location>
+        <type reference="../../../fretboard[2]/dot[2]/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <isTransparentBackground>false</isTransparentBackground>
+        <sizeKind>DEFAULT_SIZE</sizeKind>
+        <customSize>0</customSize>
+        <fontSizeParameters enabled="false" value="1" kind="COMMON_FRET_SIZE"/>
+        <isOctaveVisible>false</isOctaveVisible>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>6</fretCount>
+      <startingFret>4</startingFret>
+      <specificFretNumberPosition reference="../../fretboard[2]/specificFretNumberPosition"/>
+      <title>Title</title>
+      <titleVisible>true</titleVisible>
+      <titleAlignment>16384</titleAlignment>
+      <footer>Title</footer>
+      <footerVisible>true</footerVisible>
+      <footerAlignment>16384</footerAlignment>
+      <fretNumbersFont name="Verdana" height="7" style="2"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <tuningBackgroundColour reference="../../fretboard[2]/tuningBackgroundColour"/>
+      <tuningForegroundColour reference="../../fretboard[2]/tuningForegroundColour"/>
+      <key>NONE</key>
+      <backgroundStyle>TEXTURE</backgroundStyle>
+      <fretboardTexture>textures/H1584_ST15.jpg</fretboardTexture>
+      <fretboardColor reference="../../fretboard[2]/fretboardColor"/>
+      <fretwireColor reference="../../fretboard[2]/fretwireColor"/>
+      <nutColor reference="../../fretboard[2]/nutColor"/>
+      <noteMarkerColor reference="../../fretboard[2]/noteMarkerColor"/>
+      <noteMarkerTextColor reference="../../fretboard[2]/noteMarkerTextColor"/>
+      <titleBackgroundColour reference="../../fretboard[2]/titleBackgroundColour"/>
+      <titleForegroundColour reference="../../fretboard[2]/titleForegroundColour"/>
+      <footerBackgroundColour reference="../../fretboard[2]/footerBackgroundColour"/>
+      <footerForegroundColour reference="../../fretboard[2]/footerForegroundColour"/>
+      <noteMarkerRulerBackgroundColour reference="../../fretboard[2]/noteMarkerRulerBackgroundColour"/>
+      <noteMarkerRulerForegroundColour reference="../../fretboard[2]/noteMarkerRulerForegroundColour"/>
+      <thinStringColour reference="../../fretboard[2]/thinStringColour"/>
+      <thinBoldStringColour reference="../../fretboard[2]/thinBoldStringColour"/>
+      <thickOutlineStringColour reference="../../fretboard[2]/thickOutlineStringColour"/>
+      <thickInteriorStringColour reference="../../fretboard[2]/thickInteriorStringColour"/>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>false</highlightRoots>
+      <noteMarkerLabels>FINGERING</noteMarkerLabels>
+      <noteMarkerLabelOverrides>
+        <entry>
+          <note>G_sharp</note>
+          <dotLabel>FINGERING</dotLabel>
+        </entry>
+      </noteMarkerLabelOverrides>
+      <openStringLabels>false</openStringLabels>
+      <upperExtensionSetting>SINGLE_OCTAVE_ONLY</upperExtensionSetting>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersShowOptions>STANDARD</fretNumbersShowOptions>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>true</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColour reference="../../../fretboard[2]/border/borderColour"/>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor reference="../../fretboard[2]/fretMarkerDotColor"/>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <fretwiresWidth>DEFAULT</fretwiresWidth>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <legendBackgroundColour reference="../../fretboard[2]/legendBackgroundColour"/>
+      <legendForegroundColour reference="../../fretboard[2]/legendForegroundColour"/>
+      <leftHanded>false</leftHanded>
+      <fretboardStyle reference="../titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle"/>
+      <defaultDotSize units="cm">
+        <width>0.5291666666</width>
+        <height>0.5291666666</height>
+      </defaultDotSize>
+      <intervalColoursState>
+        <interval name="UNISON">
+          <state activated="false">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_2ND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="SECOND">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_3RD">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FOURTH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="FLAT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="PERFECT_5TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_6TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MINOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+        <interval name="MAJOR_7TH">
+          <state activated="true">
+            <colour hex="#000000"/>
+          </state>
+        </interval>
+      </intervalColoursState>
+      <defaultFontSizeAdjustment>1</defaultFontSizeAdjustment>
+      <isDefaultUsingFontSizeAdjustment>false</isDefaultUsingFontSizeAdjustment>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+    </fretboard>
+    <textElement type="8">
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle alignment="1" valignment="8" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
+                <parentStyle reference="../../../../../../../fretboard/titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle/parentStyle"/>
+                <fontColor hex="#000000"/>
+                <borderColor hex="#000000"/>
+                <fillColor hex="#FFFFC4"/>
+                <highlightColor hex="#FFFFFF"/>
+                <borderThickness>3</borderThickness>
+                <borderShow>true</borderShow>
+                <isTransparent>false</isTransparent>
+              </parentStyle>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <inlineElement type="6">
+          <text type="0">
+            <content>The </content>
+          </text>
+          <inlineElement type="6">
+            <text type="0">
+              <content>Mixolydian</content>
+            </text>
+            <containerStyle bold="false">
+              <parentStyle fontHeight="13">
+                <parentStyle reference="../../../../../inlineElement/containerStyle/parentStyle"/>
+              </parentStyle>
+            </containerStyle>
+          </inlineElement>
+          <text type="0">
+            <content> scale is the fifth mode of the Major scale</content>
+          </text>
+          <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <inlineElement type="6">
+          <text type="0">
+            <content>"A Mixolydian" is the same as "D Major"</content>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle reference="../../../inlineElement/containerStyle/parentStyle"/>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle bold="false" fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content>"A Mixolydian" is one note different to "A Major" - the flat 7</content>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content>"A Mixolydian" is very similar to "F# Minor Pentatonic"</content>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle reference="../../../inlineElement/containerStyle/parentStyle"/>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle reference="../../../inlineElement/containerStyle/parentStyle"/>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle reference="../../../inlineElement/containerStyle/parentStyle"/>
+          </containerStyle>
+        </inlineElement>
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="13">
+            <parentStyle reference="../../../inlineElement/containerStyle/parentStyle"/>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <containerStyle reference="../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+      <location units="cm">
+        <width>2.645833334</width>
+        <height>10.05416667</height>
+      </location>
+      <size units="cm">
+        <width>15.45166667</width>
+        <height>5.529791666</height>
+      </size>
+      <shape>ROUNDED_RECTANGLE</shape>
+      <textType>TEXT</textType>
+      <hasShadow>true</hasShadow>
+    </textElement>
+    <textElement type="8">
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content>Marcus Wynwood</content>
+          </text>
+          <containerStyle bold="true" fontHeight="8">
+            <parentStyle alignment="4">
+              <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
+                <parentStyle reference="../../../../../../../fretboard/titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle/parentStyle"/>
+                <fontColor hex="#000000"/>
+                <borderColor hex="#000000"/>
+                <fillColor hex="#C0C0C0"/>
+                <highlightColor hex="#FFFFFF"/>
+                <borderThickness>2</borderThickness>
+                <borderShow>false</borderShow>
+                <isTransparent>true</isTransparent>
+              </parentStyle>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content>www.MarcusGuitar.com</content>
+          </text>
+          <containerStyle fontHeight="8">
+            <parentStyle alignment="4">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <containerStyle reference="../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+      <location units="cm">
+        <width>14.15520833</width>
+        <height>26.9875</height>
+      </location>
+      <size units="cm">
+        <width>4.550833334</width>
+        <height>0.8466666666</height>
+      </size>
+      <shape>RECTANGLE</shape>
+      <textType>TEXT</textType>
+      <hasShadow>true</hasShadow>
+    </textElement>
+    <textElement type="8">
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="11">
+            <parentStyle alignment="2">
+              <parentStyle alignment="1" bold="false" fontFamily="Verdana" fontHeight="14" italic="false" underline="false" strikethrough="false">
+                <parentStyle reference="../../../../../../../fretboard/titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle/parentStyle"/>
+                <fontColor hex="#000000"/>
+                <borderColor hex="#000000"/>
+                <fillColor hex="#FFFFC4"/>
+                <highlightColor hex="#FFFFFF"/>
+                <borderThickness>3</borderThickness>
+                <borderShow>true</borderShow>
+                <isTransparent>false</isTransparent>
+              </parentStyle>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="11">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content>Try playing the "A Mixolydian" mode over this chord pattern.</content>
+          </text>
+          <containerStyle fontHeight="11">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="11">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content>|: A</content>
+          </text>
+          <inlineElement type="6">
+            <text type="0">
+              <content>7</content>
+            </text>
+            <containerStyle>
+              <parentStyle fontHeight="19">
+                <parentStyle alignment="2">
+                  <parentStyle reference="../../../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+                </parentStyle>
+              </parentStyle>
+              <isSuperscript>true</isSuperscript>
+            </containerStyle>
+          </inlineElement>
+          <text type="0">
+            <content>  /  /  /  |  Em</content>
+          </text>
+          <inlineElement type="6">
+            <text type="0">
+              <content>7</content>
+            </text>
+            <containerStyle>
+              <parentStyle reference="../../../inlineElement/containerStyle/parentStyle"/>
+              <isSuperscript>true</isSuperscript>
+            </containerStyle>
+          </inlineElement>
+          <text type="0">
+            <content>  /  /  /  :|</content>
+          </text>
+          <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="11">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content>Make it bluesy and funky, and think of </content>
+          </text>
+          <containerStyle fontHeight="11">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <blockElement type="4">
+        <inlineElement type="6">
+          <text type="0">
+            <content/>
+          </text>
+          <containerStyle fontHeight="11">
+            <parentStyle alignment="2">
+              <parentStyle reference="../../../../../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+            </parentStyle>
+          </containerStyle>
+        </inlineElement>
+        <inlineElement type="6">
+          <text type="0">
+            <content>bands </content>
+          </text>
+          <containerStyle fontHeight="11">
+            <parentStyle reference="../../../inlineElement/containerStyle/parentStyle"/>
+          </containerStyle>
+        </inlineElement>
+        <inlineElement type="6">
+          <text type="0">
+            <content>like Kula Shaker or Led Zeppelin.</content>
+          </text>
+          <containerStyle fontHeight="11">
+            <parentStyle reference="../../../inlineElement/containerStyle/parentStyle"/>
+          </containerStyle>
+        </inlineElement>
+        <containerStyle reference="../inlineElement/containerStyle/parentStyle"/>
+      </blockElement>
+      <containerStyle reference="../blockElement/inlineElement/containerStyle/parentStyle/parentStyle"/>
+      <isAspectRatioEnabled>false</isAspectRatioEnabled>
+      <location units="cm">
+        <width>2.778125</width>
+        <height>21.351875</height>
+      </location>
+      <size units="cm">
+        <width>15.24</width>
+        <height>5.847291666</height>
+      </size>
+      <shape>CLOUD</shape>
+      <textType>TEXT</textType>
+      <hasShadow>true</hasShadow>
+    </textElement>
+    <connections/>
+    <backgroundColor hex="#FFFFFF"/>
+    <pageStyle reference="../fretboard/titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle/parentStyle"/>
+    <pageSize units="CENTIMETRES">
+      <width>21.0</width>
+      <height>29.7</height>
+    </pageSize>
+  </page>
+  <leftRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>false</horizontal>
+  </leftRuler>
+  <topRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>true</horizontal>
+  </topRuler>
+  <rulersVisibility>true</rulersVisibility>
+  <snapToGeometry>true</snapToGeometry>
+  <gridEnabled>false</gridEnabled>
+  <zoom>1.0</zoom>
+  <documentStyle reference="../page/fretboard/titleElement/blockElement/inlineElement/containerStyle/parentStyle/parentStyle/parentStyle/parentStyle/parentStyle"/>
+</document>
