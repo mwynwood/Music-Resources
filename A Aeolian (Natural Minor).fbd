@@ -1,0 +1,2756 @@
+<document version="1.7">
+  <location units="cm">
+    <width>0</width>
+    <height>0</height>
+  </location>
+  <instrumentsUsed>
+    <tuning>
+      <name>Standard</name>
+      <id>100</id>
+      <instrument>
+        <name>Six String</name>
+        <id>3</id>
+        <stringCount>6</stringCount>
+        <category>
+          <name>Guitar</name>
+          <id>1</id>
+        </category>
+      </instrument>
+      <stringsHighToLow>
+        <instrumentString>
+          <note>E</note>
+        </instrumentString>
+        <instrumentString>
+          <note>B</note>
+        </instrumentString>
+        <instrumentString>
+          <note>G</note>
+        </instrumentString>
+        <instrumentString>
+          <note>D</note>
+        </instrumentString>
+        <instrumentString>
+          <note>A</note>
+        </instrumentString>
+        <instrumentString>
+          <note>E</note>
+        </instrumentString>
+      </stringsHighToLow>
+    </tuning>
+  </instrumentsUsed>
+  <page>
+    <location units="cm">
+      <width>0</width>
+      <height>0</height>
+    </location>
+    <size units="cm">
+      <width>20.955</width>
+      <height>29.68625</height>
+    </size>
+    <fretboard>
+      <location units="cm">
+        <width>1.984375</width>
+        <height>5.688541666</height>
+      </location>
+      <size units="cm">
+        <width>15.954375</width>
+        <height>3.96875</height>
+      </size>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>4</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>6</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>9</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>true</isOutlined>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>17</fretCount>
+      <startingFret>1</startingFret>
+      <title>A Aeolian Position 1  (E Shape)</title>
+      <titleVisible>true</titleVisible>
+      <titleAlignment>16384</titleAlignment>
+      <titleFont name="Verdana" height="14" style="0"/>
+      <fretNumbersFont name="Verdana" height="14" style="0"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningUsingTitleFontAndColors>true</tuningUsingTitleFontAndColors>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <rootNote>A</rootNote>
+      <fretboardColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>150</blue>
+      </fretboardColor>
+      <fretwireColor>
+        <red>128</red>
+        <green>128</green>
+        <blue>128</blue>
+      </fretwireColor>
+      <nutColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </nutColor>
+      <rootHighlightColor>
+        <red>255</red>
+        <green>0</green>
+        <blue>0</blue>
+      </rootHighlightColor>
+      <noteMarkerColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </noteMarkerColor>
+      <noteMarkerTextColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </noteMarkerTextColor>
+      <thinStringColour>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </thinStringColour>
+      <thinBoldStringColour>
+        <red>32</red>
+        <green>32</green>
+        <blue>32</blue>
+      </thinBoldStringColour>
+      <thickOutlineStringColour>
+        <red>48</red>
+        <green>48</green>
+        <blue>48</blue>
+      </thickOutlineStringColour>
+      <thickInteriorStringColour>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </thickInteriorStringColour>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>true</highlightRoots>
+      <noteMarkerLabels>INTERVAL</noteMarkerLabels>
+      <openStringLabels>false</openStringLabels>
+      <showFretNumbers>false</showFretNumbers>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersUsingTitleFontAndColors>true</fretNumbersUsingTitleFontAndColors>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>false</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColourFollows>FOREGROUND</borderColourFollows>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor>
+        <red>192</red>
+        <green>192</green>
+        <blue>192</blue>
+      </fretMarkerDotColor>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <muteAndOpenStringMarkerSizeAdjustment>DEFAULT</muteAndOpenStringMarkerSizeAdjustment>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendUsingTitleFontAndColors>true</legendUsingTitleFontAndColors>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <leftHanded>false</leftHanded>
+    </fretboard>
+    <fretboard>
+      <location units="cm">
+        <width>1.984375</width>
+        <height>10.239375</height>
+      </location>
+      <size units="cm">
+        <width>15.954375</width>
+        <height>3.96875</height>
+      </size>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>9</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>9</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>8</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>7</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>17</fretCount>
+      <startingFret>1</startingFret>
+      <title>A Aeolian Position 2  (D Shape)</title>
+      <titleVisible>true</titleVisible>
+      <titleAlignment>16384</titleAlignment>
+      <titleFont name="Verdana" height="14" style="0"/>
+      <fretNumbersFont name="Verdana" height="14" style="0"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningUsingTitleFontAndColors>true</tuningUsingTitleFontAndColors>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <rootNote>A</rootNote>
+      <fretboardColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>150</blue>
+      </fretboardColor>
+      <fretwireColor>
+        <red>128</red>
+        <green>128</green>
+        <blue>128</blue>
+      </fretwireColor>
+      <nutColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </nutColor>
+      <rootHighlightColor>
+        <red>255</red>
+        <green>0</green>
+        <blue>0</blue>
+      </rootHighlightColor>
+      <noteMarkerColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </noteMarkerColor>
+      <noteMarkerTextColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </noteMarkerTextColor>
+      <thinStringColour>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </thinStringColour>
+      <thinBoldStringColour>
+        <red>32</red>
+        <green>32</green>
+        <blue>32</blue>
+      </thinBoldStringColour>
+      <thickOutlineStringColour>
+        <red>48</red>
+        <green>48</green>
+        <blue>48</blue>
+      </thickOutlineStringColour>
+      <thickInteriorStringColour>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </thickInteriorStringColour>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>true</highlightRoots>
+      <openStringLabels>false</openStringLabels>
+      <showFretNumbers>false</showFretNumbers>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersUsingTitleFontAndColors>true</fretNumbersUsingTitleFontAndColors>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>false</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColourFollows>FOREGROUND</borderColourFollows>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor>
+        <red>192</red>
+        <green>192</green>
+        <blue>192</blue>
+      </fretMarkerDotColor>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <muteAndOpenStringMarkerSizeAdjustment>DEFAULT</muteAndOpenStringMarkerSizeAdjustment>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendUsingTitleFontAndColors>true</legendUsingTitleFontAndColors>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <leftHanded>false</leftHanded>
+    </fretboard>
+    <fretboard>
+      <location units="cm">
+        <width>1.984375</width>
+        <height>14.76375</height>
+      </location>
+      <size units="cm">
+        <width>15.954375</width>
+        <height>3.96875</height>
+      </size>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>9</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>9</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>10</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>17</fretCount>
+      <startingFret>1</startingFret>
+      <title>A Aeolian Position 3  (C Shape)</title>
+      <titleVisible>true</titleVisible>
+      <titleAlignment>16384</titleAlignment>
+      <titleFont name="Verdana" height="14" style="0"/>
+      <fretNumbersFont name="Verdana" height="14" style="0"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningUsingTitleFontAndColors>true</tuningUsingTitleFontAndColors>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <rootNote>A</rootNote>
+      <fretboardColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>150</blue>
+      </fretboardColor>
+      <fretwireColor>
+        <red>128</red>
+        <green>128</green>
+        <blue>128</blue>
+      </fretwireColor>
+      <nutColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </nutColor>
+      <rootHighlightColor>
+        <red>255</red>
+        <green>0</green>
+        <blue>0</blue>
+      </rootHighlightColor>
+      <noteMarkerColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </noteMarkerColor>
+      <noteMarkerTextColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </noteMarkerTextColor>
+      <thinStringColour>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </thinStringColour>
+      <thinBoldStringColour>
+        <red>32</red>
+        <green>32</green>
+        <blue>32</blue>
+      </thinBoldStringColour>
+      <thickOutlineStringColour>
+        <red>48</red>
+        <green>48</green>
+        <blue>48</blue>
+      </thickOutlineStringColour>
+      <thickInteriorStringColour>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </thickInteriorStringColour>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>true</highlightRoots>
+      <openStringLabels>false</openStringLabels>
+      <showFretNumbers>false</showFretNumbers>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersUsingTitleFontAndColors>true</fretNumbersUsingTitleFontAndColors>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>false</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColourFollows>FOREGROUND</borderColourFollows>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor>
+        <red>192</red>
+        <green>192</green>
+        <blue>192</blue>
+      </fretMarkerDotColor>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <muteAndOpenStringMarkerSizeAdjustment>DEFAULT</muteAndOpenStringMarkerSizeAdjustment>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendUsingTitleFontAndColors>true</legendUsingTitleFontAndColors>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <leftHanded>false</leftHanded>
+    </fretboard>
+    <fretboard>
+      <location units="cm">
+        <width>1.984375</width>
+        <height>19.02354167</height>
+      </location>
+      <size units="cm">
+        <width>15.954375</width>
+        <height>3.96875</height>
+      </size>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>14</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>15</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>14</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>15</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>14</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>15</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>15</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>15</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>13</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>12</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>17</fretCount>
+      <startingFret>1</startingFret>
+      <title>A Aeolian Position 4  (A Shape)</title>
+      <titleVisible>true</titleVisible>
+      <titleAlignment>16384</titleAlignment>
+      <titleFont name="Verdana" height="14" style="0"/>
+      <fretNumbersFont name="Verdana" height="14" style="0"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningUsingTitleFontAndColors>true</tuningUsingTitleFontAndColors>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <rootNote>A</rootNote>
+      <fretboardColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>150</blue>
+      </fretboardColor>
+      <fretwireColor>
+        <red>128</red>
+        <green>128</green>
+        <blue>128</blue>
+      </fretwireColor>
+      <nutColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </nutColor>
+      <rootHighlightColor>
+        <red>255</red>
+        <green>0</green>
+        <blue>0</blue>
+      </rootHighlightColor>
+      <noteMarkerColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </noteMarkerColor>
+      <noteMarkerTextColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </noteMarkerTextColor>
+      <thinStringColour>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </thinStringColour>
+      <thinBoldStringColour>
+        <red>32</red>
+        <green>32</green>
+        <blue>32</blue>
+      </thinBoldStringColour>
+      <thickOutlineStringColour>
+        <red>48</red>
+        <green>48</green>
+        <blue>48</blue>
+      </thickOutlineStringColour>
+      <thickInteriorStringColour>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </thickInteriorStringColour>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>true</highlightRoots>
+      <openStringLabels>false</openStringLabels>
+      <showFretNumbers>false</showFretNumbers>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersUsingTitleFontAndColors>true</fretNumbersUsingTitleFontAndColors>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>false</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColourFollows>FOREGROUND</borderColourFollows>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor>
+        <red>192</red>
+        <green>192</green>
+        <blue>192</blue>
+      </fretMarkerDotColor>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <muteAndOpenStringMarkerSizeAdjustment>DEFAULT</muteAndOpenStringMarkerSizeAdjustment>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendUsingTitleFontAndColors>true</legendUsingTitleFontAndColors>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <leftHanded>false</leftHanded>
+    </fretboard>
+    <fretboard>
+      <location units="cm">
+        <width>1.984375</width>
+        <height>23.30979167</height>
+      </location>
+      <size units="cm">
+        <width>15.954375</width>
+        <height>3.96875</height>
+      </size>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type>
+          <shape>CIRCLE</shape>
+          <isHollow>false</isHollow>
+        </type>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>5</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>4</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>2</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>4</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>3</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>2</stringNumber>
+          <fret>6</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>1</stringNumber>
+          <fret>5</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <dot>
+        <location>
+          <stringNumber>6</stringNumber>
+          <fret>3</fret>
+        </location>
+        <type reference="../../dot/type"/>
+        <backgroundStyle>DEFAULT</backgroundStyle>
+        <isOutlined>false</isOutlined>
+        <sizeAdjustment>DEFAULT</sizeAdjustment>
+      </dot>
+      <tuning reference="../../../instrumentsUsed/tuning"/>
+      <fretCount>17</fretCount>
+      <startingFret>1</startingFret>
+      <title>A Aeolian Position 5  (G Shape)</title>
+      <titleVisible>true</titleVisible>
+      <titleAlignment>16384</titleAlignment>
+      <titleFont name="Verdana" height="14" style="0"/>
+      <fretNumbersFont name="Verdana" height="14" style="0"/>
+      <tuningVisible>false</tuningVisible>
+      <tuningUsingTitleFontAndColors>true</tuningUsingTitleFontAndColors>
+      <tuningFont name="Verdana" height="14" style="0"/>
+      <rootNote>A</rootNote>
+      <fretboardColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>150</blue>
+      </fretboardColor>
+      <fretwireColor>
+        <red>128</red>
+        <green>128</green>
+        <blue>128</blue>
+      </fretwireColor>
+      <nutColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </nutColor>
+      <rootHighlightColor>
+        <red>255</red>
+        <green>0</green>
+        <blue>0</blue>
+      </rootHighlightColor>
+      <noteMarkerColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </noteMarkerColor>
+      <noteMarkerTextColor>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </noteMarkerTextColor>
+      <thinStringColour>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+      </thinStringColour>
+      <thinBoldStringColour>
+        <red>32</red>
+        <green>32</green>
+        <blue>32</blue>
+      </thinBoldStringColour>
+      <thickOutlineStringColour>
+        <red>48</red>
+        <green>48</green>
+        <blue>48</blue>
+      </thickOutlineStringColour>
+      <thickInteriorStringColour>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </thickInteriorStringColour>
+      <orientation>HORIZONTAL</orientation>
+      <highlightRoots>true</highlightRoots>
+      <openStringLabels>false</openStringLabels>
+      <showFretNumbers>false</showFretNumbers>
+      <fretNumberPositioning>CENTERED</fretNumberPositioning>
+      <fretNumbersUsingTitleFontAndColors>true</fretNumbersUsingTitleFontAndColors>
+      <romanNumeralFretNumbers>false</romanNumeralFretNumbers>
+      <showFrByFretNumbers>false</showFrByFretNumbers>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColourFollows>FOREGROUND</borderColourFollows>
+      </border>
+      <showFretDotMarkers>true</showFretDotMarkers>
+      <ovalFretDotMarkers>false</ovalFretDotMarkers>
+      <outlineFretDotMarkers>false</outlineFretDotMarkers>
+      <fretMarkerDotColor>
+        <red>192</red>
+        <green>192</green>
+        <blue>192</blue>
+      </fretMarkerDotColor>
+      <placeNoteMarkersByFretWires>false</placeNoteMarkersByFretWires>
+      <muteAndOpenStringAreaVisible>true</muteAndOpenStringAreaVisible>
+      <fillMuteAndOpenStringArea>false</fillMuteAndOpenStringArea>
+      <muteAndOpenStringMarkerSizeAdjustment>DEFAULT</muteAndOpenStringMarkerSizeAdjustment>
+      <showingEdges>false</showingEdges>
+      <roundedFretwires>false</roundedFretwires>
+      <legendLabels>NONE</legendLabels>
+      <legendLabels2>NONE</legendLabels2>
+      <legendUsingTitleFontAndColors>true</legendUsingTitleFontAndColors>
+      <legendFont name="Verdana" height="14" style="0"/>
+      <leftHanded>false</leftHanded>
+    </fretboard>
+    <textElement>
+      <location units="cm">
+        <width>1.825625</width>
+        <height>0.9525</height>
+      </location>
+      <size units="cm">
+        <width>17.27729167</width>
+        <height>1.349375</height>
+      </size>
+      <text>A Aeolian (Natural Minor).</text>
+      <font name="Verdana" height="28" style="0"/>
+      <margin>0</margin>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColourFollows>FOREGROUND</borderColourFollows>
+      </border>
+      <transparent>true</transparent>
+      <textAlignment>16777216</textAlignment>
+    </textElement>
+    <imageElement>
+      <location units="cm">
+        <width>14.366875</width>
+        <height>1.984375</height>
+      </location>
+      <size units="cm">
+        <width>3.915833334</width>
+        <height>3.96875</height>
+      </size>
+      <imageData>LzlqLzRBQVFTa1pKUmdBQkFRQUFBUUFCQUFELzJ3QkRBQWdHQlFnTUZCb2ZCZ1lIQ2cwZEhod0hC
+d2dNRkIwakhBY0pDdzhhTENnZg0KQ1FzVEhDSTNOQ2NNRWh3Z0tUUTVMaGtnSnl3MFBUd3pKQzR3
+TVRneU5ETC8yd0JEQVFrSkRCZ3lNakl5Q1FzTklUSXlNaklNRFJ3eQ0KTWpJeU1oZ2hNakl5TWpJ
+eU1qSXlNakl5TWpJeU1qSXlNakl5TWpJeU1qSXlNakl5TWpJeU1qSXlNakwvd0FBUkNBTWNBeHdE
+QVNJQQ0KQWhFQkF4RUIvOFFBSHdBQUFRVUJBUUVCQVFFQUFBQUFBQUFBQUFFQ0F3UUZCZ2NJQ1Fv
+TC84UUFId0VBQXdFQkFRRUJBUUVCQVFBQQ0KQUFBQUFBRUNBd1FGQmdjSUNRb0wvOFFBdFJBQUFn
+RURBd0lFQXdVRkJBUUFBQUY5QVFJREFBUVJCUkloTVVFR0UxRmhCeUp4RkRLQg0Ka2FFSUkwS3h3
+UlZTMGZBa00ySnlnZ2tLRmhjWUdSb2xKaWNvS1NvME5UWTNPRGs2UTBSRlJrZElTVXBUVkZWV1Yx
+aFpXbU5rWldabg0KYUdscWMzUjFkbmQ0ZVhxRGhJV0doNGlKaXBLVGxKV1dsNWlabXFLanBLV21w
+NmlwcXJLenRMVzJ0N2k1dXNMRHhNWEd4OGpKeXRMVA0KMU5YVzE5aloydUhpNCtUbDV1Zm82ZXJ4
+OHZQMDlmYjMrUG42LzhRQXRSRUFBZ0VDQkFRREJBY0ZCQVFBQVFKM0FBRUNBeEVFQlNFeA0KQmhK
+QlVRZGhjUk1pTW9FSUZFS1JvYkhCQ1NNelV2QVZZbkxSQ2hZa05PRWw4UmNZR1JvbUp5Z3BLalUy
+TnpnNU9rTkVSVVpIU0VsSw0KVTFSVlZsZFlXVnBqWkdWbVoyaHBhbk4wZFhaM2VIbDZnb09FaFlh
+SGlJbUtrcE9VbFphWG1KbWFvcU9rcGFhbnFLbXFzck8wdGJhMw0KdUxtNndzUEV4Y2JIeU1uSzB0
+UFUxZGJYMk5uYTR1UGs1ZWJuNk9ucTh2UDA5ZmIzK1BuNi85b0FEQU1CQUFJUkF4RUFQd0QzK2lp
+aQ0KZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29v
+QUtLS0tBQ2lpaWdBb29vb0FLS0tLQQ0KQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FD
+aWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BSw0KS0tLQUNpaWlnQW9v
+b29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FD
+aWlpZ0Fvbw0Kb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9v
+b29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaQ0KZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tL
+QUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQQ0KQ2lpaWdB
+b29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tL
+QUNpaWlnQW9vb29BSw0KS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdB
+b29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvbw0Kb29BS0tLS0FDaWlpZ0Fvb29vQUtL
+S0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaQ0K
+Z0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtL
+S0tBQ2lpaWdBb29vb0FLS0tLQQ0KQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlp
+Z0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BSw0KS0tLQUNpaWlnQW9vb29B
+S0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlp
+Z0Fvbw0Kb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29B
+S0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaQ0KZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNp
+aWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQQ0KQ2lpaWdBb29v
+b0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNp
+aWlnQW9vb29BSw0KS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29v
+b0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvbw0Kb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tB
+Q2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaQ0KZ0Fv
+b29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tB
+Q2lpaWdBb29vb0FLS0tLQQ0KQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fv
+b29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BSw0KS0tLQUNpaWlnQW9vb29BS0tL
+S0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fv
+bw0Kb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tL
+S0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaQ0KZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWln
+QW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQQ0KQ2lpaWdBb29vb0FL
+S0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWln
+QW9vb29BSw0KS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FL
+S0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvbw0Kb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lp
+aWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaQ0KZ0Fvb29v
+QUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lp
+aWdBb29vb0FLS0tLQQ0KQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29v
+QUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BSw0KS0tLQUNpaWlnQW9vb29BS0tLS0FD
+aWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvbw0K
+b29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FD
+aWlpZ0Fvb29vQUtLS0tBQ2lpaQ0KZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9v
+b29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQQ0KQ2lpaWdBb29vb0FLS0tL
+QUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBRW8vQ3NQeFA0MzBmUjQ5K3UzOGNJNlFR
+amw3cA0KaDJnaUhYK1E3a1Y0SjRsL2FNMS9VV0tlRUxOdFBpKzZKZ0Ewc3ErcGJvdWZZRWorOVM5
+UVM3SitSOURhdjRtMHZUMTNhMXF0bFpwMQ0KVXpPQVpNZjg4MFBYOEFhOHkxejlxSHc3YjVHaldW
+L3FUZEZrQTJJMlBSM3lmL0lkZUlwNFB2N3BpK3Y2bE04aCthVm5ZczhoL3dCdQ0KVmovVTF1Mkho
+Q3dqeDVGaUptL3ZTYzV4L3Nuamo2VmhLdEhvMnp0cDRTYitKSkd4ZS90TitLYmtrYUxvdW5XNC9o
+d2pPeS84Q0pBLw0KOGNySmwrS3Z4S242YXBjeERzaVF4THQvRW9EK3RieWFPRUgra1RRd0RzZzZn
+ZXlpa0tXQy93RExTNWtQK3lBQit0Wk91K2tVZE1jRQ0KdnRUa3puQjQvd0RpU3ZUVzc4K3g4cy9w
+aXJsdDhjUGlKYmY4ZmNpM1MrazF1dU1EMWVFTC9PdGhyZUEvY0czMExTRDlRQWFxeVFsZg0KNDQy
+SFlxUWYwcGUzZldLSytwUit6T1JvYWIrMWJxS0hHdWVHTFNUczdXenNoVDZSdnY4QTVpdTYwWDlw
+THdsZFlGNVBlNmMvVEZ5bg0KeWxqL0FIWllpMzY3YTh0bXRZWkIvcEVFVWc5SEFQNkdzbTY4R2Fi
+TDkyQm9UL2VqUC9zcHovS3JqaUY5cE14bmdaZlltbWZWZW02Mw0KcDk0dTdTZFJzN3VQb1pZSERB
+RS8zaXBOWGErTTA4TGFyWlB2OFBhclBISVB1UEV4UmxIc3luK29yc3ZEL3dDMFo0bDA1Z3ZpdXlH
+bw0KUjlDN0RaSWlqKzdJb3djZTY1UHJYUkdhZnd5UnhWS1VsOGNHZlRWRmNsNFIrSzNoN1doalNk
+UUNUOVgwK2Y1WkV4L2RUUE9CL2RMQQ0KZDY2MnJNZ29vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tB
+Q2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQQ0KS0tLS0FDaWlpZ0Fv
+b29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tB
+Q2lpaWdBbw0Kb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fv
+b29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaQ0KaWdCSzg3K0pYeG1zZENYWmFDSzcxQWpNTm5u
+aTBVamhyd2o5QndUN0RtbS9GbjRzSm9jSVhUbVI5UmtCK3hvZWZzVVhReVNwN0hnRA0KdWZZR3Zt
+ZTBlRjJNdXUzb25sWW1kbGtPVExJeDYzSFhyVVNmay9JdW5DK3pYbSt4cUcwMWJXcFRONGx2WjMz
+Y2gyNnVuWVc2ZEFxOQ0KdU1lZ3JwclN3Z2dYRnBBa2ErZ0gzc2YzaldIbzg4OTgrK1YzVzNRNHRv
+dTBzb0hWaC9zRC9QV3VrcmdyU2YybjhqM2NIU2l2Z2o1Sg0KOXdXYTJVLzZYZHhRcjFiSjVJLzJF
+RldUNHQwcU1ZdFRkRWRDOGFjbjhYeDFyT21zdy9RcXY5OGdjdWZjK3dwcTZaRU91OXZyV0tmWg0K
+SFU0OTJ5VjllMHh2K2dvRDNaMUI1OThHbURVN00vNnU3WDZPQ01EM3p4K3RQVzBoSFNGUHgvOEFy
+MUZOZldxY002RTlQTFVaeWZjQw0KajVGSmViTEtzRDkwZ2pxQ080OWpTMVRobm5iaXkwbTVZZGhn
+REdmUWU5V0JCcW5mUlgrbThmeXhTdDVCZjBKS0toYVdkUDhBajYwNg0KN2lIZGl1UVB4V3BrZFRn
+Z0JoMUFQY0dnTDlncUtlMWlsR0xpRkpGN3F3NysxV2dzVGRHTWJkaTNJSjl5T242MURLR2pJKzBJ
+VXovcQ0KMzdTRC9ZY1UvUVR0OXBISzZoNEd3ZDJqVHRFNCtkSWlUOHJEL25sSjdmNU5kajROL2FG
+MWpUR0VmalNHNXZvQjhndVQvcmJWZmR6OQ0KNGZVNTl6MHBrVVFicElxbnNHL2kralZWMVBSSXBo
+dDFDMi8zRzdwbnZHMytSWFRUclA3WjUrSXdhZjhBQ3Nudlkra2REOFNhYnFVUQ0KazBTK2h1WVR3
+SkUvNVpzTzBxSGtGZlFnR3RPdmpld3ZkZThPUytaNGZ2WDh2Z1RLUmxaMEIrN2VRLzE3ZGlEWDBi
+OFBmakJwZXZKaA0KQ3RyZkFicnJUWFAzd1A0clZ1NC9VZHgzUGJHUyt5enhxa0d2aml6dTZLS0tv
+a0tLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vbw0Kb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FD
+aWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZw0KQW9v
+b29BS0tLS0FDaWlpZ0Fvb29vQUtLSzVEeHg4VmRHMEZWL3RScHBaMkJlMXNZQUMwaUwzY2tnQVo0
+eVR6MkJ3YUFPdnhRQlhuWA0KZ2I0NTZQcmNwalMydWJHNXdaTGUzbUlJdTFVYytUSU82am5HQngw
+enpqMFdnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaQ0KZ0Fvb29vQUtLS0tBQ2lpaWdB
+b29vb0FLS0tLQUNpaWlnQW9vb29BS2l1SnhHck02U01GQmxaVUdTd1FkSTBIVWtWTFJRQjh1ei9D
+TA0KeHo0aXVIbjFheWpzQklmT1JyMThmWm9NOEpIYnFDdzhwZUJsUm51YTVUeDc4UFk5RW5TR1BW
+ZnQ5d1ZGeGQ3RTJpM2VWamhVRzQ4aw0KRFBiZ2ppdnByNGsvRXEzMEMyM0ZZNWJ0OHc2VGFNZUpa
+UU9XbEEvaGd5Q2ZYZ1pHYzE4cjZaZjNWL2RtWFY3bVM0bEpOOWRUdjFrZA0KUnhnRCs2Y0FBWUE2
+REFxWlAvTXVsRzdTWG9kYmFXNjJzYXBCZ3RqYm4xYzlTZnFhdnF1QnljK3JIdWZlc3RMc2drc3VX
+NklQN29QKw0KQXFyZDZ0R1ArUHE2alh2c3ovSkJYbGErZmMrblZsMVM2STJKTCtKZWpiajZML2pW
+UmRXYVJ0dHZzRDQzc281S0tQN3hybjB2Sjd4cw0KYWUza3hEaWU4YnNQK21ZOSszZjZWc1c5eFoy
+cTRzMEhySkkzV1Z2VjhldFU0L3pQNUdjS2wvNGEwNnZ2NkYwYWRJLy9BQjkzTHNQKw0KZVM4REgr
+MGYvd0JWVG9sdEY5d1F4OWowL1UxaVBkcy8zak8vb0QwSDBGQ3hKM2hVZXhBNHJNM09nU1ZHKzQ2
+dDdBMDlYWWZkWWo2Vg0Kemh0NHoveXpYMngycVdLNHVJLzlWT3pEL25uSnlNZXhvQTZXUFVMbGZ1
+VHlmUTg0SDBOU0MvZ2svd0NQcTNYUFR6WStvUDhBdENzcQ0KejFNT2Y0b3BPb1hQWEg5eHEyb1h0
+cmppOWdRU2RJNWw0TEgvQUhoLytxcVJuSmRsNmxhYXpBR1lKQkluZGgxVFA5OWFmYmtrWVV4eQ0K
+b2VIdHBQNC85ei9PYWd1TGFlMjVoa2FXSWZJN1krYTNQcE10UkNSVzVUR09veC9TbDhob2RkMkR3
+RGRiQjNnNlNSTjk2MFArMVY3VA0KN256RnhJb21pN2dkWUI2cVBhbldPcVk0dXNNaCtUZWY0UWY3
+M3RXZGUyeldVZ051eEVUZlBFdy81Wm42KzM2aW42Zk1uMTlZbHUrMA0Kd0lNb1JKRWVEbnNHL3ZE
+L0FHaFhENm40WnVMWnhMNGVsbWhrVStlaXhFaHJlUmU5dXc5SzlBUy9WaHdxbmplWWowUHFNZjdR
+NUZacw0KNkNOc0tTeUg5NWJPZjRsOUc5MHE0VHQ4SHpNcWxKUFNvdjhBQ3owRDRWL0hTTFZNUStJ
+M2lnMUQ3bHZQMFhWc2YzUjJiMjZIK0gwSA0KcmRmSVd2ZUVCTis4MGRUSGNEOTdKYnAveThiZTl2
+aitKZlR2MjVyMXo0UC9BQnBPb2dXL2lPWUxmS050bmROL3pGWTBIUi85dEIvMw0KME9ldWE5Q25O
+UGI1bmhWNlRUOTVlaDdGUlJSV2hpRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZG
+QUJSUlJRQVVVVQ0KVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFB
+VVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJYaw0Kbml2OW9XS3l1SGgwRHc5UHF6eDUvdEta
+SElFQmo2aEFxTi9xandTY0FIaWtCNjNYZ254U1NPeDF1em0xU0tPUzBaVnRpMG95c0VrVA0Kc0NT
+RC93QSsrOVdyMFh3UDhZZEQxd1lzNVd0YnNmTkpwczVBWWdEcmJzT0dBOXVSM0FwUGlwNEQvdHF5
+ZGJhTUc2VC9BRS9Tei9lbQ0KakJ5dWYrbTZaSHBuQlBTazEva05QL000TDR1K0U1Z3FYZWhCb3Iy
+QXJMY1NSOVpJRWJoaVBXM2JINFp6d0JYcW5ncnhmQnJGcEhOYg0KN1ZMRFpkd2ovbDJ1azRaZitB
+dDA5UmcxNTU4THZGOGVyV1pqMVJROXhFUDdOMUdHVC9sNXR5cEFNZ1A5OVFRZmNIUFVWejNoRFZa
+UA0KQ09wTmI2cEt3MHVjaVhUN2x6eGJ5TWNLek4vcy9kYnAyUFRGWlVuMGw4amV0SHJINW4wSlJV
+Wm5UUEJCUG9LcWF6clZ0WXd5UzM3Nw0KWW8xTjFNUjFLb09pajFjOEN0em5LMnZlTU5HMHRRMnY2
+dGEyaW5pSU9lWmlQK2VVUzVKMit3NHFUUS9GR2xha20vUXRUdHJ1TFBsdQ0KOFovMVQra3FIa0hI
+cUJYZzNoRHdyTDRvbmt1L0dheVNXNVl3YVpZYmlGS29laWtZK1czNmNmZU9TZStkRDRHMmFQcUY2
+K2lJME9tZw0KZlk3ZUhKSWtaNXNvUVQvZGpWdnBtb1V1M3pLY08veVBmYUtLS3NrS0tLS0FDaWlp
+Z0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQQ0KQ2lpaWdBb29vb0FLS0tLQUNxV3E2eGFXVVR5
+YWxPc01DS2JpNGxQOEtKL2RIcXg0QTZrOERtcnRmUEg3UW54QVozVzAwK1ZncTR2ZA0KWjI1L2VU
+TU1vakQvQUdGSVk5UWNqdUtBUE90YzFyVS9GRjY3dkd3WEJraWhCeU5PMDJESkFVK3ZQdGxqMnpX
+TjRmczlVa1lqUmRPbA0KdUdPSW5aVk9JUVQvQUJ2d0JuSGM0cjJ6NGY4QWdVYWRiLzZYQ1B0TW1K
+cjBFZjZwU09FUCs0RHo3NTlxNnFMVDRvbEF0NEk0a0hFYw0KYURBUWY3S2l1V2RYdEZka2Q5S2hz
+K1pycXp4WWZEYldtVXRyMnMyMWpFQjVrd0J6NVNnZnhxdUJ4L3ZHdUtlenRuYy9aWlpmczRPMA0K
+VHk0QmxBOUZIVGQrT0s5TThUUmF4cjhubCtINGltbklkazErNXdsNU9oT1NHN2lNakF3RHp5ZTJO
+TFJ2Zy9wZHJnNmd6MzBnNkNRWQ0KUkQvc3dqK3BJOXFGSzI3WGt1dzNDNzkxU2ZkdnFlZVdQbnlq
+YnBHbjNWd280Q3hEQ3FUL0FNOUpUNis5YkVIaERYRysrdGhaanZrNw0KbUg1Wkg2MTZsOWtSQUJE
+RWlLT0VSUmdLQi9kQXJOdWt1SFlKcDFoUGRUTUNWalRnUklPOHN4NEFGYzdsMmlqdlVYOXFiOUZv
+ZWV2NA0KVm5MYlk5VzFDOG42aTF0SStSL3ZCU2VuMHErdndqOFhFWnRyUzhRZFZFc3NaejlVTEQr
+VmU2K0h0QXQ3S0pWZ3NZTGR5QTExNVp6NQ0Ka3VPZDh4QUo1OVJXdDlLYWI2Mk1KTmZaVDlicyta
+TC9BRUh4UFlmOGhiUUxsNHh5ODhhNUNBZjNuWElxcGI2cGJ6Y1JUTWovQVBQTg0KdUNDUGF2cWF1
+VDhTZkN2dy9xWUp1dFBXQ2JxdDdiWVZnMyszZ1lQNGcrMktMTHFoeHF5V3p2NU04TURuT0plRys5
+SElPNUg5MCsxYg0KbG5jN3g4emd1UDhBV0FlL2ZIKzFVWGlYNGFhL3BJSkEvdE96SDd3WGtRK2Uw
+VWQ1NGVUOHYxWUFkU0s1MDZ0SEdVa3RwQXk1K3ozSw0KanZFLzk4ZjdCSEZUN045UGtkU3JyLzVK
+SGRHK2JnZ2d0anlwMVBTWlIvZUgrME9LeloxU0ZnWWVJVzVWVC95d2YwSjlxbFIxWVpRZw0KanFE
+N1ZIZHg3bFAvQUgyUHFQOEE2MVpNNkV1eE5WaVErZEN5eWNzbyswVzVQYloxQS9DcUZwTHVVWjYv
+ZFAxSCtJcXpGSVZJSUhzUg0KNnFmOFJRZ2Evd0EwVnJHWWxSZzhqNWMrNC84QXJWTGNzVEdRVGdn
+L2FJRC9BSFdIWEgrOEtxNmQwUDE0K3VLdXJDWDRIb2YwVTBsNQ0KRGEvekV0SmcyQ0cyOXd3LzVa
+c1A4RFhOZU1kQmtoY1RhWHZoa3o1MHdpNE1GMUNmdlJFZE1IQi9XdGZUWndRUmc1R0QrRCtuNVZv
+Ng0KbzRLY2dFalpQZzl5Vndjai9hQkZhVTUyMitaaGlLU2Z4Zkk5YStGUHhPVFhiYi9UR1JiNlBF
+T3BSai9sdUNPSGpYMGx4ejZIMnhYbw0KRmZIV2o2M1A0Y3YwbHM5NXR5Y1R3ci95OFdVaCtaVDdv
+T1I3NE5mWDlyZHd6SXJXc3F5UnNCY1FTTDBraWtVRUZmOEFlQnIwNHZ0Ng0KbnpsU0xUdEplUk5S
+UlJWRWhSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJR
+QVVVVVVBRg0KRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFG
+RkZGQUJYemhvZW9mOElwcVZ4SDRudDNTQ2R2UA0KczlXeHdZZzdFRmo2UHV3M2NIMnI2UHJEOFUr
+Q3RMMWlFeDYzYUNSUHZ3U3J3MW5MajcxdkoySS9JOUNDS21TN2xSZlk4ejhYL0NIVA0KOVN4TjRh
+dVk3Rys0dTdlN2dPRXZYUElMbE9oWThobDU3blBhTHdkOGI3MnlrRnQ4VG9IdFp4aU9EVm1IRXE5
+dnRlT01OL2VIQjc5eg0KV0ROYmVLZkJML3ZWZlZ0RUp3a2cvd0NYWGVmeDJzVDlVYjY5TzRtdGZE
+UGlxMkJCU2RQdXh5cnhMcGN4SFE5Y0VlbktucnlNVmltMQ0KOFczUTNhVCtIZnFjZjQ3c2o0YjFL
+TzgwZFErbjNCMmFuSEYwTHk0TGJTUCtlNEc5ZWVTRDJycy9Hdmc2ejErMEF0NVlUSmo3ZG8xNg0K
+T2daMUdNc1A0WjF4bjg4WkFyeWp4UDRSOFZhUEE4TW0vVjlJWWJvV1VFLzJhNm5JWUx5VjJNT2Vx
+SHAxTmR2OEQ5YnVyaXpaTHRISw0KeFA4QVo3U2Mvd0FVTGpPMEgvcGljL1FFQ2xVdHZCK1E2S2Uw
+MCs2TG53ZitJVHVUYWVLUzhPb3hadDdVekhtOWlpL2hKL3ZRZ2Y4QQ0KQWh6enlhMS9qdmN5cnBo
+VzNEbHBKWXJMeTFITTJXSndvSDk1bEZabnhCK0ZxNnBpWFJwaGFha21IdDdsVGo3VjVmUVN1T2hR
+OUQyNg0KSGpHUFBkVThUZUx0ZGt0clBYTE9XenVZNVB0ZDNlQUVOS0loZ1NNT243aE54QkJ3eFBI
+dnBDYS96TXAwMzJmWkhxTUVENlpwR0VoOA0KbVdPMU1yeG4rQzhGdVNkM3VaU2FoL1o5MHhZdE5M
+WSthU1Y3Z3Qvc3hoVkF6N0ZUWFI2dG95M0Z0SkZFUWdlTnRQaUovd0NXUWtqSQ0KR1Qvc2NWeVA3
+UDJ1azIwdHZkb1k3aUNRdVltNmlHY25qSC9UT1ZXeitGUlFacGlGdDl4N0ZSUlJYUWN3VVVVVUFG
+RkZGQUJSUlJRQQ0KVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUF4NUZVRXlPcXFQbWQy
+NklvSFZpZlFWNHo0dS9hYzArMWNwNFdzQnFUajVIdg0KWFlpUGNQOEFuZ0FNdHovdWowSkZZZnhp
+K0kxN3FOd0xMd3F6dXU0V3VwTkVlYjY2Sis0Ry91d2Z4ZS9YZ2M5VDRJK0YybDZKR0d1MQ0KZ252
+TWJyaS9jZjZoajJzd2VnWDE2bjlCbk9hVy93QWpTblRiMitaeFAvRFNYak9MNXI3d3hwZ2c3bnla
+VkJIK3pNem5yOURYTC9EbQ0KeEdzYWswbXRYRWNrb0xheThSNjNsMno1K1JCMmlKejdZeGpGZTZ6
+ZUtrUzRXTzU4cVMybC9jMnMyRCs1dVIvQk9EMUVvNmZselhrSA0KeE44Tm5RYnlHNDhPeHJCR3g4
+OVlrSHl3WGNXTWhWSDhNNkhwOVIwck5UdjA5RGFWSzJyOVdlMkMyOXFhMXY3VmIwNjlodTRra3R2
+dQ0KT3EzY1FQWkpWQitiNlpxVjRQYXVWcnVkcWtZeHRWVVlqUlZBNFZRUHVnZWc5cXF5dysxYlQy
+NVAzVkpQWVVpYU9EL3JueC9zci9VMA0KaTFMdWNYcStxV3RzQjlwblZHUHlXOFlCSmxjLzNZbDlE
+WFErRnZDcVc0RWx6ZFg4MXl5aDVmT0pBdHc0KzZscURnYmZmSjk2M0l0Tg0KdGtJS1cwZTRjTElS
+eW9QOTFqNjFab1NGS2ZhL21GRkZGTXpDaWlpZ0Fyekx4MzhFck8rRFA0ZVdPeXUvdnlRTHhIcURE
+KytnNkZqMw0KSEhxTzQ5Tm8rdFZGOWlaUjduekpvT3BFS0JPR1ZoL284OGJkWVpZK1BtQjljYzF1
+eXNBcCtoUDZWMEh4SytIRTZPMXo0ZHQya0orZg0KV3JCQnpNQi9IQXZxQjEvUDFyaExiVlJNbjdt
+UU12VDNUSFlqMnJPcEgrWC9BSVk5RERWZWtucnMvTTB0T3p0UDE0K3VCVmllVGFwUA0KNWZVMDIx
+akNxTnBCN2tqMVB2N1U1NHR4RzdvUG1DLzNtOS9wV1IxRExTRW9veU1IN3pEMEovd0ZYSTVCR3Jz
+M0dGTWNmL1hTVGdZLw0KRE5SVmxhbHFMTUFzQko1eWlqK09RLzhBeElvUW1McEFKTG50a1JqNnFE
+VnpVWkNWNTlrQTloL2dCUlpXb2lRRGpQVno2c2FpbWJ6SA0KQVhsUnkvMUgrY1VETS94SnBvbWhP
+RXk2cjlyaVB0RmpJUDFRay9oWHRId0Y4U3RlYWNFbmtMU1FNYkRKNm0zWVpYUCs2Q1ZIMHJ6Sw0K
+R0FTeWhTQVFWZEhIK3pJaEhQNFZyL3MxWGJDVzZYSjJsWTdqSG8wVHVPbnVHcnZ3cjBQRHpLT3Vu
+elBvaWlpaXVvODRLS0tLQUNpaQ0KaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fv
+b29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLSw0KQUNpaWlnQW9vb29BS0tL
+S0FDaWlpZ0Fvb29vQThmOEFpeDQzMTFicUN6OEkzWXRKNVFMbTV2UWNGVWRtQUNTWU9BZ1ZpU0Ju
+cGp1RA0KaHBaZkZyVFArUEhYTGJWNCtwaWtaV0pBL3ZOT0ZQNVBYY2ZFZjRSRFdtamwwdlZYMC9V
+SXg1VnZkRE9KWTFZa0IyVWdneHNTUVJuSA0Kb2VNZWZONGorSkdpSEd0NlJIclZ1T1B0TUl5ZGlq
+K0dhSVpIMWFNbXM1Myt4WTBwOHYyNytSUGQvSG5Yb0ZLZU9QQUxwR2N3enlJcg0KS3N5bnFCRktH
+QjNEL2J4WG5OeDRtMHl4bUUvdzkxSzhzVy81ZWRHdVZPR1Vua0l5bGdWUG9XQkhWVG5HUFY5SC9h
+QzhPM0hHclJYZQ0KblNmZGtXVmR5QnZRU0lDZnpRVnRONFM4RWF3Q1lMRFE3djhBaWttdENBd0ov
+d0NlendrSDg2emMvd0RuNUExVk5mOEFMdVkzd0Q4VQ0KTExXMElXUDdQZHFOOTNaay9lVE9OMXMz
+Y0VubnVPaDdFOW5qMEZjcDRZK0YyaWFSSXo2UkRjaVJoOW56SytSREVXQklqSCswUU91VA0KNkhy
+WFYxenl0OW01MVF2OXEzbUlTQjk0Z0RxU2V3SHFhODcrR1VQMjE3bTh1bEprbWtObnA1WWY2blRy
+YkFBVS93QzBRQWY5MnU5dg0KNEhramNRbkRGV2lqUG83cWNjL1d1TitEOXhHMm1SQ05nV1V5Vzl3
+di9QT1g3UXh3dy8zV0ZOZVhvSi84RTdxdktmQ3hGbDRsbVNFYg0KVW1SbksvMzNraFJ5Y2Y3NnRY
+cTFlVVFmUDRvajJmd3huek1lOWcvWC92b1ZkQXl4QzBQZWFLS0s3RGlDaWlpZ0Fvb29vQUtLS0tB
+Qw0KaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLNWI0aWVNQm85akxLaktKc2ZadFBCL2l2SnVC
+d2YrZWZYNkN1cHJ3SDlwTFduUDJhRw0KSmpnNzlTbVFmeE1NS3VCN1plZ0NwOEQvQUFrTnIzV29n
+dEl4YTJzSkg2aEFmbmZjZjc3Y1o2OEgxcnZOVDFNU0VsM0NSamxTM1JWSA0KZGo3MVp0dE5YVHJL
+S0tJQWJVVzBZaitKd3Z6SC9nYlpybFpMRTNyRTNaYjdNcDJRMjQvNWU1RVBMVGV5dHdCMzYxd1Ra
+N0dHaHBzWQ0KM2lMeFJheUlCWWlhUjFaWjRybFYrV09TTnV6bjI5cTJmamhBa21uZ2tjcktrMFov
+MzBZZGZjR29mRlVhcmFzSW8xVVpXS05GSFQ5NA0KUHVnZXdyVCtMV2szTTlnRnRJeXdFa2IzWkgv
+TE8zQUl6ai9aWWlpREhpSTlsNUlwZkRyeDFwOE5uQkZxYzd3eXF1d3l1UGxaV2NrWQ0KY2YzVUk2
+Z0N2U2xaV0h5RU1EOHlzUDRnZlErNHI1MVJCd0ZBSDhLajBIMXIyN3c5cXl6Z0xwOGU2MmpBdEd2
+VDB1Wm8xSEZ1dm9ucg0KK1E3MUxmOEFtYlY2Q1NYSmZzemRDZ2RCUzBVVWpsQ2lpaWdBb29vb0FL
+S0tpTndBY1NEYm5pTnV6bjB6NjBBUzBVeDVWWEc4NHo4bw0KSjlUNm4zcDlBQlhtdmpENEx3M0xH
+WHd2TkZZM1orZTRnSS9kM3pIKytvNkZ2WVlQcG5tdlNxS2FmL0JFMS9tajVsdTVOUzAxOXZpRA0K
+VHJpeGZvcnNNcGNZL3dDZVVveUQrQk9QV3JjV3RCaGxSRTYvMzFQR0I3MTlFM1ZsYnpxVnZiYUdl
+TThQREtvSWNmN1NOWGduanp3WQ0KMml6bHJTQXJwc3AzUkZCeHBkMGVxc1BSdW85dUIwcE9DK3l2
+TTZLVmQvOEFMMXEyMSt4bVNhak5OeGJ4czNZaFJ4L3dKNnRXT2wrVw0KY3prTkowR09rUVA5MnMr
+QzZ1RS8xRHd1cDVCUGNmaDdWTkc5ektRSlo4ZjdDOUFNZC93ckE5SDBMMXhkazhXK1dib1NQNFI3
+R25Rdw0KcEN1WEl6MWR2ZjhBMmFsaXQwUWZ1MUh1VC9FZmMwZ2d5Y3luZC9kWHNoK2xBQmJYUDJk
+SkpKdUdDbG9oNkhhY2NmU3VnL1pxMDF0MQ0KMUl5a0xpT3ppYis4eExrNC93QjBCYTg2OFg2MG9U
+eTRHeXgrYVlqK0JBZW4vQWlLK2p2aE40TmZTZFBqVzVpMlhENTFQVUZQVkpwZw0KTUJoLzB5akNn
+KzllaGhvNmEvSThITVpxK25UYzdtaWlpdWs0QW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lp
+aWdBb29vb0FLSw0KS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29v
+QUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWtaZ0J6UQ0KQm1hNXJWdlp4TTk1T3NVYWd6VHluL2xu
+R2c5UC9yVjRsY2Z0Rldic1JwbmgzVXJrWndqTXdHOGY3cWh1dGVnZkVQUjdqVkxTYUt5bA0KQ3lN
+QVlNbkFkNHBBY01mK21tM0ZlVmVIdmlscStod0xCcVhnTzdKanpHSlZMTDVvTEU1WmZMWUVzVDFE
+WU5SSnY3S0tnbDlwa0dxKw0KTXJqVlA5ZjhIcHJzOUJNVmtMWTlwbzRsUC9qMWNnM2dUeEpKSnUw
+WHdmck9uZnhSb040OGx2OEFwbkxKZy9yWHBmOEF3MFRJUHY4QQ0KZ25VRjdqOTRlbi9mdWxYOXBL
+eVUvd0NtZUdkUmlIWWh3ZVBZTUZyTnlsMGdqWlJqL096cmZodGFlSkliWWp4akxJODI0bTBFckJu
+Uw0KMktqL0FGOGdKNnRuR1NUNjlxN0d1UzhLZkZUUXRYTzNUcm1XR2ZxTEs1QURTS084V0NRY0Qw
+Skk3Z1YxdGMwdk5IWER5WVZ6WGg3dw0KWTJuVDNEV2w5bTFtWVhzZW43ZitQTzZPZHhScy93RExR
+K3c0NDdDdWxyeVA0dC9GQ2UyUDJidzdLNHVXd0wrNGkrOWJMSjBTQWorSw0KUUVlNEhUazhPQ2ZU
+NWluSmZhK1IwZmkvNHlhTHBXVlZ6ZlhRK1UyY0JHSVdIL1B4TnlCOU9UN1Y0emJlT3ZFa3Q4OTNv
+V2pPWnlQSw0KMnh4TTZReGlKVjYrNnJ6L0FFcnJmQi93YXRvZ0g4U29MaWMvdkZzajl5M0ovd0Nl
+M3FSMy9oK3ZXdlM0NGtRQVJScWlqNVVSUndpag0KKzZCNlY2TktoM1BNcTEreU1qNGNmdENXMnBN
+SXZGQ1c5bGVFK1hiVHJrUjN6SHQ4eE9HUHVjSHNRY0N2WUsrZC9IZndwZ3ZnWk5Hag0Kamh2UHZ5
+UmpoZFFQKzE2TWZYdjM5UlkrRjN4eW10MkZ0NDZsa1FnL1piUFVwdXRzNjhiTlFKOUR3RDIvaTQ1
+QktQZjVDakxzZlFGRg0KSUNEMEk5dnBTMUpRVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJS
+UUFVVVVVQUZmTjN4eS9lYXhiSy8zZkxoVEhydnZKTS9tSw0KK2thK2IvMmdrYURVTGFVcWR2bHFx
+NDd0YTNMRS9vNHBNRWVzYThEc1g2NC9FZzF6NklGQUNqQUh5Z2VnRmJ2aUtmYkJ1allNZ0t5eQ0K
+RWQ0SE9DUWY5Z0hOY3pxVjAwVVR0R0J1VldrVC9lVlQxcnptZTdSWlF1b212N2lLSzBVdXF1dDlx
+a2c2UVF4OW1QcTRyVCtKZXNpTw0KSlk0MitaejVzdzlJWXZVZjdUNC9LdDd3em8wRmpicmtxSEkr
+Mlg5dzNXV1oxeVRJL3dEczlLOG04U2E0YjZkbkJPei9BRlZzcC9oZw0KVHB4L3RkYUdhNGFOM3F0
+dFNMUTlEbXZwVlMzeU0vTkxKL3p4aUhVbjZEL0N2Y3JEVG9iWkZTMGpDeHFOa2ErdzdrK3JHc0R3
+UjRYRg0KbERtNGp4Y1BpV2ZQV0ZPeS9oMzk2NmloRVl1cmQrN3RzZ29vb29PVXJYa2wwb3paUVJT
+bitPTmpnc1A5ZzFudytLSWQyMi9nbHRYNg0KWWZwei90ZS8weFd6VmE5MDJDNFhGekdHL3V0M2pK
+L3Vtb2tuOWgvSUN3ckFqNVNDT29JN2craDk2V3VTdGIyYlRwTmwyNWVBOHh0Lw0KY1Z1Nmo2OVJY
+V0t3UDNTQ09vSTdnK2g5NktjNy9rMEF0UnpRSTR4SU1qK1JIOTArMVNVVllGR09ZZzdMM0RFOFJT
+SHBjSjcrNHBZcA0KbWlPMjRZbFR4YlRIK0wyYytvL1dwN20wU1VZa0I5VVlkVVlmM1Q3VlNXYitE
+VWxHZWtVdmFVRDBQcUtDbC93NXAwVlFXNGtnNHVpeg0KcDBTNEg4SS82YWoyOWF2STZzUGtZRWRR
+UjNIc2FDV2hhcjN1bjIxeWpKZjIwVTBURHk1b1hHUklwOVI3ZnBWaWloQWVJZUp2ZzlxZQ0Kbmt0
+NFZXUy90ZVpIMDFqKzhzd2YrZmR2NGdQKyt2WTlhNHUyMXVBTjgwaGdrQjJTUXpEQmpaZW9ZSDBO
+ZlVkY2o0MStHZW1hdWhMMg0Kc0VWMkJtM3ZsR0N6QWRMaGgxQkhybkhhcWR2dEorcFZPY2w4RFhv
+enlLUFZpMzNZNHozRGJ1TWZXc2pWdkZhUmdpS2FKMzZDT001Qw0KL3dDL0lQVDJQMXFDUHdIR1da
+YmlhNGdtUW1HNGhZRDVHQjdWcGZDandwWVhtcWlQVkxXTzdnUVNUbUtUcEswSFR6RUhYNXNjZEQz
+eQ0KS3FsVGoways1V0p4RTB2Z2l1aVowL3dkK0VseGZ5cmRlSklHRnNwKzBhZEJJUDhBa0pUcWVH
+WlQvQkVmelB0bXZwRVVpb29IeUtGSA0KM1ZVZndnZWc5cVd1MWVSNHpmZjFZdEZGRk1Bb29vb0FL
+S0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBbw0Kb29vQUtLS0tBQ2lp
+aWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ3FHcFhXMFlVODFl
+WmdCelhQMw0KY3BkdXZIUVVBVnNIdjlhdVdGcnVQSTRxc0Y5QjdWdVdFQVZlUnpRQmFBQTZmUVVq
+b3JERHFyRG9WSTZqM0ZPb29BOHg4ZWZBblRkVA0KL2VhQTBlbDZpUDNzVnhFTUpjeUtlUFBST2hC
+L2lBejZnOFZ4T24vRmJYTkVjUS9FclI3d2tmSmI2b2dHWjBYdVR3R0FIY0hQcUNhKw0KaEtxYWhw
+Tm5kb1YxU3h0cnFJL2ZnbVVNR1A4QXVzTzFSS0s2b3FFMnZoK1o1NlBpcjRhZUYzczlmc0pDcXRj
+TGJNMjE1akVoT0VoZg0KQnkyUFN2SC9BSVg2UytvM1V0eHF2NzFsUG5JemRIdlp5VGtEL3BrdWZw
+a1Y2RDhUdmduNFl0cktlYlJ0S210cmhGRnhHa1VqYlQrOA0KWE82SnllRlFrOFlybHZnMXFWbDVE
+eHJjSUxuZWJ0NEQxYUVvb0JUMUNrZmgrVlZRZ3JpcjFHK2g2ZFNNd0ErWmdCMUpQWUQxTkxXTg0K
+ZFRTWEw3YmM0UWZmYis4UjNiL2Q3ZXRkNk9JZlBxc3NwMjZjaFBySmpxUDlrSHQ3bXVXOFcvQ3Nh
+Z2hhS2RWdlFNeHVlbHlBUHV6Tw0KZjBQYjZWM1Z0YVJ4REVTNDdzeDZ1ZjhBYU5TL1gvOEFWU2E3
+b2FmWTgrK0ZmeGx1TlBjV3ZqWjVJNHdmc2xqZVRkZE9jZEV1bVA4QQ0KQ2V4N2Y3dlQ2SEJIYXZB
+UEgzZ0szMVdNdnAzbGZiVUdZeXYvQUM5eGorR1Uvd0FqK0hUcG8vQTM0cHRPdjJYWDdraTRRYmRJ
+bGs2Mw0KRUNkWTJKN3dkdStPTzFjazQvOEFBT2lNdTN6UGI2S0tLa3NLS0tLQUNpaWlnQW9vb29B
+S0tLS0FDaWlpZ0Fvb29vQUs4ZS9hSDhOTg0KY1dTU3d4bG1nZjhBZlkvaHRidkFKL0NRSlhzTlU5
+VDBxM3ZJbmp2b3Q4THFiVzRUMWprWEh5bjJIVDBvQTgxK0hXdHc2cnAwWXVDSA0KSVU2UHFDSHUw
+UzQrYi9ycEdRZnhxR2Z3bGRvcEdzNnJZSllyODkxZEVrUGNXc2ZhY3RnRGNCZ25jYzE1aHBHcjZq
+NEx2cEl0WXRwcA0KN1Z2bVlKL3k5UWpPMlMxeWNjaklJejZnOGlzenhENDMxcnhHK0pHTnBZZzdr
+dEVQQzQ3ek4vRTJQd0hZQ3VTVU85cmJuZlJxUGFtbQ0KMzhLUjIydS9GNyswUzhXZzJ4V3lBOHFT
+L2JJTjBRZWtVZllNUHg5Y1p4VXZnUHczOXJtM1R4NWhqeEs0UC9MU2JzUHd4bi85ZGNmWQ0KNmVr
+WUMya1IvdUlvNnlPM3I3c2E5NjhOYUN0akFxQURmL3JicGgvSE0vWG4vWjZEMnJGMit5dlE5YVY0
+eHMycnZmeU5laWlpa2VlRg0KZVRheG8zajdTWkdmd3hxRDZ0WTVNc2Vuem5lMXZHZjRkajg0VG9O
+cjVQcFhyTkZWRitTOHlKUjgzNUhtZmhyNDg2WmNOczhSMjBtaw0KM1A4QXEzTXYzRElQN3prQXJ6
+NmpBOWE5S1IxWUF4dXJLZm5SMTZPcC91a2Vvcm0vRmZ3NDBiV0Yvd0NKbGFCSnNiWWIrTGg0Y2Vy
+ZA0Kd1BRNUhwaXZMTGZVZkVuZzJVTHFZazFIU1dPMkYxNklEL3o3ay9kWURuYVRnOXZVWFpQNFB1
+STVtdmorODloOFJhWDU4ZVkxekl2Nw0KeEFQNDA3ajhxcStGOVgzcnNtYjVoekFUL0hINmY4QS9s
+V3JwT3QyZDlFc21sM0t6UXNOMGJyMlBvNDdGRHdSMnJtTllzSkxPVVBhRA0KYWhQbVJZL2dmdUcr
+b3JpcXBwM1MvdXlOVjVIYVVWV3NiNk80UU5FZUR3eS8zR0hVSDZHck5icDl2VkRDb3A3V09VWWxR
+RWYrZ24vWg0KTlMwVXc5RE0zWEZ2L3JWYWVIb0hIV0pmOW9ld3A4VnZHM09tM0FUdXlmd3NmOXBP
+MWFGVkpkTVFuTnV6UXY4QTMwL2kvd0I1S0NyOQ0KeVNHZHp4Y1JiRzdFZEh4L2RhcDZxTGRTcC94
+K1JqSFFUcDAvNEdPMzhxdEFnL2RPUjFCSGNIME5CTEZvb29vQThwK0pXa3BiM0Vjcw0KWUNySURi
+WGgvd0Ntc0tqQmIvZVhqOEt3ZjJlTE41citlUm84b3NUSXpmM0pybWRNZjk5S3JWMG54eXZraXRJ
+d0dBa01uN29lcUNKZw0KY2Y3dTRWZS9aMjhPTkJaeVN5b3l0TkpzaEo2U1d0bUNBVkgvQUYxYVFm
+aFhSaDQvNUhQaTU3TDVzOWtvb29ycU9JS0tLS0FDaWlpZw0KQW9vb29BS0tLS0FDaWlpZ0Fvb29v
+QUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQw0K
+aWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FxMzB1MGNHc1hiNjFmdnBNbmcxVUswQU90WWR4NlZ1
+cW9BNHFocDhPT1NQcFdoUUFVVQ0KVVVBRklTQjFwYXo5VHZ4R01LZWVnSHBRQlUxS2RaenNDSzZu
+OTNLakRJZEc2aGgvdEN2RXZpQjhBN3l4YjdSNEJFL0I4K2ZUb3M3Nw0KTngzc2NkUjdkUjJ5T0I3
+aHBGbWZ2U0RucU0xc1VlZ0h6VjRYK0w2M1NlWHJJV0M4L3dCVERPT0Z1aWZVZG1BN2REMngwcjBI
+UzdNUg0Kb01yaGo4Ny9BT3lPdy80Q0tyL0ZENERXK3FicGZEYVJXMm9mNnllRG9tcW4vYVBabTll
+aC9pOVI1ejRQK0oxMVpQOEFaL0dhelJNcA0KK3lwZFRERFdiaitHOEI3ZS9idnh5TjZkVCtZd25E
+K1U5YU9mNFFDZXc5L2MxV21kMkdIdEpDTyswajVnUFU1cXlyQWo1Q0NPcXNPNA0KUG9mY1V0Ym95
+S3lTeWo3bGlWSFFEY09Qd3J6enhwOEtwYnB6TjRlUDJlNi8xODFzR3dMaVlINzF2SU9qRS9RSHJr
+SE9mVEtLbVVWMQ0KUTR2c3ppL2hsOGViaEhGdjQrbVpKQWZzMXJxY3d3WTVCL0RxSlBxZU4zL2ZY
+clh2UXgycndQeDU4TllOVVhmWXJIRmVnZnU1TzE0bw0KSDNaai9JOXVuVHBYK0ZIeG9tc21GcjQy
+a2VOVlAyU3d2cHV0aTQvZ3ZDZjRmUTl1aDR4amxuSC9BSUIwUmwvd1Q2Rm9wQVFlaEh0OQ0KS1dw
+TENpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUs4djhBaXg4WmY3REN4NlRBazErNitlalA5Mndn
+SklET3ZjdVFjRHAzUG9mVQ0KSytjZjJqNE5OVzRnTURPTDRvUmRJdlFXYVA4QUtYSHFYTGZoK0ZB
+SG5KdGI3VXBUSjRsMUdhYVZ1V0xuNXBCNlk3QmV3d01kZ0s2Tw0KR0NPTUFRb3FLT0ZVZGgvOWVx
+R2tXN2hRWng4Mk1jOXEwcTg2cEo5ZmtmVzRTaEZMM0l2dTMxTi93aUlVbUQzQ2VZeWtKWTJ3NjNW
+NQ0KSWNLQjdKMUo3VjdZdWY0c1o3NDduMkZlUGZEeXdFdDBDd3lFVnJuSCsxd0JuNkZxOWlwSTQ4
+YzlkQW9vb29PTUtLS0tBQ3F1bzZYYQ0KM2NiSnFOdEhQQ3c4dWFGeHc0UC9BTVNlaDZqclZxaW42
+Q2FQRTRvTDN3YmRqZEpOY2FKTTJ4cEQxc3BEM2NEK0tJZjk5RDNISHNkeA0KYlFYS1ljckpHd0Rv
+Nm5xQ09ERzFRNjFvVnBmd3ZIcU1RZUp4NWIrc2JkaWg5VVBJcm1QaGhmM0gyWm9kUVl0UGJTTm9r
+ai84OUlZag0KOHBYMjI4RDJGVkxYZGVUTTRxMjNxam85SjBQN0p1MjNUeUtlUWhIM0NQeDdpdE9p
+aXM0eC9sWG9haFJSUlRBS0tLS0FDa1ZGSDNGdw0KT3VCNm4wRkxSUUFVVVZ5bnhEOGFwcEZvem82
+aTRiL1JOTVE5N2h4OTdIcENPZlR0M3FrdXhNbjM5VHlENHFhelByT29wYjZTUktFWQ0KYVRhb0R4
+SmZ6dUF4Si8yV3dwN0RHYSttdEEwR0RUN2VLS3p3WTQwVzFWOFk4NG92TE1vN3l0a24zcnduOW4z
+d0ZKTEkxM3FVYmxWMw0KV21rcytmMzl6SU1PNE9mK1dha3IzQkpQY1Y5RDEzUlhZODJjdTR0RkZG
+VUlLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQQ0KS0tLS0FDaWlpZ0Fvb29vQUtLS0tB
+Q2lpaWdBb29vb0FLS1pKTkdnL2V5SWc2QXNjYy9VMCtnQW9xaFByMm5SU3JIY2FuWngzRGZOYg0K
+Mmp1QTB3LzJJeWUrS3YwQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRk5rYkFwMVFY
+VFlGQUdaSWNtbUttZWxQSXFXMg0KaXllbEFHakJIdEhTcEtBUFNpZ0Fvb29PTzlBRVU4d1FaWS9T
+dWUrYTRrNzQvcFZuVmIwbmhEN1lxem85bHRHV0hQYWdEUmlqQ2dCUg0KanRUNktLQUN2UDhBNGsv
+QjZ3MTVOMFhsMnVvS01XdDhCeE9CL0RlQWRRZXg2anR4a0gwQ2lnRDVTOE8rTk5VOFB6RzM4WVcw
+NlJLZg0KTEc3azJBUFF3bnVqZTMxWDBQc1Z2Y3hTcUd0cFk1SXlQTWlsUTVFaUh1aDl4Vzc0OCtH
+ZW1hOUR0dmtFVndvSjAvVUZIeldybnN3Nw0KcXg2ajhzSG12bnpTdGIxandwY21EeE5ieUcyenZ3
+T1FxTWY5Wll2M0Q5eC9JNXJXblB2OGpLY094N1ZSVU5wZXdUb3JXYzZTeE1QTQ0KaGxROE9wOURV
+eE9Pb1AwSDlCWFQ2R0FWeG5qbjRhMitxcnV0U2tONEJpS1k5THBSL0RjZlRzZW8rbGRpa3FOOXgx
+UFlnZGo3aW5VbQ0KdTZHbjJQTmZoejhaNzdScEJiZU9Gbit6cWZzOE56SnkyaytnYzkweDA2NEhU
+SXdLK2pZWjQ1RkJ0NVk1RUlFc1VpSElsUmh3VVlkbQ0KRmVMZU1QQU5ucTBmN3dMRGNxTVdsNEJ5
+bnRLTzRiOU9vOStRK0h2eFExSHcxUDhBWnZGeXpHeHp0VW5rNldYUDNyWWpxajl4K0k1eQ0KRHl6
+ai93QUE2SVNQcHlpb3JlNWlsVU5helJ5eHNCTEJOR2NpYU54d1VjZG1GUzFCWVVVVVVBRkZGRkFC
+UlJSUUFVVVVVQUlXQTZuQQ0KNmsrZzk2K05mRTJ2TnJXb3l5N2kwUmJaYUEvdzJrUEM4ZjdTZ0Ur
+K2ErbnZpWnJwc05OdVhqZmErdzJrRGYzWmJvaFFWLzNDMmErVg0KdkN0cU9TUjdqL2dJL3dEcjFs
+VmVuNEk2OEJUdkpYWDk1blRxZ1VBS09PZytncGFLSzg4K3VQUWZoWkNwYVlucUFpRDJEbHY4SzlM
+cg0KeHJ3ZHJwdFRJSXlBNzdJWWY5NHpBSEgwUmlhOWxGV2p4Y1l0ZGZrRkZGRkJ5aFJSUlFBVVVV
+VUFGUnhXMFNFbUdHTkN4ODJabEFIbg0KUGdETWhIZkFGU1VVQUZRWGw5QmJvelhjcXh4cVBNbGMv
+d0FLajBIdit0VDE1MTRsZlU5YWRvL0RpMmJRUWtOY1BjbGdsL2VBL2RKUQ0KRWtJTStuMTZVMGdY
+L0Jac1FKZjZyR1hmTnJFVHYwbTFickpFTS9QY3Q2eURwamdEMXpVQm4xdTArLzU1WDFZYmhnZjdY
+UDhBTVZ6MA0KM3haMTdTV0E4YitEdktoLzFhWDFpZmtBSC9QTldKSFR0NWluMnJ1L0QzalhSOVZY
+T2k2akZOam1hQThQQm4vbnJDZWV2Zm9leE5aMQ0KYVBWTnJwY2hUWFQ3alB0L0hEai9BSSs3TlQ2
+dEdlbi9BQUUvNDFzMlhpR3luNGltMnQwRWNuQkovd0JrL3dEMTZzVDZYYVNmNiswaA0KWS8zaU9m
+OEF2cXN5NjhIV1RqL1I5OExmd2tISXovdEtmOGF5U211cVpadVVWZ2FYcUZ6QS9sNm9TVC95NnpI
+K01lbTczN2QrMWI5Yg0KUWxmYS9aZ1JYRjFGQ3BhNWxTT05RWnBwV1BFVWFEa3NmOWtWODZYMXhx
+SGpQVWxUVHpKSGJES1c3RVpHbjZjakRkSkt2ckp4M0dUaA0KYzF0ZkYzNGh5M2tndFBEeGtsRzRR
+WDVpNU43ZGxoaU9JRHJzYnI2bmp0ejY3OExmaGxGb050aWRWYStreFBxc3cvZ1lEaElpTzBHZg0K
+eE9UMHdCMlVZZC9rY1ZlZjh2ek91MGpSclN4aFNQVFlCRkFpaTNnakhaVjdzZlZ6eVQxSjVxN1JS
+WFFjNFVVVVVBRkZGRkFCUlJSUQ0KQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVV
+VUFGRkZGQUJSUlZYVU5SZ3RZM2U4ZmJFaW02bllkbzRsSk8wZlFVQQ0KV3F4dkZmaU5kTXRaWlhq
+RDdGM3hSbnBKTzVBVU1SMlp5TTE1aERxdmkvV0I1cWVJdjdHdG0vZWFmWTI2QmlJYzhHWjhqNzQ5
+L3dBQg0KMHBseDR2ZWVHNHMvaUpxTnZDNWorMDZick8zQXZGallFZWJHdmRYVWNBYzRJNjladU94
+VHN2QkQ2cWdtOFk2amZYVnhJQmN4UkJzTA0KWVJTY2dRcDJ3RDA0QTlLcEQ0bGFqNGM4MkMydkk5
+VFRBYlNKcFd5ZElZbmxiaFIvY0hRWkFIME9LNVM0K0p1c3lRckZiU0pHUVBzOA0KdDNGbmRjb3ZB
+Mm50OHZYdWZhdWVodDRWUCtsVEtXN3A2SC9hTlpPWHFkRktrM3RaZEd4YnE3MUNkekxkM004a3hQ
+Mmg3a241aTQ3cQ0KZjlqdDZkcTk1K0hueHZzN3hGajhUWE1WdGRqRVVkMi9DYWdCMExQMERIdjJQ
+YjBIakE5dncrbFVwOUxWdjlTUWgvdTlpZmFzb1ZmNQ0KbDZIb1Y4QTdmdVhmdWZaQ3NEOTBnanFD
+TzRQb2FYNlY4cWVBZkY5OXBsNUVIMUYwdGk2MmQ5REk1OHRMZWRnQ1dCT1AzV2M1N1Y5Vg0KS3dQ
+M1NDT29JN2craDk2Nm92c2VQS0xYeGVqSFVVVVZRZ29vb29BS0tLS0FDaWlpZ0Fvb29vQUtxM2pW
+YXFsZGNtZ0NvUlZ5empxcw0KRnJSZ1RBNlVBU1VVVVVBRlZMNjVDTHdlZWdxMFdBNjF6Mm8zUlk4
+SDJGQUVFRVRTdno5VFhUeHhoUmhSanRXWm85cGdaWWZTdFdnQQ0Kb29vb0FLS0tLQUN1WThiL0FB
+ODAzWFlDbXB4N0pCbDdDOVVmTll5bnVuczNjZEQ3SEJIVDBVQWZKdG5xT3QrRWJrdytJTGQ1TFVu
+eg0KTUw5MmFNbi9BRmxneDllNDQ5RGcxN0ZZYWxiWFNLK24zRWMwVERmRkt2OEFFUGNmN1BROXhY
+WWVMdkF1bWExQVk5WWd5UHYydHl2Mw0KcktZajcwTGZ6SFE5NitiWGoxN3daZEZOU2phNHMyTzlH
+WDdsL0VQNHJZbm95REdSK2ZHRFd0T2ZjeW5Ic2V6UzJrYi9BSGxJUFoxNA0KSS9FVkdJcmxmOVhN
+a2c3TElPUVA5OFZGcEd1V2Q5R0gweTRXV004WkhXTngybFhzVnE5WFNuMk1HUXJMTi9IYkVlNnNQ
+NjRyQThZZQ0KQnJYVjRzU0tJYmhjbXl1ai93QXMyUGFYSFovMDZpdWxvcE5kMEM4bWVPZUhQSFhp
+VHdmTUk5WGhlNXNDZDMyWE9WWlNlVzAyWTlDQw0KZVJnQTl3RHpYMGg0WjhaYVZxOFFrMEs5U1pQ
+dXl4OUd0WkQydUkreEg1SHRrVnd1cTZKWlhzWlRVN1dPYU04N1cvZ2IxamJzUjZpdg0KSmRSOEcr
+SWZEa3ZuZUQ3NjVlRWN1eWN0RkVPMTdCMFpmd3gzSUZjMDRkamVNKzU5WFVWNVY4UC9BTm9MUzlV
+Q3g2ODBHblh2M0YzSA0KRWQ4eC93Q2VFamRDM29UOUNhOVZyTTFDaWlpZ0Fvb29vQUtLS0tBUEgv
+Mml0Uk1kaEdxTVFYbVVPUDcwVU1Ubm4vZ1cydkd2RHNPMg0KTWNkaCt1ZjU1cjFQOXBRSHlMYkhU
+ekhCK3Zsai93Q3ZYbDJsenFrUUo1NkJWL3ZFcU9sYzJJUFh5ZGF2MHNhdEZJTTl4LzhBV05MWA0K
+R2ZSR240ZGgzM01JeC9HckgvZFJ3ZjVDdmJkTTFPTzZUZGI4eDVhS0p2OEFub3NUa1pIKzhSWGds
+dGRQRTJZV3cyQ2l0L2QzcVI4cA0KOWdhOVU4QjYxQzBNY1Z1cGQxVnJpOGZ0Ymg1bXdDZlY4L2xW
+STg3SFE2L0k3T2lvSjcrMmkvNCticUNMMDNzQm44elRZTlZzNWY4QQ0KajN2cldROWxSd2Z5QU5N
+ODJ6N01zMFVmU3E5L0RKSkc0Z2JhNVZvb20vdXV5bkhQc2FCRlBUL0VWdmRPd3NJcmlWRnpISmZB
+RHkvTQ0KWHRISVR6ZytnSTk2MUs1ZndicTlsNUtSRjBndW94OW11ckdUaGhNblVxaDY3enp4bXVv
+cHNHZ29vcEdkVkdYSUFIek14L2hBOVQ3VQ0KZ09iOFhhM1BFcXhhU2Mza3greld1UDhBbDNpN3V4
+LzJCL2oyclUwUFFvTENKVXRSa0RtU1E5WjVUMUxmN3gvTHBYUCtFNHpmVFMzTg0Kd3BJWW13MGxH
+LzVZMmNSNnFQOEFwb2Y2MTJOTWIvNGNqbnRvcFZLM01NVXFFYkpZbkFJa1U5bVErdGVTK0svZ25M
+QTNuL0Q2ZVd6dQ0KVi9mZllFYkFjLzhBVG5JZW1mUThIb01kSzllb3B4bDIrWm5LSzYvSTgzK0hm
+eGEvdEErVDRoakZycVM1ajJzTm92akgxd2g2TW1PUg0KK0k5QjZSWG0zeE0rR1AyMGVmNGZWb2RT
+anhPREZ3YjlZdW1DUDRvOGNIcWVucGpXK0cveEFYV2JmL1NTcTNrZUxmVW9oL0d4Nk9xKw0Ka29I
+NEhJNllxcEpmWlhxVEJ2YWZ5ZmM2ZlV0TVc0WEdkamo5NWJ5ai9sbElQOGE0TDRwZkU4YVhGNVdu
+VEtkUWNZWmtQL0lPaFljcw0KZmQvNGZ6OU02SHhFK0tkcm9zZTIyTWM5K3d6YTJ4Nlc2bitLNUhv
+T3c2bjZWd1B3cytGTjNyc3h1dkZ3a2x0TjNub0pldXQzQ24wLw0KdVJuZzlqOTBjWnhWS24xYU02
+MVQrWDVuUi9BcjRVbU1DNzEyQnZOWVowT0J4L3E0bkhNcmc5NVJ3dnR6emtFZTdVaXFCOTBBRG9B
+Tw0Kd0hvUGFscnNPTUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fv
+b29vQUtLS0tBQ2lpaWdBRmM5NDE4Vw0KcnBGcThwaUVqakVWckVla2x4SWNEZmpzRHllYTZFVjRk
+OGF2aUZLR2UxVFRZREhoTGlhN2tKenZKQkgyWlJqN280NXpuMEZKc0VUeA0KNko0bnZGRDZyNDYx
+YTJtWWVjTFd6WXFscUdIQTJJd3pzR00velBXcDlMK0pOcEphM052OFF0V1dLWk4ybG03UlR1MUMz
+bFVnTkZHbw0KT1NtUFRIVFBldklMbnhWcjF5b0UrcDNaakFFUVJUdEJSUi95MEs0eng2NXJPZ3NV
+WS9QY0puKzZ2ZjZHc1hQdS9VNllVWlBhUG9kWA0KYS9GVyt0cmRJdE9naDNxREF0OC9PNk1NY2VY
+Q2Y3cSt1ZnBYT1hMMzEyMjdWTHVhUnVtK1U1SVU5a1gvQVBVS3N4V3NTZjZ0QUQweQ0KZjhhMk5F
+c1BEVWxySTJ1WFJXOUcvWkd6a0VFTDh2a3hEcnpXYWxmNFdkVlNnbzI5c3IrUmp4V3lJUDNhNFBU
+Y2U1OXpXenBldCtINA0Kck9STlIwdnpiNDcxV1F4Z2w1R3p0S1RkdG1mL0FOZFlsb3psUjVtYzlz
+OXg3L2hVMkI2RDI5cXhqTzIvb2VuVnc2a2x5ZTc5cElqdA0KbFlLUE1HRGpCSHAvK29WTFVVbDNF
+aC9lU0FIMDlCNzRxUldCSHlFRWRpS3pkK3E4enJwdGJSbXROR1orbzJ5RGtFZ2s3U1BYai82MQ0K
+ZlNud2dudVpOTWhOM0l6L0FINHJaaWVSYnhUTUFDZjlqQkE5cStjdFFRbE9CMCtiOFA4QUpyNkEr
+Q1dyUnphY3FLUnVpZDdXUmZhUg0KeXdPUDlyZlhaaDMzOUQ1L000V2VrVi9NZWowVVVWMG5uQlJS
+UlFBVVVVVUFGRkZGQUJSUlJRQVZSbTYxZU5VcEJ6UUF5Tk1tcjRHSw0KclFKelZxZ0Fvb29vQXA2
+aGNiRjRQTllVVVprYnBWelVaaTUrWDhxazBtMTV5dytsQUdyREVGQUFGU1VVVUFGRkZGQUJSUlJR
+QVVVVQ0KVUFGWlBpUHdwcHVxd3RGcmRvczBSNVU5N2VRRGhvSDdGUDhBNnh5SzFxS0FQbEhYZkRX
+ditDN2tOYlNHNXNIT3lLYkh5M3FEK0c1WA0KczZEcCtZeU1pdlMvREhqUFQ5VmozV0V1MXgveDgy
+akg1clpqL2VIb2V4Nkg2NUZlbzY3NGVzdFJoZUxWcmNTd3VQTGtYdWg3R005ag0KR2VSNlY4cDNX
+aTZoNFExQmY3VHRwWm9QbUZ0Y0p3TlJzM0dNeG4xanlNZzlEN1lOWFRuM001eFBkNkRuc00rZzlU
+OWFxYVpxOXBlUg0KcStuWENTeE44eU9PeDlHSHF2Y1ZicnFYa2M0eU9aVys3a0hveUhxcFBxUGVu
+MUhMQXJkU1ZiK0IxNnBuMFB2K1ZSZmFtai80K3dBTw0KaXpqb2YrdWc3ZnlvQTRqeGQ4SHJHOXkr
+aitYWjNQMzJRRDVMbGovZlFkQ2ZVRDZpc2p3dDhZdkVuaHh4RDR1dExtN3RSOHFKSWZudA0Kb2gz
+c3B6MUNqc1Rqc0NLOVhCOVB3K2xVTlk4UDJGK2hUVmJTT1pPcTU2eE1lOFQ5aUt6bkRzYVJuM08r
+OE8rTDlLMWFJUG9WL0ZjUg0KOUpGSDNyZHoybmlQSUkrblBiSXJZcjVRMUx3YjRnOE55K2Y0U3Y3
+bDRSekk2ZFlvaDJ2WWVqTCtHTzVBNHIySDRjZkhYVHRaeEhxZw0KaXNkUSs2SUNmazFCdituTnoz
+UDkwOCtoUE5jN1hkRzZmWTlPb29vcERDaWlpZ0R5cjlvRFJIdU5PM3hJU1lwRXZKTWRvWkFWUEhz
+eg0KS2ErYjlQMU9SMmlWV0lBSUVuKzE4My94TmZiZW82YmIzVWJ4MzhJbGhkVGJYRVIvamlrWEI1
+SHRYeC9ybmgyMHNOVWtpMDd6akRHLw0KbHcrWWNuQ3hBL00yQjBiMnJPYTdyelIwWVdidXVTVDFh
+aXpjb29vcnp6N0VLdVdtczNsdXJDeXVwSVEyRE8wZkJrQ1p3Qy90azFUcQ0KUUxFaUY3NmNRVzYv
+TE5PUm5Mbm9zS2QyZnNQeEpBQklGNUl6cU5XL2VXdHV4cEx1ZVN6c2Z6ZGovalZsOUl1MC93Q1Bp
+RVFIN3lwTQ0Kd1VzRC9kUnlPb3JtYnZ4emZQeG9DSFRZZnUvYUZQNzI1WC9wcGNkcytpN1I2NTYx
+di9EbnczNFR2MktlS0V2SHVEOHlYQmxJQko3Zw0KTGo4YzV4MTZkTm8wL3dDYVNQTXE0eDcwYU9u
+ZG16WStLZGJzQ0F0emNLUHZDM25CS3VoL3VxM1krMks3N1FQaVpaWFdGMUVMYVRkQQ0KU2ZrbGIv
+WmM5TSsvNW11UzhTL0JqVnRJVXY0TnVwOVRzaCs5dTlDdU9XVk81dGl1TTRIOTNhMys5elhJVzF6
+YjNLYjlPWmltZkx1SQ0KVys5WVNIdE9CL2U3SEdEN0hJQk9tMFRScXdscEtQSytubWV5ZUsvREMz
+STMyM3lUTGlTTzRUNzBEcDBLTjdkNjBmRDJ0U1hNWSsySw0KcVhBRzI0VWRKQ084ZnMxZWJlR2Zp
+RmRXV0Z2TjF4YmZkMkg3MXV2L0FFeFkrbnAwOU1WMGQ1RGVLM25lR2liNjFiOThZb3Z2MmJucg0K
+NVNIcU05dW82ZEt6VDdDcVVtdmovd0MzV2Q5aXVZOGVhcTBGc1Z0eis5bEkwMjNIL1hYci93Q09a
+ck1pK0xWZ2d4ZlJUSklPSGoycw0KQ0cvMmtJL3JYTzZycnQxcVVxdXRxNkFBMjJnMkhWcDU1T3J1
+UDluOGdLYVJqR0hmMVBTOUJzRXQ0STFqR0FGQUh1U08vd0JUV2pWYg0KVDdRd3hJck51S3F0dVcv
+dm1OUVAxeFZta1pzS0tLS0FFR2UrSzgvOFdOb1hoMFNYVmxaSkhmU0Eya1VDTVF1b1hFaHptV0FI
+R0VJeQ0KU0FQcmsxMnVxNnhhMlVUU2FsT3NVS0R6WnBENkRzbzlYUEFIYzhWODlRUWF2NDIxRUJC
+SkRhcjk0L3c2UnA0YnY2dk4rcDlGSEcxSw0KUC9CTUswL1R5TC93dytHbDE0a3VIdVBGRWtzbG9H
+MzNMTjExZTc0K1JDT2l4akdjWXdNS3ZxdjFCREJIR29XM2lqampBRVVNU0RBaQ0KalFZQVJCMlVW
+VjBmUkxPd2hTTFM3ZFlZRUFoZ2lIWlIzWStybmtucVR5YXZWMW5DRkZGRk1Bb29vb0FLS0tLQUNp
+aWlnQW9vb29BSw0KS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS1pKS2lBbVYwUlI4
+N3V4d0VVZDJKOUtBSFY4cy9FL1ZvN3pVNVRiT0hSUw0KdGdqRHViZFFEZ2owazNWNlA4UWZqdGF3
+cTBYaE9jVHprR0tYVWsrNVpnLzgrekRxMk8vM1IxeWE4VHNiWWo1cGlRZXE1OSs3SDNyRw0Kckwv
+Z0hWaEtUYi9GK2hQZW94UTdBZlVnZHdLMy9FK3JlSGJpT0llR2RPU0dZTUpaM1dQQmloQzlKbjc1
+SkhjOVBlc2EzODJkZ3VtMg0KczExSWVrY1F6Z2Y3UjlCV3BxUGdqWHJSRmU0czFsVWd0UGJ3Y215
+VkFPWmlCM0dlbVI3MXowNy9BTXZtajBzVzRYVjZyN094bTFHMQ0KdkdUbG9rSjlTT3RMRktyZ0ZN
+NDlEMkk5ZnBUNncrL3N6MTdKOUUrcUNpdFR3cG8ra1hra2c4Ulgza2hRcHM0aTRVU2hzNU9UL2N3
+UA0KenJGamFGUzR0cFhlQU15V3N6OEY0QTNCWWU0clJ3OHprcDRwTjI1V3ZNMnZDL2lQU3JEelJy
+ZWsvYVdiNTdhUXFEdVVaK1VoK200Lw0KNTZWaFFPRVVtVlZpQkpkSS93RG5tcDdENlZCUHFnSC9B
+QjdnSHR2UC9zb3JvOUMrRjJyWDJHdm0reVFuNXhKS1Bta1Evd0RQS0gzSA0Kcmo4YTFVVy9pUjVy
+cVJpMjZVbSszWkhPVDZvaEJFY1piK0VrK2g5QlhySHdQMEx4QmJ6TzA5aGNXOWc2ZnZtblVqN1RN
+aCtVMjZuSA0KM2NubkdNWjc0clMrRGVpYWRESmNSM21tV3pYOExncGZNTWw3V1FjZVNEbkcwcm5q
+QjVGZXhDdDZjRjBPSEVWNVArSmJzaGFLS0sxTw0KY0tLS0tBQ2lpaWdBb29vb0FLS0tLQUExVWNW
+Yk5WaUtBSklWeFV0TlFZRk9vQUtpdUpOcW44aFV0WitweTRHQWZ3b0FyV2tXNGtzUA0KcFduYlFo
+UndNVkZad1lVY2ZXcllIcFFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCV0o0cDhHNmJyRUJp
+MW0yM29mbWhsSDNyUw0KVURob0g3RmZ5UFE4VnQwVUFmSjExWmE5NEx1dHQyclhOazUzUnVQdWFq
+Q084Zm84WTZqK1l3YTljMGpYTE8vaUQ2Yk9za1o0OTQySA0KVVNyNnJYZitJdkN1bmFyQzBXdFdx
+eXhOeUQzdDVCMGFCK3hUL3dDc2VLK1p0WDBMWHZCZDFsR2E1c1hPSXBmNEwrTWRwUjJkQi84QQ0K
+V3lNMXBUbjNNNXg3SHNMK2NuK3JVeXIzalBWUi9zTi9qK2RPaXVJcEI4aEIvaGtqWWNybisraHFo
+b0hpV3gxS0lQcHMyNWZ1eXhuNw0KMXRKNlNyNmo5ZW9xN1BaUnZ5UXlQL0RLbkJYOFJYU3ZJd3NR
+dGJTeGMyWHpKMWExYnNQK21MZjA2VlBiM3NjdjNDUXc0ZU51REdmOQ0KcGFpRTF4SC9BTWZDR1ZP
+MDBZNUEvd0Nta1grSDVVa3RyRk5ocmFVSy93RHl6blRzUjJjVUNMbVBiMnhYbW5qVDRReHo1azhN
+cXNGeA0KL3JaTE5lRnVHSGVBOW0vUSszZjBHMXUySjIzS0JKUnlWSFNWZldNKy93Q2xXcVVvOTBO
+UHNjWDhNL2ozTEd3dC9Ic3J4dUQ5bXR0VQ0KbTRNYmorSFVzK2g0M2Y4QWZYclh2U3NEOTBnanFD
+TzQ5cThIOGIvRFcyMVZkMXRzZ3ZBTVJUNDR1UUI5MjV4K2g2ajNGWTN3NStNdA0KOW9rbjJieHVz
+NHRsUGtRWEVuTGFUNkJqM1FqcDF3UHU1R0JYTE9QL0FBRG9qSStrcUtqZ3VJNUZEVzhzY2lFQ1dH
+VkRrU3hzT0NqRA0Kc3dxU3BMRUZmSm54R2kremE1TjV3SVVzSjBQOTRUMnk5UDhBZ1J4WHJQano5
+b25UdE1jeGFGYXJxVjBQM2M4bTdFZHJJT3haYzVLOQ0Kd01BZE01eUs4TjhaNmw0bDFaemNhNW9V
+bHNGVllXbmpoWkVXSU9jWlo4NXdXeDFKcE5mNUZVNVdhZjhBMjhqV3Nid1RMbFdCNUtaSA0KYkhw
+OUtzMWkrRjgrVHlNY25IdU9LMnE4NmE3ZWg5alFuZEp0TFgzbU9qalppQWlrc1RzUlIzWStuMXA3
+K0I5UzF1Nm1pMHNvSWJURg0Kb3lFLzZ5NWNrTXhYSS8xc2l0emc0QUFxem9yS0o0dk14anpFWnMv
+M1JJT3Y0VjIzaUx3VHIxbGRHNytIOXhGNTdER3FhVkw5Mi9BeA0KOTBFZ2ZQZ0VqS25QS25OYVVX
+dnRlaVBOelZ2VGsveE04bjF2NGZhMXAvOEF4KzZmSnRISmRBZUZIcXBBUEgweFdGRFBKR1FZSkdS
+Zw0KZDhicjFSaC9kTmZRbWkvSFBScnMrVDQ1MHQ5R3V2dVNSM1FQbHM1N3JJUUN1ZmNBRCs4YXJl
+TVBnZlpYYW1UdzFJZ1lqemtWRGtUQQ0KL3dCMGpya2ZqOWEybFQvbE9LbGkrbGFLN1hJUGh0OFpr
+a0N4YTdJRmY3a00zOTREKzZQNmR1M0hBbStJSHdvbkxtNjhBcEY5cElMNg0KbnBpL2MxcUYrcFJC
+eGx4MUg4WFVZYnI0ZnFXajNsaysyK2dlSng5MC93QjdCNm8zdCtsZWgrQlBqWGRXSkNheTdUUWRC
+S2Y0TS8zdg0KOGZ6QjYwNHovbjlDYStINjRaLzNqQ3NydTN2TS9ZVWFLWWNYV2xTZmZ0blhyNVFQ
+M2d2UCswUDRoM085NFk4V1hHblNaVXM4QjR1cg0KZis4UFZCNnIrdlN2UmRjK0hmaGJ4TXZtMmNo
+dHJ2QWROU3RpQXdZZFB0S2RHeDY5ZlJoWGxlc2FGcTJrenJENHNhT1paRHMwZlgwNg0KWEw1Nlho
+UHFTTTUrWmV1U0t6blMva2ZtZE9IeHFlbUtqL2R1ZTdXMDF2T3F2QjVjaWtDU0dYSDhKOUQ3VkZi
+YUhZd3V6MjFqQWtySA0KZk5NQnk1UFhCLzJqNmRldGNOOE45Y2tWbWh1aXd4bWUyVnYrV2JLZm1Y
+SDE1L092UnF3SnF3czdYOVBRS0tLS0RNS2l1THFHRlMxMQ0KTkhGR29NczBybkFpUkJ5WFkvM1JV
+ZC9xVnJheHMrbzNNVUVLanpKcG5QRWFqL0hvTzU2Q3ZuL3hWNDUxanhUT3R2NFd0Si9zeFA3cQ0K
+M0hCdkNoKy9ldDJXUHJqT0IxUE9NYVFoZjlUS3BOTDlCUEZ2aXJVdkZsMmx2NFpoa2EyRFl0RU9R
+SjJIV1c3OUFpNXh4a0R0azRyNg0KRzhEZUFMSFE3ZFk3QUIzL0FOYmYzaEhON2NFY2tqMFhvQjJI
+cWNrMFBoejhMTEhRSWNSbEo3eGdEcU4vai9XRWZ3d0E5RlEvaWVwNw0KQWRyWFpGZGtjRW4zQ2lp
+aXFFRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFC
+UUt3UA0KRXZqdlJ0SlhPczM2SXgrYUcwVGw3ai9ybkVQWDFPQjZtdkMvRnZ4MjFuVU1wb29mVGJj
+L0wrN1A3eWRmK21rdzZaLzJjZWhKRlMyTg0KTHNqMTN4aDhYdEYwakt2TjlzdXh3TENBajkwMy9U
+ekowSDZ0N1Y0SDRyK0ptdDZ5VDl1dWZKdHM3bzdDTGhFeC93QTlmVWozejdBVg0Kek1VSlk4S1dQ
+VnNuZ0QxWnFuUkFUKzdVVE42L3d4ZlFWbEtaMDBxUGYwSTRJRk9jdkZId1pvNXBNamRzSFNJRHU1
+cjBmd2I0QjBlLw0KaVdTN3ZydTZiT3k0dENkcXdTanFHQTU2ZE9SbXZQR3lTTmp0TktDSFVnY1I0
+OXE2dndkNHFTenVGYTR1NDJqbXpIcVVTcmdXVXBiNQ0KUzNiZy9vU2FtTDdvMHFSdDhMODM1bnNG
+aHBObmFydDA2emdnVHVzWXh1SS92R3ViOGRlTExHMmhlTjVKWkxpUlRCRmJ3bm1NU0tlWg0KVzdE
+OVRSNDI4ZEN3WFpwNVY3eGgrNlh0YVJuK0tRZnlING5pdktRamxpMXpLOHNySGZOTTNWMlB2Uk9k
+djBIaGNPNWJiZFdRVzVkUQ0KcXBCSkpJY2xZWWhra0RQWWVncWFHZFgrNWtIb3lucWgvd0JvVmUw
+UFhKZE5uOHlHeFc2QlUyendrNEtoc2NvK0Q2ZW50VkcvMU9TUw0KU1NTN2lqamQyTXF3TC9EK1Bz
+UDhheGNWMFBUaFZrbmFjZmRXbHlPNkVBR1owQlBSUi9lUHRUdEY4T2FqcWo3ZE9nQVFmNjJROExh
+cQ0KZitlamVwL00xZThIK0JyN1hwV1cxdXJlSGFwdUpaSkQwOUFrUS92dHhub09wNXdEM0drK05y
+SFNZeERyV2pYdW4zS0RaTmJMSC94OQ0KT0I5NUd6ejV1T3ZUM3hXMU9IYzgzRllpNy9kcEx2NWll
+Q3ZBMmtHVzV0TmZzbzN1bVQ3UnBXcmdjL1o4RC9WSVNRREd3QjlUeUNjWQ0KcTdhMy9pZlRrRUV2
+Z3ZWYjJlUC9BRUsydllWWXhYVVMvZFl6YlR4dHgzK3VEMDZINGZlSDlSdXJscnZXN1NTMFVwL1or
+aTJMakRMYQ0KazUzU2cvM3VjZXVTZW1LOVFyWkk0TDlqZy9oNzRIMUN6YVdmeEhQR2I2WUtzMXJI
+OTJ4aWo2THVCT1RqSHNNZFQxcnZLS0twSVFVVQ0KVVV3Q2lpaWdBb29vb0FLS0tEUUFBMFVpVXRB
+QWFoMjFOVEF0QUR3S0tLS0FDc2k0SmQ4Q3RTUnNDc3l5WGM1Si9DZ0RVUlFCeDlLZA0KVEFjbmlu
+MEFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZaK3M2Qlk2aEUwZXIya2R4QXcyU3hO
+NitxTU9oUTlDT1Iycg0KUW9vQStWZkUvZ3pXL0IxeUpOS2xrdU5QWStYRk8zU1ZQN2wrbzZNbzZI
+djFHT1FQU2ZEUGkreDFTTGRZUHRZZkxkV3pINXJXUWpvdw0KOUc3SG9mekE5WDFEUzdXN2paTlN0
+WXJpQmg1VnhBNDRrUStvOXZ6SGF2bWJ4dDhPTlg4S1RpZncxTE5MWUU3VmtQUDJRT2Z1YWdvNg0K
+cS9ZOS9ZNHpjSm1jNG5ybFJtMlRPVkJWdTdML0FCZjd3ckI4SmVPYkxWbzgyN0NPY0QvUzdOanpD
+ZlZEM0RIditmTmRGWFVuMlp6dA0KZDBRM0Zvc2c1SlZoODBVbzZ4dDdmV2t0NTJQRTZoWkI5NERw
+SXZxbjEvU3A2WkpDR3gyWWNvdy9oUDhBOWNVQVBybXZHSGdLeTFhUA0KRW9XSzRBeFozZ0hNWjlK
+UjNESDh1MWRMUlExM0JQc2ZQMGZqVHhuNGZKaGgxbTd0RlVsNHJjaFdYYXg2Mi9tS2VIUHB4N1p6
+VzlkZg0KRm40a3lRTUxnM1R3dXV3WDBkdUFSRTQ2d1hFU2dmTU8vd0NWZWgrTHZCZHBxMFJXZFZT
+WVpleHVzYzI4aDlmWis0L3JpdlB2aHI0bQ0KdXJDNGExMXJjZzNHTzJWai93QWUxMnZaVDZUL0FN
+K25XdWR3Ny9JM1V1eTlSUGc3NFh0NVM4MTFFamxDTFd5VmgvcXBkb0pZRDFVRQ0KWTlLNnY0bytJ
+TGEydERIUEc4a3MyYmUxalhzWXlwTE1mOWc0OXovS2g4TkdGdExkd011M1pLWjRjL3h4c1NCdEh1
+cWcxbWZHRFRXaw0KbHRqTE9zTUpKc3BMaHVsb3pPdk1nSCt6eitGVjAwWHFUMTErUndHajZ3STR3
+dVRrdHdmN3FrRCtaRmRnckFqajZqNkdzVHhiOEp0WQ0KMFpOOTNKYXoyKzRRSmN3RS9lZFNSdlFn
+WTZZcTlvOTZzMFlJSXo5eHg2RVY1ZGFQV1B6UHFNcnJQYXAwMWo2RjRFajdwSVBVRWRpUA0KUTE3
+cjRhMTFMNkJXVmh2eDVWeW8vZ21UcmtlL1d2Q3ExL0QzaW02MDU4MndEb2ZsdUxkdWt5ajBQcXZy
+V0NPN0ZVcnIzZDkwZXY2Nw0KNFQwclVrMjYxcDBGd3ZTTjJIelE1LzU1U2prZmdhOCtid1A0cThQ
+RXY4UHRZbHZiWC9XemFEZGM3aC8weVVZQno3Ykc3YzFyM3Z4VQ0KMHVXTWg5TXZKR1BTSnNBSzQ5
+SlFUMC8zYXJlSGZpRklEaTVablhvWW1PU2kvd0RUSi9iMHJXTlI5R2VUUENOL0ZCbG14MWZ3OTR3
+ag0KWkxxMS9zL1ZGR2JteGw0WU9uQk1MWUdkaDl0dzZNTWRmSHZGZmdtKzBxUXJlUk5zenRobXg5
+NGY3WDRmZ2UxZXZlT2ZoK0w0QzU4Sg0KeW0zMVJNWFZyY1FuSDlvS2c2UC9BTFFIQVBmbzNIVFEw
+SFZyRHhmWWtYOEVVZCtnK3k2akFlREZPT2hRZWsyT1BROGM0NTZOSHNjZA0KT280djNyMjZuaHZo
+N3hwcWVtTm5UYnBndlV3azhIUDkzNi9yM3pYUStPUGlwTnIxdEZESnB3KzBtVkpJSkIzZmF3K1Zo
+L2ZMRCtFVg0KeWV1YUxMWXpPbHlDQ3B3ckgrSlBVaXJuaEN3TzR6eklkcVp0dElVLzh0YjByeXkv
+OWVxblArOFY5NmlMZlU3SzlPTHR5UlYzdDZIZg0KYVhlYmRSQmhmY0RLMFFjZjh0RmxZalAvQUFQ
+T2E5bXI1OTArK2Eya1Y0MFJtVStiR3JkTjRIRzdIb2E3YTErSWpRVzQzWEludlpHYQ0KWjNmN3Rr
+cGJBTWdIOTBEZ0N1ZE03c1ZSZW5JdjdoNlpXSjRsOGFhWHBNVy9Wcm9LT1VnZ1RsN3FRZG9VOXZ3
+QTdrVjU1cjN4VU52RA0KdDAyYVpWQXhQcUVuMzdxVnV2a3AyM3QrSTlxNGZ3YjRHMVR4WGM1dXA1
+NHJKT0wyOEp6NUtFNTJXeGIrS1Q4aDFQWUhXbkMvNm5tWQ0KalQ0bXI5RVQzRjk0bzhhM0lUVHJj
+eFdxbnpCRGsrWHBxTm41cnlYSExFWnh4azg3UjFyNkY4Qy9EVFM5QmgyNmNubXpIQnY5UmNmTg0K
+ZU9QYnNxOWhuanZrNUoyZEI4TmFkcGtRajBTeGl0b1J5RVhySTVIV1Z6eVN3SFVuTmFkZGlYWkht
+TjkyRkZGRk1RVVVVVUFGRkZGQQ0KQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJS
+UUFZb0FxT2FlT05TYmlXT05BTjhrcm5BalVkM1krZ3J5YnhoKzBMWQ0KMitVOEt4SmV6ZmNhOWZQ
+bHhIL3BrdkJiQitnOXpTYkQwUFR0VzEyd3NJeStyMzBGdEVPREpJZnZIMGpVZFNmUUFrMTRwNHYv
+QUdoNw0KbVhLZUVJV3QwKzRkUmxIenlEL3AzaDVBejZuSjlnYTh2MWp4RHFPcFNiOWMxR2FkL3dD
+RXYwalU5b0lod0FmWUFWWFdJS1BuSmlYcw0KVDk2UWY3SXJPVSt4MFVxTGUvekd6enp6dVd2cDdp
+ZVluZEl6a2xwVy93QnQycHdpVmVKQms5cmVQdWYrbWorMU5aR1hsSTJpVC9Wbg0KbmwxUHQ3MU1o
+T1A5SFVRcDBhWnVyZlNzWk03S1VGMVhuNmtVOGUzQmxFYS93bUJPeWY3UnA3dGtEeldFU2RVaFRy
+SUQ2L1dtZ3FBZg0KSlVZNlBjU2Q4LzNSNzFGR3dYN3BDOXhLUnp0SDl3ZTlDUTNLMjF2UCt2NlJL
+emtERzB4TDJpWDcwbWY3eDk2U045dVE1Y0kzRHdJMg0KTXV2VHpTUVJ3eC8vQUZVd3NGNlpUMUor
+OUpuMzkvOEFPYTBkQThLYXJxcjdORDA5NWVubk9QdTI2bnZjekgvSjdDcWl2SXhxejd2MA0KS2Yy
+NTFKTXhhV2IvQUZiU3MyZmxRQWNQbnNCanJRdXJTZnhSeG4ySCtOZlEzZ3o0RmFYcDJIMWd4Nmpk
+RDVnR0g3dTJjZjhBUEdJOQ0KU3ZxZnFBRFhvZDNwOXRjTHR2ck8zdUkraGlsVUVOOVVZR3I5bXVx
+TW80bVMvaHl0MFI4Zkpxc1JIekJsUFpmVSt4cTk0YThLM1dyeg0KWUJhT0FmTmQzQUgrb1E5azkz
+N2ZuWHR2aVA4QVo5MEs4NTBpU1RTcGM1Ynl4dVJoL3dCZTdNTWNlaktQYWxYNENXRVNyL1kzaURX
+OQ0KUGsyaU85bGdmaS9kZjRuanp3U1QyT0I2VW8wMTBSVmJGU2VrMnU3OHpuOU0weUsyMWExWHcx
+QXFGRVpOWGpqNkpZa0hIMmsrcEp6eg0KeVRnK2xlMjRybmZDbmdMVHRJVnZzQW1tbWY1NzIvbk9Y
+dTJIOTUvUUh0K2VUWFJWdEZISXdvb29waUNpaWlnQW9vb29BS0tLS0FDaQ0KaWlnQXBINlV0Tms2
+VUFLblNscEZwYUFDa0FwYUtBQ2lpaWdDdGZTYlYvU3ErbkxoU1RScWo4REZJamJVR09wNG9BdVFj
+OWZ3cWFvNA0KVndCVWxBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCVWNzb1VjL2hV
+bFViaHk1d3RBRmkzY3NQbS9DaTV0SVpsSzNjRQ0KY3NiQXhUUXlESWxqWWNoMFA5NFZKR2dBNHAx
+QUh6VjhRL2c3cUdneWZhZkJNbHdiVUh6cFlVNWJTUjMzRHVoOTg0SDNzam10N3dSOA0KU0xYVlYy
+eitYQmVBWm10czhUZ0Q3MXVUL0xxUGNjMTdxeWcvZVVFZENEM0I5UjcxNEg4Uy9nSk5DeHVQQU1j
+aU1EOXB1ZEtoNE1Mag0KK0xUc2VuOTMvdm4wcW9TLzRKRW9uYjBWNXQ0SitMa1Z6aVB4RTZRWFAr
+cWl1and0Mnc3U0RzeC9JK3g0cjBtdXFMN001NUx1Z29vbw0KcGlDdkYvaTVhZlpicUdXendrakR6
+Q3c3ejJqakJQMEJBL0N2YUs0SDRuZUJyelVrUnRMWVBKSGxXdEQvQU10b3BTdVRFM3JIanAzSA0K
+VG5nelVYWmVhTGcrN0tNOGd0dFlqYUZUdHVJaE00UDhKUkRuL3ZsSXgrZGRyNG44TlE2bGJ2SE9R
+cFA3eTNsSS93QlJPblFnZTNRKw0KMWNwNHZ0bFM5c1JBUnVDem9SM0VVY0E2L1VacjBCNVVRWmxk
+VkhjbjEvOEFyMFJYY0creHduaFB4SkhkUlBwL2pwZkl1QXYyQ3luZg0KL2w3aUgzZGpIK0tMQUtu
+K0xqdjE4eVMxdWRIdW5oMVlCY0h5eS9aZ2VqSVQya1d2WC9GSGhYVHRZVUIvTWh1UmtXVjhGT1lY
+QXpoLw0KWStuSHFNVnhTNkplK0lJWll0U1pXMXkwL2QyMDVQT3IyQ3NmbGxjOVRHM1FucmtaNmsx
+dzFhZHQ5bnY1SGZoNjcwNWQxdDVvZ29ybg0KTkcxdDR6NWVxSzhVaW55Vk1nd1VaRDkyVlQzWHBY
+UjF3VGkxdjhqNnZEMWxKWGcvOFM3QlFDUjkwa0hxQ094SG9mYWlpb09nOTcwSw0KeVdHRkJHek44
+cXlNeFAzblpCa3IvdkhtdUY4UmVEdGIwNjgrMStBSW9wSld5bXM2U3h3TDRFOGxSa1ozNHllUWM4
+ak9UVmJ3OThVSg0KTFpBbXBXalRvbzh1R1pEOHlvT2daVDEyampxS3ZhaDhaSTFYL1FOTllIdEpP
+M0NuM2pYL0FPS0Zhd25iWThLcmhaUGVQbW1jRDRuMA0KYlhkWW44M3hKb3E2RmFqNUxsMlB6VEVk
+cmFNOGt1YzQ0d09wT0taUE5HY0MyaEVNQ2p5TE8zSC9BQ3hpSHFmVnljazQ1UE5XZFUxMg0KOHZX
+M2FoY3RJZjRGN1JLZitlYVZnWCt0UXdrS3AzU0g1UWcvNVpnLzM2SlNiMlhtZG1Ib1JqclVscjhO
+L3dESTBhaHVidUtGU2Jodw0KcWoveDQrdzk2enIzeEhEQXZKM3lZKzcvQUxXTzQrdFd2QnZ3MTF6
+eE5JR2N0YldJTzI0djNIeW9CMVcwVHUzNkR1ZWxPblRmVU1aag0KSXI0R20raTdGYnd6NFQxVHhQ
+Y2hMSldodFZ3OTVkRWZMWXdFOVQ2dEpqZ2Qvb0NhK3NQRC9ocXcweUJJdEh0eEZDbzJxTzhybnEw
+cg0KZHk1Ni93Q0ZSK0cvQ2VuYVRDc1dpMm9paUh6TXgrOWN5bnEwNzl5Ly93QllZR0JXdjlLN1V1
+eVBtYWsyOVp0OTJMUlJSVkVoUlJSUQ0KQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFB
+VVZHODhha0NTVkZKNGpVbjc1SDkwVkpRQVVVVnpYaXI0aWFObzY1MVc4Qg0KbHh1aHNZdVhtK2lk
+Z2ZVa0NnRHBLOC84WGZHM1JOTXl0cElOUnVoOHYyZUEvTEEzL1R4Y2NqajBHNCtvRmVQK0wvalBy
+ZXE1VzJkcg0KQzA2RzFnUE15SC9uNW00Sno2REMreHJpb3JjSDdpK1kzZkhSUDk0MW5LUnJUcHQ3
+Ry80bytJdXRhdzMvQUJOTDNaRG5kRll4OFJ4WQ0KOVU3bGZVNU5ZVVZ2M1FBRHZNL1FmN2kvNS9D
+blBFRHhHelN2MUcwZkxFQjZDbEVxTUFaMmFWdWlRRG9wSHFLeGxMc2R0S2tsOFZ1Ng0KR3VwNjJ3
+bFlqNW5tYitMNkErbFNSRUUvdVZhYVRxMGpkSXlmOEtKU2YrWHQ5by9ndDA3ai9hcUVNeThTZVlp
+bjUxaVhxYzlpYWxHcg0KMGZYejh2Nis4bVlMbjV5YmlUcGdkSXdmZjJxQk1uZy92Q09FQlB5b0I2
+bjJwN2VqcnRIOE51blZ2K3VocUtiSGNSZzlCR3Y4SS8ybQ0KOTZjVVoxWmVoSVdIY2lROU41KzdI
+L3VqL1AwcGlKSkt3RnRITk5JVHRqQ2dreU1lZ2lRZXRkWDRRK0ZldGF5UVlZdnN0cDkxcitVZg0K
+S0FQK2ZhUHVmcHg2a1Y5QStFZmhsbzJqci94TDdiemJqR0pkUW01ZDhqL2xtZXdQb01lK2ExakU1
+S2xYdDZubDNnejludTVudy9pNg0KUjdhUDc2NmNoK2VZZjlQRW5iZDZmZStocjIvVE5Hc3JLTUpw
+VmxCYlFqN2tVWXdNK3JIdVc3azhudlYyaXRVakJ2dUZGRkZNUVVVVQ0KVUFGRkZGQUJSUlJRQVVV
+VVVBRkZGRkFCUlJSUUFVVVVVQUZNZW4wMTZBSENpZ1VVQUZGRkZBQlJSUlFCa2FrMldGS0R1SUEv
+RVZGZg0KTjg5UzJJM056OUJRQnFnVXRGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVlhsdWNIQy9q
+VXpzQU9hekVjc2YwSDBvQTBvMkpIUDRVKw0KbW9NQ25VQU1sY0tLcldrZWVUK0ZMZXYwQS9LcDRV
+MmdjVUFTVVVVVUFGRkZGQUhsbnhKK0ExanErWk5GOG15MUQ3enRqNU5TYi9wNQ0KVWRDZlVENmc5
+dkhQRDN4UDFQUjVHaDhTUlBjUnhzYkdZYmdYc0pJR0lJamt6Z2hDTVl6OURpdnJhdmtqdzFvdG5x
+bXFYUTFTM0UwWg0KTTkyeWtrRlhhNUhLTU82N3FxRi9za3lTNm85ZDBmeFBwbCt1ZEsxQ0NZZFdq
+QithTC9yckVlUitWYWRlUjZuOEJaVmJPZ2F5Rjd4eA0KM0FJTVo5cDR4LzdJS2RwSHcvOEFHOXJL
+clE2OWFIYWVVbG1rWkprUFVTUmJlakQ2RWRRUWVhM1VuMWd6RGxYU1I2MVJVVnQ1MjFmdA0KaGhN
+dUFKekZuYTBnSFBsQnV4UFRyajFxV3RDRHpMV3RRdG0xVm11N2hJSXJlQUs4c2grVXpUbm9NZDNq
+a1BBQkp4VkxYZkZtcDNjYg0KeVFTejZmWXFQM1Z5UmlYVW1ib0xOUDRRNTR6MTc1UFFkWmIvQUF1
+MG9YRWsyb21XOWtkemRSUXpmZHRpZXdUdnN6Z1o0QTdWTDRtOA0KTDIxeEdWbURDTTh4c3A1dHBW
+NkdNLzdOUWsvMVJkMStoRDRBOE1OWXdnWElienlQdGw4VzZyY1hHT0dQL1ROQW8rdWF5dGF1QnBP
+cg0KMjg0SlNHWWYyZHFCN01lQmxqL3Nnb2Z3cTM0WjhTWGFTR0hXbjNYaWp6SVpoMDF1elVkVUg5
+K0lEbjEvV28vaXhwNnoyTytJQW1OMQ0KdWxjZjg4cE9PUHFXRlRVanBzVkNXdjRtNTQ5K0V0anJR
+TW1rU3d3WDJNZWQvRGZCUjB1UU80SFE0ejJJUEdQRnJzNjdwRGJOZTB5ZA0KQVBrak1nNGNEL24z
+bkdRUitKcjJEdy80RjhSeHdSUytCL0Y4TWtMb2wyTkwxTlNSRDVpQTdSY0lDZmtKeGphdVBXdE9l
+RDRrVERiYw0KYUg0TUlQeXZOSXpsQ1BlSWsveU5lZW92N1NUN0hwUnEyMXBTa3U1NGNuamEySStl
+Mm1COUJqK2RRemVOcy84QUh0Wjg5QXpuMS8yUg0KL2pYcjhmd2owU3hiei9pTHFla3lFZk5IcHRw
+RXNjVy9zUExRQXRrOU9CbnZtdlB2RTN3dWxhR2U4MDgyMWxwcGI3UnB0aktNTzl2Tg0KS0FQS2lV
+WUEzTnhrZzQ2Z1ZTcExzYVBIVlA1MFpNZmlHR01adkpnOG5RUlIvd0FPZlNxTWV2UGN5RHpwRWdo
+SHp5QW5xbzdmVnE3UA0Kd3A4SnRPbnRVbDFXVzdkM0c5YlpUaFVWcE1ESkF6OHk0UFVWeWJlRHJH
+UkptMHpXcFpURnVkcldTTGEyeUxQTC9PZU1EL0hGVXNQNQ0KZWdwWmhKN1BiZnpFMUh4aDIwMUNl
+M25NT21QN2kvNC9sWFAycTNNc2dGcUdrbVkrVkNPOGtzaHh3VDNZbXZlL2g1NGMwcU8xaWt0Tg0K
+UGg4NTB6YzNEY2wzT1Fkck4wQkk2REFxajQxK0V0cmVydjBLR0MxdWdQOEFVb0FFdkFPekFkRDc0
+K3ZxTm8wZjVVdk01SzJLazMrOA0Kay9MeUxmZ2I5bWhzaVR4M01HLzVhTHBFVGRUL0FOUGs0OVBS
+VCtQYXZkN1d5Z2dRTFoyOFVNU2p5b0lJd0FJa0haRUhwWHo5OE5mag0KbmMyTGkyOGV2TXFxZnMx
+dHFFMzNyRmgvRGVrOVY5RDFIZkk2ZlFrY2lzQVkzVmxJM282bmgxSTZxUjZpb0l2M1kraWlpbUFV
+VVVVQQ0KRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVWxVZFgxMnhzSW1rMWU4aXRvRkc2V1p6
+K2lqdVc3QUFrOXE4WHZmalI0cjFwMlQ0Yg0KYUkwRUErUjlVblZTZnF4ZjVWeU8zenNlM3BTYjdn
+bDJUUGNwN21LSlMxek5GRWcrYVNWeUFJMUg5OWo2VjViNHQvYUowZTArVHd2Rw0KZFl2Q2ZKaEVX
+ZkxTUW5qTW8rOWs5bHpuMUZjc1BndHIycE1HOGVlTkxxNEdkMzJXRml3VUgvbm0wbUFNZTBaRmR2
+by9nenczb1NGcg0KVzF0YlVBWW4xRzRiTFlPQnpPL1RlZXd3RDZWbEtvdnNtOGFMKzFvZVhhbDhO
+dkVPcHd6M2ZqalZKb2JwWTJ2ZFBzUUIrNFNCUzJKRQ0KNktDQVFBT1FlV09jZytrL0RmNGwydzBx
+T1R4WHFxUnNoYlRqUEtjdGVDQThiVUdTU0VJSEFKUFUxd0h4QitMa2Q3RzBQaDhTTEEzNw0KdTh2
+bUdEZFIvd0IyQkR5QS9jbkJQVEE3K2FDQmxVYnNxbytXSkNlaWsvd0w5YUl5ZjJ2a0U0TC9BSmRw
+K2JQVy9GdjdROTdjWlR3cA0KYnRaeC9jTjdLQVpKQi8weVRrRFAvQWo5SzhxbGxtbWNtOWxubWxK
+M1NNeEphWnovQUgzTlNSeEFESllRcDJiK0tRZXg5L3BUV1VqbQ0KMmplTlI4cGM5WEI5QlVPZitS
+dkdqYmYxYThoNWpWZjllY2YzYmVQcXgvMnpUVXlPTGwzalQ3NFFmeGcrcHFXSWovbHpqTEgrTzRm
+cw0KVDcxSEtnUCtxZDVaQjg3T09pZ1ZDOC9VNjVSL2tTL3ovd0EveUpRV0kvZGdXOGY5NDlYSHQ5
+YXJodGgvY0ZrUS9KNXJEdVBRKzlPVw0KVGZ5Vk16OWNIN3NJOXhUWEc3cTVrYnUvOE1JOWpRbDMr
+Wk5TWDh2L0FHNy9BRi9rT1VnY3hrb09qWEQ5WFA4QTB6RlJ1Qmo1UnMvag0KVjIrOUl3L3VnVXdU
+SCs2WGI3cXNld0g5MWE5TDhHL0FmVTcvQUEvaUpwdFB0ajg0akkvZTNTLzdLTjkzUHFSbjJ4V2tZ
+bkxVcXIvSQ0KNFhSTkExTFVYQ2FGcDhzMGgvMXBUK0JUM25sUEFINUN2ZFBCZndEMCt5dy9pSXhY
+OXo5OWJmSDdxMmIvQUhEOTRqM0dQYXZRTkQ4TQ0KNmRwc1lUUnJLTzNpSHpNQjFsZjFsYzhrbjNO
+YWRhcUp5U20rcjhrQ3FCOTBBRG9BT3dIb1BhbG9vcXlRb29vb0FLS0tLQUNpaWlnQQ0Kb29vb0FL
+S0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0FwR3BhQ0tBQVVVVVVBRkZGRkFCUlJRYUFNQytQejhW
+ZDB4S3BYZytldFBUMQ0Kd09sQUZ5aWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FxMzB1MWVQcFZX
+eVRKSDUwdW92a2dENmtWTllSOFovQVVBWGFLS0tBS1VnMw0KT0t1Z1ZWUmZucTFRQVVVVVVBRkZG
+RkFCWHlsOExEdTFHNFAreElUL0FNQ3VVcjZ0cjVPK0UweEYzT1Zpa2NsQ0FxK3JURHFUOUt1bQ0K
+Uk05cW9xdjlwbi81OFpQcHVYL0dqN2FSOSswdVYvRFAvb0JOZFJ6RmlpcTQxRzMvQUlwZ25ZQndS
+ei93TEZUcTZ0OXhsWWVvL3dBYQ0KQUZxZlRiUkpwRzg2MVdaRlhac1pjZ1N6SCtKRC9jVWZyVUZM
+WWFsRkNzaTNjY2JzU0pvbHh6Y0Z4akVQSEJRS005ZlhJcFQ4aW8rWg0Kd3ZqTFFta0xIVFZFTnhF
+NXV0S2tYUDd1U0Z1VkFQWjhZd2FmTnFVV3A2YktZVkNoNG51VmkvNTRYTVFPNWY4QWdFbzQ5alhR
+YWphLw0KSXhXRXhETytLSm15WTkrQWNzQVB2SG11SDB4dnNzMTFFT0ltUTY1YXAvY1dZYlh3UGRp
+RCtGSnIvd0NSWTEvd1VZZmdieFZwTnRDcQ0KNmxjZUpvWk1sdnRsak1NUUxuQVZiV1RJK1VET2Vw
+ejA0cnBQRU41NDVpK2JTOVM4U3k2Y3dXNXNicDBRbVMza2pCek9ZazR6bnVGeA0KV0o0TytHZHRl
+YWE5eE5xMHR1WXpJMDhKUUVTeFFLRCs3T1JndDA3MTZrbnhYMHUvdHBJL0RjRit0NlltZzA3VDJq
+T1dZUmtmdW5USQ0KL2REbnFLNVRvTEVQd3gwRTJvZnhGRGNYVTRqKzEzOS9KTTVaWDh2TGVTZDJB
+QjZBWTlxOGE4V2ZGUzd2TEZiWTZiYXd4Z3BIREpFVA0KemIyeW5Dc2h6eVR0NXlQcFc1OE9kQzFO
+N3dRNmt1cDI5dHNlWFZOUGN1b3ViZmJqRXNYSERPd3FEeDM0TTBtMjFXMmgwU0dSRU8yLw0Kdm9t
+WWtSSjVoSkNGdWVJMEo1Sm9TQm5vVnZZaTJ0bzBBQUtySGFvby9qYVBiMCt1SzhuWHcyMXdieC9E
+cmg1bzVYa2pNZks2bFlYWQ0KYmNnOWRnSEgrT0s2cnhUcmQxZlNpMzBOMldSaC9wOXlQK1lkWk9Q
+WCs5T1B5SEhjNDdUUnREdGJHSlk3Q0ZVUlJ6ai9BSmFPZXBjKw0KclYwdEhPbVlQd3lrTGFmRHVI
+VGVuNEM0ZnArRmRiWFAyV3RTWE4xSW1udkd0dEN2a1hiZ0RFMm96TjkxVDZXNmc1d1FjbXRtTzZH
+Yw0KVExzZitFSHBLQi96emIvSnFvLzhBbC84RTV2eG44TzdQVmt5dXlDN0F4YjNZSDN3UDRiZ0Rx
+RCtZN2R3ZVgrSC93QVY5VDhPUy9adg0KR0VjN1dRT3hHYms2V0dQM3JjOTBiMEhUcXZPUWZVNjU3
+eGQ0SHM5V2l4Y0FSempteXV3T1lHUFp2WnU0L3JVVGgyTGhMdWV4V3Q1RA0KT2l0Wnp4eXhNQk5C
+TWh5SlkySEJSaC9lRlRWOHgvRHY0bDZoNFp1RGJlTEJJTEVuYms4LzJZN243OXNlNlNkU1B4SE9R
+ZnBpR2FPUg0KUVlKVWtRZ1NSU0ljaVJHSEJSaDJZVnpHNUpSWEllTWZpbm8rakRGM0tiaTV4dWkw
+K0g3MkQzbWJzRDc4bnNEWGl1cy9HanhYcVpLNg0KVzcyVVI0RUZrRHVDL3dEVFM1Ni9rVkh0VXVT
+NnN1TVg5bFB5UHBaNUVVZnZIVlIzWW5wOVRVZjlvVzMvQUQ5Mi93RDMwSytUWlBDdQ0KdTNKemZ6
+bG0vdjNFcEpIMVB6VWY4SzkxRC9uNHNmcHViLzRtc1hXai9NanFXRXFkS1V6NjRGTFh5WGJTZUtO
+SStiVGIrK2hRZk8zaw0KUGxNRC9uckQwL05jVjYvOFBQamhEcUpXTHhDc2R2ZG5FVnZjcndtb09P
+eEhabi9JOXNjQ3RJVFQrRm81NmxLUy9pUmFQVmFLS3Fhag0KcTFuYUlYMVM5dDdhRWN5VHlzQUYv
+RSt2NW10RE10MVd2ZFN0TFpDMm8zbHZiUkRtU2VaZ3FvUDlwMklyeFB4ZCswL0NwS2VDYkEzTA0K
+L3dDclhVYmhUdDNIL24ydHVwejJ6dCtocmhvL0F2aTdYM0VuaTNWTGlKUHZSbTU2b3AvNTk3TVlD
+NS80RDlLYVhaQ2I3bjBOcGZ4Uw0KOExYcjdOTjhTNmRKTG55NDRTMkRNM3BEdkF6bjJ6VzNxdXMy
+ZGpFMG1xWFVjRUNEelo1bjZLby91ajFZOEFkVDBGZk9HcWZBUzI4dg0KL2lUYW5jQ2NETzI0eHR1
+R0hvVkF4bi9nWDlhNU1henExM0pEYWVPdGZ2cmF5amZ5NWhMeWJiSTQzeWQrT0ZKTEJRY2ppaVVX
+dDBLTA0KN003dDVOVDhjWFc2NVdlejBPSnRzTU9lWjIrdmQ1QjE2aEJ3T2V2c09uNlhhV2thcHAx
+ckZid3FOa1VNWXdFSC93QmtlcDZucWE1ag0KVS9HZmh6UUlsanR2THlvMld1bTIzSlZmV1p1Mjhu
+SkpPVDE1cnlQeE44VXRaMVBJRXB0TGJwOWtoUDMxUC9QekwxT2Z3SHRYSEs3Mw0KK1IzeHN0dm1l
+cWVLUGkvcEZobGJKMXY3ajd2bFJINVlXLzZhemUzb01uMXhYald2K0xkVzFaczZuY2p5eHpEQXZD
+V3VmN2llcEhmaw0KMWxSMjYvd3I1cmVnNkovdk5Ua1JVT0prTXBIK3FSVHdDZlVVSkxwNmxxRC9B
+T1htMnd5TlFwL2RsY0g1VW1jY0tSL2RGV1UyNS8wZA0KRE0vUjVtNkxuME5KUEd4SCtsU3FuL1BL
+RmV4OTZTT1ZtSHpPa0tENVhBNnNmWWU5SnY4QXlaMHdqYlMzbkgrdWhHcXJHMkhUelc2Ug0KS0R3
+Q2ZVZTFTeUQvQUovSkNUL0JicDJKOVJUSkVCSDdtTVJxUG5XVnVzakQrNmZla2lZa2Z1Z0l4MGx1
+SDZsaVA0ZnJSL3d6RW4wcw0KdTYvcnI4eEF4WGlZeUt2MzBpWHF3SjZFMDl6Z1lrR3dmdzI2ZFhK
+LzU2SDNxSjlvR1lRVi9pRXpIbVJ2OWtWSlkybDNjdUUwcXpubQ0KbWI1VlNNWmFWajZZN0QvOWRV
+bDJNWFV0OFQvdy93QmYwaUYyMm41MUlYNzNrcWVoSDk0MXZlR1BBV3RheTJOS3ROc0lPMmE3ZmlP
+Mg0KUHUzY2dkaGsxNmI0TS9aNFJjUDR4ZmUzMzAwdUp1RlAvVDFNdlg2S2NlNXIyVzFzb0lGQzJk
+dkRERW8yUXdScUFJbEg5eEJXc1k5eg0Kam5VZlE0endaOEhkSDBqRFBHTDI4SEp2cFIvcUcvNmRZ
+dWNZOWVUNzEzVkZGYUpHSVVVVVV3Q2lpaWdBb29vb0FLS0tLQUNpaWlnQQ0Kb29vb0FLS0tLQUNp
+aWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb05GRkFHRmNqTDFyV2k0V3N1ZGZu
+cld0eGdVQQ0KUzBVVVVBRkZGRkFCUlJSUUFVVVVVQUZCb3BraHdLQU1pZHR6SDhoV3JicHRVVmxR
+amMxYklHS0FGb29vb0FnVmZtcWVtYk9hZlFBVQ0KVVVVQUZGRkZBQ0VnZGVPNTlnSytVZmd2bHJp
+WTQvZ0dmWXRJUDhLK3B0UWwyUk9jNHdyUG4wMm9hK1gvQUlKUi9QT2NkRlJQcHVadg0KOEt1bVJQ
+WTlpb29vcnFPWXh0ZFlzMGErZExHckZwcGpHY0haREhuclZkTkV2WXdEYXoyODR3R1pKeGdna2Z3
+M0NmMW8xYTFubm0vMA0KT1IwYU5RNGRlcXlTc2VvLzNSVGRQMTRxZHR5cXd5ZEFoKzVkRWY4QVBC
+ejBKOU9ocXZRQ1Q3YmZSLzYzVHRSVC9ya3drQkgwUFA2MA0Kbi9DV0tuL0h6Qk1CM0xJeWtjZjNl
+ZTN1S0x2eFlZNUNGZ2pDS1ZobURuRHUwMlA5VW1QNEFmeDVwZkVHb0lVSVhPNGd4d1Juck84bg0K
+SHlSOWVBVDJGWnhrdnMraktsRjlmVkYyNHY0cEF1OUpVVWxYK1pmdklPZUdHUjJyenp4SmNwQmNo
+bGRTR3Q3cTFMRCtJUXdGaCtacg0KMEM1bVNIWjU5MURicWlqYzhuVGUvQUE1SFhCcnl6NHAzb3pF
+MXZQQkpuelkxbGk2U0pOR29PT3ZZK3RFMzUrWTRMeThqYStFOFdvNg0KcmFTMm91SXJheXdidVc3
+Vk12SE0weTRVSGNCaVRhZTJjZDYzOUY4UDZmNFR1dzNpUFY0cFZkR2gwK1NPTnN3a011VGNSak9N
+amdZTA0KWjVybms4VzNYaHd4UitIN2V6UnZJaG4xMktWTS9hZFFsakxIZWNnallyZ2NFVjBtdWVC
+ZGM4U3h4WEN6MkZzNWpFY2VuUHV3c1lrWQ0KZ3JMZy93Q3VCejA0OWE1VG9JUGl0NHplNEVCOE5Y
+dHkwQzdyaVRVTGJjQXM3WUFWcGhqQlFBNUhYbXZMZE84VDNUM0VrK29YRXQ1Yw0KQlJZV0FrT1Rj
+M1VnMnFHUG9xQnMrdlRxYTlwMEx4am9ta2FhNkxxMWkxN0VrclhGcXgvMStvWmI1WTl3Rzc1OERq
+SUlyeVA0YWVHbQ0KdXBkOXdwS0tmS3Q4L3dBVTdqa2cvd0RUTktjRjJGSjl6MHp3TjRYYTBqTFhy
+K2JkU0g3VGZUbnJKSy9Ybi9aemo5ZTlYUEdmaWhkTQ0KdG5kU1BOUCtqV0tuK0s0a0J4eC9zREov
+Q3IwK3QyOERoYnBEQXVESkhPNUcxd21PRkdjOS9RWnJ5M3hicXFhenFNRU50dk51ckJKUQ0Kd0k4
+MHZnc1FENlJnQWNWdTVMN1BvakxrZThrKzl6dnZBT2lOYVdhZWNHODUvd0RpWlhqdDFlVzQ1K2Nu
+dXFZQnJvcHJkSkJpVmNqcQ0KUDlrais2UjZWSUFCMEFIb1BRZTFGYUpHYktJdUpJRGk4WXZIOTJP
+NS91NTdURCt0WGdSMkk5dnBWY01DU3M2Z2cvTkhuL2xwR2V4Lw0KM1A1VlhqTFd4dzdFd0hpRnov
+eTdzZXpIMFBhZ1JqK05mQWx2cTBXQUVqdVZCYXh1VDJQOTJVK2ovcDFGY0o0WitMSGlUUnJlUzJr
+aA0KQWRUNU5qTk45N1NpU2R3aVR1RDFIWWU0cjBueFQ0a1RUb0MzeW1RL3ViT00vd0FjekQrSWVp
+RGsxNVo0YjBWN3R6THFUTkl1VEo4Lw0KL0wxT1R5VzlsTmNlTG1sK3AzWUtqS1R0SC9oaGRJOEpU
+M1I4eldaSmlHUG5GV0ozWFROM2xjLzN6K0o5cTdLMnM0WVJpMWhTTmV5cQ0KTy92VTFGZURVcU43
+djBQdE1OaG94K0NQcSs0VVVVVmtkUVZ4WGlydzBzWDd5d1RZTS82Ukd2OEF5ekovaVFmWHJYYTB5
+V0ZIVWlWUQ0KeWtHTjEvdkt3L3FLMHBUYTIrWnpZcWdwSzBrdThYMkdSL3RMUzJsa2l2cDdYV3Bq
+TnNaNWZ1TkhHQmg1aURrbGdlUnhrODVGY2pINA0KYThYZUpuRW5pZlVKNG9QdlF0TU1CRVAvQUQ1
+V1l4MUhmalBYSnFyNFl0YmVDL1JkUnRvWmdHTnRGNWcrN01jN1dVZTdZL24xcjIySw0KNDNFaDBL
+TU9TcC9pWDFVMTlEUWltZkMxbTA3VzhtY2xwM3c5c2RLdzJrUkY1Qi9yWjVjRnNkOXB4MEk3QUN1
+cXNyNUpseW9BYnBJbg0KOTAreDk2a3VMcUdKU2JxYU9KQnk4am5BUWY3Uk5lWDYxOFNvb1hQL0FB
+alEzajdwdUpCOG9KLzU1Um4wUFRPTWVoRmREa2x2YnlNRQ0KbTlqMGZWTmNzckpOMnBYVWNTOUZC
+Nnl0NlJvT3RlTCtOUEVscnFzaW0zMHRZOXVZbzUyKy9jSWUwb0haZXc1eDYxazNsOWRYTDd0VQ0K
+dXBuWS9ONWo5MUhaQi84QXFGTk1MZ1ppamFOUnh1SjVrQi8rdFhIVnJkanVvNGZ2ZnV5Tm9RaEhu
+WVA5Nk1Ia0RIOFI5NnN0SGdmNg0KUTRpVHFzS2RXLzNxRlVNTVdrUEhSNW43L1EweUZncElFUmxr
+enRSdXdBL3dybGJQU2pCTHRaNkovd0JiaTI3U0VZTWl4S1BtWnNjcw0KcHBXVlNQOEFRNGlNZlA1
+eC9pSTlQclRMZ0VFR1oxZC80b2dPRlVlcHA3eWhnUE9mSS81WjI4ZmNmN1JwRko5Slg4bi9BRnQr
+WXNMZw0KL3dDcGphU1RxOGo5SXo5ZmFvbklWc2hsbFA4QXkwT09GWTlPZmFoZ1ZQNzVXUkQ4L2tv
+ZWhIcVBlbGxsNHcrSTE3UUoxUDhBdm4vUA0KMHBwZGlKUzA5NTdhajJaYy9NZlBmc1A0WWgvOWFx
+ek9BZjRIUFVqSENzZlFlMWFPaWVHdFQxRnR1bDJ4WlJ6UE0zQ1c2bnZjUyt3Lw0KSDBGZWk2VjhJ
+L0NwMnJxbml1TzV1VHc5dGJ6b29kajJWT1crWDZqUG9LZWkzTVpTYitGZVo1enFQaGpWb0xiejd5
+eWVPQXN0dkNaVA0KZ3pHUUhCamo5QUI3WjdkOGZUL2dQdzFvOW5heE5vZW5MRDVrYVhrc3o4dk1K
+b3dmMzAzK3pucHdCMkFyd0Q0cStBdE8wbFlWME85dg0KY1NNVExwTHVTSkdqSERScC9zN2lPL1hq
+SE5mVVZwYlJ4SXF3UkNORlVReFJEL2xraUtBQUQvc2dWdFQvQU9HT1NyNXQrWlBSUlJXaA0KbUZG
+RkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFB
+VVVVVUFGRkZGQUJSUlJRQQ0KVVVVVUFGRkZGQUdSTXZ6MXFSRGlzNlpmbnJTajZVQU9vb29vQUtL
+S0tBQ2lpaWdBb29vb0FLaHVtd3BxYXExOGNMUUJSc0Z5MWE5Wg0KZWxyMXJVb0FLS0tLQUNpaWln
+QW9vb29BS0tLS0FNZnhaY2VWWjNEWnh0aGxtejZiSUdyNTQrQ01PRnVEanFZNHgvd0FQL2pYdW54
+TQ0KdS9LMHk3T2NaaGUzei8xM1hiK3VhOForQzl2aTJsYkhXWHkvd2ppWC93Q0tyU2x1WjFEMHFp
+aW15RmdENWFndGpLTDZzUGYzcnBPYw0KenRPY0h6WGJvWElVK3NWdU1jZmlEU3k2SkJNZ0U2RGRn
+Ym14MWJIOFErdFVyQzVDd2haRHlNUVhJUEJ0NUhibnprOURrNFBRMXZLdw0KUDNTQ09vSTdqMk5Q
+MEE1ai9oR3I0TVBLdWtDajVZWm1VRm9GOUlaaU1qK2xMcDJqeHJNbnpOSXdEWGtzamNsaG5DNVkv
+d0IvazEwTg0KMDVDblljTWYzVVo5R2ZqL0FNZHpWTFNsVm1rWmNiYy9aWUQ2UTJ3eDhwOTJ6UjZJ
+Q25xZWxYRncyNnphSGVqNFdLVW5FcUNQSDNnRA0KeWhKeHhYazN4RnRKbG1paWtWR2tPNjhjUkE0
+RFhUQVlqSCt6czlPZXRlNFdJK1FFams1bVAvYlFrLzFyeVBWRFBjNjA2MlVMWEVxeA0KdmIyTVNk
+VFA5Z2JHMy9ybEkyZndybnF3Vzl2N3B2VG05dm1ldmF6OFA5QWpzaSt2YVpITmNSd2g3bTgzRVBj
+M0VNSS8xa2lrWkxzTQ0KYzVybGZDZnhydjVqSEFkRXM5N2JkT3Nwb1dLaTJPTUF5eE51NGpIWGtW
+bi9BQSs4UDZyOW9NWGlxUFVvTElveGV3dXl5eDN6Z2dBUg0Kb3hBSlFuSXg2VjBIaTN3em9YaHp5
+N25SdFBjWEFmeUxhemVRbEhNa2JaTEJzbjVGemo1dURpc2pROGo4ZmVCdFcwa29OVjhpUXlFLw0K
+WjVZV3o5cE1lTS9LY0hxdy9ocjBIUTdjYVRGRXFXWmVVS0JJbWY4QVd5U2pKS3NNKytQclhQWEhp
+U2J4VHFrSm1zL3M4TUtlWkpBcg0KWkMrVXhKYmRnZjZ5UXFLNjNVM2tEcTBLbDlvTnc0N3ZETDhv
+eDdsRkpyZWl2OGpHcS84QU0wSmY3SzFIaTRVeFRqNVZWL2xlQmgvZA0KQjY0UDFydzYzOFBhdnFW
+M2NmMk1KWjdxTXlhc3dRNGVZUXpnRTI0WCtKU3dJQXg3YzRGZTMzT3I2WE9VVzl0Zk5MQUVUQWNS
+Qjg0Kw0KYk9mM2hCSEdjZDY0djRERUhWcHZLTzVmS2xJWWQxTnhIMzk2aXJiN051ekxnMzlwdTI4
+Uzc0RStLNlhXSXZFTHJEZGY2cUM1YmdYag0KRHRLT3pmb2ZZMTZSV1g4VWZnUmI2cHVtOE9wRmI2
+aC9ySjRlaTZzUi9mUFpqNjlEL0Y2anpmd2o4VDdxeWZ5UEdpVHhNcCt6TGRUQQ0KN3JOeC9EZUE5
+dmZxTytSeUtwei9BSnZrVE9IOHA2dGMyNWNmdXp0Y2Z2SVgvdXVQWC9lSEJwc01xVEwrOGpBLzVa
+enhIK0J4Mk5Ubw0KNnNBWTJWbFB6SXc2TXAvdW4zcmtQR3ZpdVBUaC9vVXkvYW5CaUVRLzVab1Fj
+TzQvMkQwOWZwbXRaUHVaSmRqaC9GMTdMZlhRaXRweg0KSkdoK3hXN0hzeFB6RnY4QWM2ZlFWMTFy
+YVJ3b0ZnWENnYkZIc1BYL0FIcTVYd1pvemN5WENubk1kdG4rTFBVNTkrbjUxMkZmTzR5cA0KZDZm
+TSsweWZEMlY1TGZiMENpaWl1TTljS0tLS0FDaWlteVNvZ3pLNklvNVoyUENqM05DOGhOOTJjTjRz
+dHBiZWRaSUJqT0pVZis3UA0KRGpyK0FGZFJjL0Y2QkVVMnRzWjV5UG1TUVlGcTUvdnVPdjRkZlkx
+ejNpSHhkYnlxVXM0RW1VOFBQSU9FUC9URWVvOWE1Ynl3bjkyUQ0KamwwSFJmOEFlYXZadzFTU1dx
+OGtmSTQrbEZ5ZnNwWCswL0l2Nm40ZzFIVUd6cVY2V0gzMGpKd3NJLzZaeGovOWRVa1VLZjNXQ1A4
+QQ0KVmlWeHdySCs2S2tuanhnelNvemNGWWgwMmV3K2xTdHVrWE0waVJSL3dLTzVIcWZhbEtYZjBZ
+NmRGZEZyOFVmNjZESlkwLzVaTzhzdg0KM3Q0L2h4NjBDUkd3Ym1VdWY0SUY3SDNIK2Z4b3Q1WkdH
+SVJIR0IvclpmYi9BUFZVYXVFYi9SeUd6OGdsY2ZkYytoOTZsSTJiVzZTcw0KOUgvWFVWU3k4VHU4
+U2Y2eFVIOFFQYk5KS3B4bUtMeWxIeXFjOHlBLy9XcHpway91MmVhVDd4Y2RFQTlLRWtSdVhEVFNk
+a1BTUDZpbg0KOHZVanliODR2K3Z5UTZNRWovUjFFU2RIbmZxNDlxaWpsQ0UrU3lnZnd6TU9RQi9k
+K3RSbGd2MzhPT3FxRHdwUHQ3VjAzaFQ0ZTZqcQ0KN1pFc1Z0QU9IdUgvQUx2L0FFN1E5LzBIdlR0
+M01wVlA1VTc3ZWh6c1VFa3pCYkszbG1rWTdVVlJscG0vMlVGZFJkL0RxMnNvdDNpeg0KeFZaNlZN
+Y1BGcDZKNWtqS2Y3MFNNTVovRWVwRmVrajRGYUt1RGE2bnIxdEtCdCswd1NnR1J2Vmh0UFgyeFNK
+NGU4RStIZm4xVzVnZQ0KNi8xMzJ1OWJmTE01UFdHRURybnVFQjlUUnpmeTNJY1g5dXh3WGg3U2ZB
+MDBrYWF4SjRzWXQrN3MzMUFCSXJpUmowdHhFY2pjZjlySA0KdlhYZUlQQ253eXNVWmRUU3h0M3hq
+eTRwbmFXSnNmd3hobVBCOVJqMXJuZkUzakhVdkZnOGp3ZDRWdVpvUXduZStsNnhPb09Oeloycg0K
+a0U5WEpJOUs5QThOZnMyK0diVlZPc3dYR28zR0Exd0pYSVJKOERQa3hKdDRCL3ZGcXBRZlZ5Um5L
+b3ZzcE00MzRIL0QrTFVtTjE0aQ0KTjVkR05sdHRIV1lrcThrQ2o1anV6bjdQd0J6Z0g2VjlFVkJa
+Mk52Ym9Gc2JhR0NKUjVjRUVTZ0xFbzdJZ3FjVnVqbUNpaWltQVVVVQ0KVUFGRkZGQUJSUlJRQVVV
+VVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFC
+UlJSUQ0KQVVVVVVBVUprK2VyeWppcTB5L01Lc2lnQmFLS0tBQ2lpaWdBb29vb0FLS0tLQUNxZW9m
+ZHE1VlcrWEswQVE2V3ZGYUZVTk1IRlg2QQ0KQ2lpaWdBb29vb0FLS0tLQUNpaWlnRHozNDNYZmw2
+VFBnNExHT0JmeHVVSi9OUWE0SDRTMit5d1U0eHVkNXZyaGdQOEEyV3VrL2FIdg0KMWowNVYzZk04
+eUlGOVVqamM4L1FnVmxmRGFJTHA4R1BSM1AxYVpqV3RFeXFuVlVVVVYwR0JtNmhwOGNycHNab3Bl
+V0Z3blZVUmY0dg0KVWJpT3RRK1JxRVgzWUVsNytaQXdVdC92d3ZrYy9XdEFjeWZSZnlNamYvWTFZ
+cDNBd21odnBtQWFKWWNEeldhWnQzRFpIRUtZSEhQZQ0KdEFXeTI4TzJJazRVcXJIK056bnIvdk1h
+eHRhOGJhZHA3UDhBYVpETE44c2NWcEgxWUJjL09ldytidjhBZ0RYbm1vK0xkZDFjbGJWRw0KaWg2
+TmJ3OEFMLzA4eW5yL0FDOXF4cVZVdDJqV2xTay9naS9JOUExYjRpNlBZL0tKbnVaUU5oaGdHZGhI
+OStROGZ6STlLOHAwN3hQZQ0KV3Q1SmNhVUVXNGN5TkNIWGQ5bVc0WS9jSHFpOGRQd3JvZE44QVFK
+enFjbm5OMmlRa0JmcXcvOEFyVjBkdFlXOEl4YTIwTVE2WVFBWg0KL3dCNDE1ZGJHZnlvOTdEWlZM
+L2w1Skk0dlY5VjhWYXR0L3RacjI0VVplRU1nVUlYL3VoUW81RlZYOE5hODZnU1F6c2crYU9ONVJo
+RA0KL3NvVzlLOUZvcmxlSmwwU1BRamxjUHRUbWVjMjNoYlhZU1RaMjhzTEg1WGVPUlFYSCswVmFw
+eGFlS0lqOHN1cERvbUJKa0ZRRGpJMw0KSDdvSnJ2NktGaXBlUTNsZFArYVo1bmRTYTF0SXVvcjFW
+SUtNNWp4aFhITzJRRHVEanIvT3RUNGZlUHYrRWVhUTIyaTI5MDc0amxsbA0KWWhvNGsvaGpZWjRZ
+OC9kL3BYY1ZETlpXOG4vSHhiUXlkanZVSGdmV3JXS2Yyb21NOHFYMktwMU5oKzBub2JyL0FNVEhT
+OVV0cE82Ug0KaFdYSCt6SmxmL1FSWEcvRWZ4ZDRHMTJNa1crclc5K294WjN5UkwrOUEvaHVodkdR
+ZnpIYnVEVmw4SGFVNXliSUtlNFJpUHlYTk1IZw0KalN2K2ZWL3B2UDhBaldxeFM3TTVubGMra29I
+SmVIL0cydFdFUmp0YnhIUThXNGRjbXpKLzU5aVQvRjZFRWVnclEwendyZVhiNzlhZQ0KWUtmM2or
+WVR1dVQvQUxSUFFZLyt0WFdXbWlXTUgvSHJaUW9lejR5UjlIT2F1MWpWeEwremM3TUxsaVd0WnA5
+YkRValZRQkdvVlI4aQ0KS1A0VkhvUFlVNmlpdUU5dExzRkgxNC9wV2JxbmlHenRCL3BFdVg2cEFu
+VnZxUGVzRlUxalZja3N0alovZWVWdUF5RDFQR2NENkxXOQ0KS2kzMCtadzRuR1FqdTd2c2RkSEtq
+ak1NaU9PZ1pUa1pIdVBTbmZYaitsY1BwK3IvQU5sdTZYTEdlRS92N1NXUEJFd1BRb2M5SEhYbg0K
+aXMvVlBFMTdkZzVkWVlmdWlGVDkvd0QzejM0L0N0UHE3dnV2VXdXWVJ0ZEozL2xPbzFYeHBhd2NX
+bUxpWHBoZnVvZjlwL2IyL1N1Tg0KdjlWdXJvNXZyaHZTTzNVY0l4L3VwL2sxWFdOZ013STZxT0dm
+dVFmUWUxUFowak9iVXMvYVYySEdUNm11bUVFdmhYelBPclZwUCtMSw0KeTN0NWZxTEZHR0I4NlJZ
+bEh5dWc2c3cvdlVXN093MnA1YURxN2tjdWg5QjlLU1FLakF5dWtyZFhVZGpqakZMY294dzA1UWRB
+c1EvaQ0KVDYxWC9EcjFJWGwwMGw1cit1d1d6N0NSREVrajlGa3ovRDduMnBteFViRXFDUTlValhv
+cm4xRlBsRE1NeElzU2ppTTU1Y0dnUmx4Lw0KbzhJUlI4NWxZOGxoNkdoZjhCaTlQOFVQTmYxM0dU
+cVFRWjltVDk2RmV5RDFxU1RMRDk4eXhKOTZLSmVySDNxT04xeCs3akc3cE5OSg0KL0NUL0FIZnJV
+Y0lja0MyamFSeWZMaDJna3VUMEVhZjdYNTFTUm5LYSsvVmtpem5HSFlScjBaRkhNaDkvclZ2UnZE
+MnBhakpzMEt3bg0KbVk0TG9uU0pmV2VROEFmWEFyMGp3ZCt6NWVYT0g4V1N5V2tYMzFzVS93QlpN
+UDhBcHMzTzNQNHQ5RFh1T2orSDlQc0l3bWtXTU50RQ0KT2lJUHZ0NnlPZXBQcVNUV3NZSEpPcStu
+b2p5elEvMmE5UEVmL0ZTYWxkeXpuN3lXakJWdDg5bGRsSk9QWGdlMU51ZjJWUER6ZjhlbQ0KdDY1
+RjdPVWJIMHdpMTdMUldpUmdlSG45bEt4SCtyOFdhaW82RWVXdkkrb1lWcjZIK3pMNGF0bTNhcmNY
+K3B0MVdLVTdVeVA3MGFjOQ0KZjl2SHFLOVpwS0xlUVg3dGtGbHAxcmJJRjArMHQ3ZUlmTEZCQ29D
+eGovWlJhc1VVVXdDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vbw0KQUtLS0tBQ2lpaWdBb29vb0FL
+S0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUlaRjVG
+VA0KQ21PdFBvQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNvYmxjaXBxYkl1UlFCVDAvak5YcW8ybkRH
+cjFBQlJSUlFBVVVVVUFGRkZGQUJSUg0KUlFCNFQrMHRQaUsxR2VyeVM0LzY1b24vQU1WVm40ZmpG
+bENCL2RCeC92Z0g5YzFtL3RNdC93QWVmL2JjL2w1RlgvQVQvd0NpeEQvcA0Kbkd3SC9BQlcxRXlx
+blUwVVUxM1ZRVEl5cW8rWm1QUlZIOTQrd3Jjd0lJMlVNNWRnb0cxV1kvd3FxNStZK3dOZWVlS3Zp
+bXhKajhOcw0KZitlY2w4T3JFOXJVZjEvTHNheC9GWGpTNHY1R2owWXllUXpZd3ZXK1lLQjgzK3lN
+Y0Q4VDdhV2crRklyVUEzQVdTZis5MmdCN1IvNA0KMXdZckVwZkMvUTlUQVlLVXVtblY5akowbndU
+TEtkMnRQSnorOE1KUHpTRS84OTM5L3dBL3BYWVFXMFVTZ1c4U1JxUHVvbzZmaDcxSg0KUlhpVktq
+ZnhQMFByOFBoNHgvaHg5WDNDaWlpc2pwQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BSzViVXRk
+MUdhWXc2UEJzays0MA0KckVaWUFkVUo2QUQ2bjBycWE1bnhSWXl4RlpyREt5SVFKc2Z4SUR3Vytu
+USsxYjRlMS9mUzdJNGN4NXVYOXpKcnEvUXFycHVsNmVmKw0KSms1MU8rUElzMDVFY2gvNTZuL0g4
+cW51b3IyNytiWHJsYmVBZk1sakdjQkZIL1BWL2IvT0t5Tk0xT0tGbUZqWi9hSkdQbVdqRHFGYw0K
+Y3JNNS93Q2VYZjE2OUt2WEZvZytieEhlSzNlSzBUN3FuL1pYdlhxK2g4azMzTUs3WVNmSlp4bVZG
+TFRXVTNRaTN4a3FvUFhZUmtmag0KNjFVaWxSU0N5aVFuTzVUL0FBdm50OWE2RzlqdXJwUTBOdkha
+UkptVzFrZmhtSUg4T09nUCtUWFBQNVlQK2pCdkxJQ0V5ZjhBTE9UQQ0Kejh3L3VIMi9DbEpGMHBl
+bmREL0wySEYxdVJEbVFJcDRCOURqMHBZaXgrVXY1YWN1R1ljc2g5NlpoU01FU3ZMbmFwSDhJWDBO
+TEkrOA0KWmxsQmY3c2NJSFFnOXg3aXMvVTdVKzNxdlRzMytpQ0U1QldHT01ubk1wL3VEL0NsZ3dD
+UXNZbGY3cU1lZ1FmNFUyVWx4dUppVWY2dA0KSXgxS2cvMHBzc280TUtDTWZkVUE4dUQ2MDdmOEVs
+eTcrcTlCNktzYllrUVNuL2xtcW5oV1BxS1l6N1QrOUFJKytJbFBDdWY3MzBGVA0KMkdsM2w2NFRS
+OVBtbmtQS1JSREpPTzd0NkwrQUZlMWVDdjJlb0lzUDR2ZGJpVDc2YWJHZmtpUC9BRThTRHJqMEdC
+N2tWVVk5L21ZVA0KcS95ZXNUekx3bDhNOVoxcHMyVnNJTGJPSnRRa0dFVEhhRWR5dm9QeElyNkU4
+SC9DN1I5R0FObkFKN25HSnRSbUh6SEk1OGtkZ2ZRYw0KK3BOZFZEQkhHb0Z2RkhHZ0d5S0pCZ1Jx
+T3lLUFFWSml0a2prYjdoUlJSVkNDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQQ0KQ2lp
+aWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FL
+S0tLQUNpaWlnQW9vb29BSw0KS0tLQUFpaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLQ0tLS0FL
+T05yL3BWNnF0eW1DQ0tzcWNpZ0JhS0tLQUNpaWlnQW9vb29BSw0KS0tLQVBuejlwak82eitrLzg0
+YXRlQlp3SUlPZURHc2Y0aEIvaFRmMmw3VWxMUmdPQVpvRytzaXhuLzJVMVE4R1RuN0xDVlBJVUFm
+Vg0KR1A4QWhXMUF4cW5vZGVaZkVmeGl4UGthYzVIL0FFRUpGL2pKNklwL24rWHJYY2E5cjBkbmJ0
+SVNDUVA5SFUvOHRKbjZBajZubXZKUA0KQ21tdmN5dEplRXVBZk5MTi93QXRibHoxUCs3MXFNVlZz
+dnpOc0ZRY25aZWh2ZUd2RGEycTdyaEFaejk3UC9MQkQyVS96cmVvb3I1Mg0KY20vaVB1Nk5OSldw
+b0tLS0tnMUNpaWlnQW9vb29BS0tLS0FDaWlxOTNxRnZBdWJ1ZEkxNkFuK0kvd0N5S2FYWkNrMTlw
+cnV5eFdicQ0KZmlPeXRQOEFqNWxMUDJnajVPRDZqL0Vpc1NUWDlTdjIyK0hyV1JFKzdKY25xb1A5
+NStneVBxZlNvN25SZEZzVllheGR5M2wwd0lNYw0KUC9MdXpkd0NlcS83UjU5SzdLV0gvd0NmbjNI
+allyTVZ0aDBuNW5XMjl4SEtvYUZneUVCMGIxQjlmcFVsY1Y0YzhReDJvWk5RbXhHUA0KMzlySjZx
+M1pSL3RnNUZhdjJ6VTczL2p3ak5sQjArMVNENTVWL3dDbUtlLytUV002VDYyOVRzbzR0TksxMitz
+VjNORFVkZXRiYmlWeQ0KOGg0anRveGxuSjlGOTZ6SmJlL3V3VHEwNjZmYTlXdDFQelNKL3dCTjVE
+Ni81RlJSVDJGbzIzUjdWNzY3UCtzbHpuREgvbnJOMjk4Zg0KalRieTNqWERlS3I4T2Z2UWFkRjBV
+LzdLZDhmbDdtcmpIc241R05TbzM4YlhtdWk5WCtpT1dBS1NZMDZRUGhpOWxQMEw3Yy9kQi92NA0K
+eDducFd0WjNkcnd5eHozOTQzemJHSCtvYitRQy93Q2NWSnE4RjNkUjd6WjI5bEFnSnRFZmhwZ2Y3
+bzl3T0IrV2F6Tk92SjBPTlBZUQ0KSTIyM21ta0dSRk9BZnV2L0FMZlArUm11K25ML0FDWjg5aUtk
+bnBlMjhUV3UxVVlQaUc2M3Q5NkhUb2VnUCswUDgvVTFtM1ZyS3gvMA0KaUw3RGJ1VEpGR1JrUnpS
+eG5HNGR0K2VlUHc0RlhZSGdqYkdsd3RmM1hXUzdrNlJNZTRiL0FPditOTXY3V0ZRZjdWdTVicTZJ
+MndXOA0KWFNCai9kVWVoL1AwcXpBd1lwSEhNUTJZRzJWaDNVbis3N1U4eUNOczJ6Rmg5eHBHSFJq
+NkdwcjJHNWZMM01hQmdSYlhjWUJCVWhSZw0KeWovcHRqcjYvaFczb2Znc3pLcmFoTis3UHp4UUlm
+dnFmNzcrL3dDZjByS28wdmk5RHR3eWs5S1NmZS9Zd0xTd25tSit5eGhnQnZtbg0KWWNRcU9wWS9U
+OGZRVnJlQ2ZCRnpyTndJN1pqSEdQMzkvYzQvNDlyZFNNa0QxZm9CL1N1ajhSeEpCYXNMU05JbDRq
+Q3FPaWx4L3dDaA0KQ3ZRdmdMcGtLV2NqcWc4MTVUREsvd0QweWdqWEEvNENXYWloSy9UeVFzZFM1
+Ykp1L3dCcVI2QjRmOEphWHBjZXpSYkNLQmVzcmo3MQ0Kd3c3elNuay9uZ2RzQ3RlaWl1czg4S0tL
+S0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaQ0KaWln
+QW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tL
+S0FDaWlpZ0Fvb29vQUtLSw0KS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdCa3FaSDhxSXM0NXA5QUE3
+VUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFIamY3UjlxRFl3c0J5Sg0KeEY5Rmxnay9xb3Jrdmg3aDdP
+SUZ3RDg4WUo3TUpteG42MTZIOGU3UHpOTGM0KzVKSGMvVEw3Zi9BR2V2THZodEx1dE1lanRIK1lC
+Lw0KclcxQXlxaWZFWFZwTVJ4TUNOcE4zTXA3azhEL0FMNSthdFBRTlBGdkNnMjRZanpwdjkrVDEv
+M1J4WEtlSTVudTc3RWgzRGNsa1A4QQ0KZEFHZDM0azEzdGVWbU05ZnhaOUZrTlBkdGYzVUZGRkZl
+WWZSaFJSUlFBVVVVVUFGRkZGQUJSUldGci9pWnJRaGJlMk1rckRmR3pmZA0KVUVrYy9pUGFyaEZ2
+NFRLdFVTVjZqTmU3YVlJMzJSVk1tQ1lWYm9YQTcvalhENlhEWjNSZVR4TnFjdnlFSzF0am1RTi9k
+eDJ5TVlBSA0KMUZYRGZheFlTb2Rka2RvM0g3eEFjaUhCL2hBNEJUak9Pbzk2enZFcTJzY3hObE5G
+SUdCKzFSSWZ1T2NkV0g5NDRQMXJ1b1FzL2VTNw0KcG5nWTZzcEs5S1VsWjhzby9xYmo2eGR6cGpT
+SVUwcXlIL0xjOE5JbnF2cG4vSnJPdHZMNVhRYlR6bU9VdU5RbTZEUFhCUHIvQUpCcQ0KQ3hlS2NF
+NjVmdGhNS3RzVGdPdU9DU091OFZvcGRYZHlNYVRBTFdEN291V0hMTC8wd2o5Lzg0cnNQSE9jdkxK
+clI4UExtVlNzOXUvYQ0KUkQvcy93Q3kzNGRmYXVtaXVMalVFTFgxL0ZaMmd5a2tNUjVrSTdTeUgx
+L1gwckt2YlMwWEM2WjUxemRBK2E4dzV5UjE4MXVuUC82Ng0KenJCN2FOeC9hRUx6UkVHYU8zalBT
+YnBoMFBvUmo5ZVIxeHF4N2ZJNjhKVnRvOW5vMGRQYjM3dU5uaFd4U0tQcExmeURnRWYzYzlTQg0K
+NjVQdFZXSnJXRi85Q2pmVmI3cTl3M0t3TjlmOW4vSkZXSm9McVpNNnZNbW1XWTRTelRneUw2UDlm
+VEg0VVdzMXhLTnZodTBXenQraw0KbC9JT1pNZjNQdyt2NFZ5K2x2UC9BSWM5VitmL0FHNnY4bDA5
+V1IzY0VNWkRlSmJ3M1UzVzMwNkxwR1QvQUxBOWZ3L0dzSFVMQ2VNNQ0KdWJhU3poa0prU0VIL1ZZ
+NmJrSC9BRHp6MHhuRmJ0dkxiUU5qUTdkdFF1LytXMTYvSWlKN2wvOEE2LzRtcmNuZytXZFdPcVhy
+elhCRw0KSVNQdTJ6ZjdLLzhBNnZwbXJoTzN4UHlNcXRCdGZ1NCtmL0R2cS9ReU5LdUx5ZEFtbnh3
+MnFnQVhWeU9yay8zUjZzUC9BTllxN0FMUw0KMmJicHR2SmUzUjRiYnlRZittajloNi9yV1Zwd3Qv
+bS90UFU1N0psSDJlNGpRZk5lUm9lQWhIZE1ZK2xYcmE2dkxnYlBETmlMRzMrNQ0KTmNuNzB3SC9B
+RDJuL29PbjBycmNsMWFQSGhCdDJoRjMyc092R3Q3Y3VkYXVFbnVYVTJyYWRiWXhicWVuMmlYbmxD
+QmpxUjdpdFR3Zg0KRmVKRVJkeE1pWjNXb2JydGJyeDZacWJTZkNOcGJZTHI1OHZYelhIQ0gvcG1u
+K1RXM1hCWHJKNlJYbmMraHkvQnRhMUplVmpHOFV3bA0Kclo5b09SaVRIcUZjZnlGZDc4QmRRamV6
+a1FFYjBsTWpyNlJUUnJnbjZsV3JtSjRFa1VpVmNxUVkzSHFyRHQrRmNwNFE4V1hYaHU3UA0KMmlK
+NUlHL2NYMEsvOHZGdVR3ME9lNmR2eEhIYlhCUzZQMU9YT3FUMGFYOTFuMVRSV1ZvWGlyUzlTUU5v
+dW9RM0NmeHFwK2FBbnRORQ0KZVIrSXJWcjBUd1Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNp
+aWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBbw0Kb29vQUtLS0tBQ2lpaWdBb29v
+b0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNp
+aQ0KaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQTRYNHlXNWswbTVDalB5
+cE5qMml1WXorZ0ZlSmZDMlllUTR6eQ0KSkRJUjZCbzEvd0FLK2hQSDF1c21uWFlaYy91Sm5VZjdT
+UU1SK1JBcjV1K0ZVaDJ6RDBLT1ArQkIvd0RDdEtPNW5VQzRYZHFiWXgvcg0KV0l6MkNrOVBvQlhj
+MXdkMGRtb25kM2tEZmpMai9HdThyeDhmdWZWWkg4TDlRb29vcmhQYUNpaWlnQW9vb29BS0tLZ3U3
+K0NCYzNjNg0KUnI2dC9FZjlrVTB1eUZKcjdUWGRrOWMzNHVGazhlSnBWRTQrZXpqVVpabVBZcU96
+aXBQN1IxRzkvd0NRWEViV0RvYjJVY3lML3dCTQ0KSS9mL0FDUlVIbmFiWUhGdEhMZTNoNGJITE81
+L3Z0MnorZjFyZW5HM2Z1a2NHSXFKcTFsYjRXMytpNmxLd043cXlHTzkxQzNoRVEzaA0KSFg1cG5U
+SXpLNTZiT2gvVVZRMHU2THhORERwc01zekVnVEFqQVVkM2NkZkxQVG1qV2RNdkVJbDFDMmdVTXdF
+OXFoUDNmU1FqKytCeg0KZy9yVmpWSVROaVh3N3BVOXBBZzJ2Y0RBOHdnNHpHZy91ZENlYzk2OURk
+YVc3cjFQbk5ZdjNrLzVYNW94Z0RiU2Y2YkVIWkQ1Ynd0eQ0KSGpIOTM2RHBYUlNQUGNMdTFDNlN5
+dGVxUkllWjBQOEFlZjhBMmgvK3FzUzVGdVFyYWNMeWFVRHp0U2xrR1FDK09IUDVqMzlhZHBkeA0K
+YXFmOVBqbXVXQUJzWVJ5TnpkUUkvWS81NlZjWDM5R1pWSTIydDNpYk50Sk5JTWFIYXJhUWZ4M2tn
+NWtBL3dDZVlQdC9rVmczOXJibw0KNVd6bWE1WTR4UG43bHh1T2N2MCtjZjhBNjY2Q2FDNG1HZFl1
+RnM3ZnRhb2VYSC9UVi9mMC9RVlVuWmJsTnVtMmtOdmFnNzN2SmVCbA0KZjduK2MrdUtabVIyTi9Z
+eURmcnR4Y1hVd1BsUVdSSEI2ZmRUL2EvRDZHdHBOTzFHK3gvYUpObGJmd1dVZjNwRkgvUFUvd0Nm
+b0s1cg0KVDVudFdTWFk4aWJqYjNMc001a0hYeTMvQU5wVGtkK3Rla1J5S3dCallNcEc5R0g4U2tk
+ajdpdUhFYWZDdlR5UG9NdVNrdjNrdHZpWA0KODNxUldsaEJBdUxTQkkxN2dmeEgvYU5UMFVWeE45
+MmUzRkw3S1haR1JkZUZMQ2FUZlBHNWJqZkVEOHNqRHV3eDZlOWFzY1NJQUlrVg0KRkh5b2lqaFFQ
+N29wMUZOeWZWdnNpSVU0cjRJUjd2ekNpaWlwTkFxbHFXald0MHVMdUxQL0FEemtIV0luKzYzK1JW
+MmluRjltL0ltYw0KVTlKeFQ2TTRlVHdacWRzMjdSNzA3aC9xM2pZcTZBK2paN2ozcTRmRjNqdUJm
+bjFuV0FnRzUzZHdkcWorOUkyZWc5NjZXN3Y0SUZ6ZA0KekpHdnFlNS8yUlhHWG1wMytyeXJGb3Rw
+TTRKMnhRTDF1R0hlVStpRDhCMVB0MzBLazMwWG16NS9IWWVrdHBTdjBpZEo0RDhlK01iMg0KOWhT
+SFY3dTZUY0h2b1pNRlJaZy9NWk9QNFY2ZStNYzE5STRyamZoNThOcmZSSWZtS3kzYmdOcUZ5UFVm
+d3creWZUSjZuc0IyVmVpag0Kd1g1QlJSUlRBS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29v
+b0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLSw0KS0FDaWlpZ0Fvb29vQUtLS0tB
+Q2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29v
+bw0KQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQ2pyVmliaUNWRkdTOGIyb0hxWll5UDF6WHli
+OExKeUpKVnoxVVM0OTQyLzhBc3Erdw0KSytPL2grbmtYc2l1TUVLOXNCNk5IS3Y4Z0RWMHR5Smwz
+eGVoZ3V3eWc4aExvZjcwZkgvc3RkMnJnZ0ZDQ0Q4eW4xQjlQcUs1angvWg0KNVdObEhRbTNjK3pq
+SXo5TUd0VHc3ZCtiYm9TZVFQSmIyTVhIUDFBcno4eWpyb2Uva05UZGZOR3BSUlJYbEgwZ1VVVVVB
+RkZGRkFIUA0KZUl5NUtpV1V4eEZXTVQvTmdYWXhqemluT05wTllPbjM5bkg4MnR4M2Q0d1kyOXRN
+ZVZDUmdmY1J5RHdmYjlhNyt1WTF2dys2bzVnZQ0KTmtHYmtSTWdMUmIyK2J5WmV3SXllaHJxcFRX
+MHZROHZGMFpiMDJuMXNPTXVxWHcrVE9uMnZVdWZ2enBqdDZaSDAvR283YTV0b2NwNA0KWnNSY3pm
+ZG11Mis2bWY4QW5yTi9RWUZaSy9aVEppNjFkbnM4R1V3bzdjS21Ob2tEZDM5QitsYTBNdDdjcmpS
+N2RkT3RPOXl3d1pGOQ0KWXg3anYrdFcxNmR6bmhPL2UrMTkzOHVpUkJld1drUnpydDFKcUYwZjNj
+ZHBGMGhMai9sbWc2ZjVPTTFtYWZ1aGNSYS9jWGx0YW4vUw0KbmhVOE9TT1BNSzlteCtmcFdwYjNG
+dEFkdmh5ME43Yy84dHI1K1JHVDNhVDMvQWU1cXRydWlxa1piVmRWTWwyY0dLUHR0ejBqUWZ6NA0K
+RmFVcGQvUkhOaXFWMWVLV21yZi9BQWVyTStPZVdGbVd5bmxndEpUc2hublQ3MEJPTXFEN0hCUDh1
+MWU2dGphU2xiV1ZaV0JEVzB5ZA0KUS9vd0hybkJGYnNDWCt0UjRlYTBReEQ1RkkrZTVsSzhibTdC
+OFlQdjI5S05uWVJYVnV5eFd5eDNjWk11QU9ibE8rNzNIVDhxM2xwKw0KVE9HbXJxM1ZlOUQvQUND
+MkxYYkF0SE5xTndmbWp0RkdFdEFmK2VwOXZ5OVRYUVNhSGF3QVA0dHY0Mnh6QnA4WENvUU9pb091
+UHk5Uw0KUldiWStOTHJ5MWowYlM0eGNuaTRuUlI4N0QrTFlCMUk2azhWYnN2QnNramI5ZnVYdUpE
+eVlzOU1mMzM5dlFZSDFvcVZFdmlmb0dIdw0KMDVmdzQrcksxOXE5NXFvOHZTTk5qaHRRUmgyQStY
+YjZ0MEdQUWMvaFhTYVRwelcwU3E4NWtJNEwrbVQwVWY3Tlc0b1VRQVF4cWlqaA0KVVVjS1BZVTZ2
+T3JWVytpN28ra3dXRVVlcmIyYkNpaWtlUlZCTWpCVkh6T3gvaFVlcDloV0IzdDl4YXBYbXQyTnYv
+eDkza1NIKzUxTw0KUDl3WnJrOVQ4VjNsMjRUUkk1c0UrVEVJd1M5MngvNTVxUDczYnZYWitHLzJj
+OVJuQWJ4TGZyWktmbk5yRmhuSVAvUFIrZ3ovQU1DOQ0KeFhiU3d6KzJlTGljeVMwb1JUNlhNR1g0
+Z2FldityaXVwT3dZQVlJL0UvMHF1ZmlOYi93NmZON0FzT3YxcjJldytBdmhLQWZ2ZE91TA0KczlB
+OXhLM2YxV01xUDByV1Q0VStGRnhqd3hwM0hUSUp6ais4Q2E2VmhvOW1lYkxNYW5TVWZ1UG4vd0Q0
+V05IMjAxL1liLzhBNjFWSg0KdkhsL0tjV0ZuSEd4NFFBRm15ZjdvLzhBclY5SmY4SzA4TC85Q3Rv
+Ly9mcGY4SzFySFE5UHRSL3hMTkxzYlVkeEJHcTUrb1FDcVdIag0KL0tqT2VQcWRhalBuVFF2ZzU0
+bzFaZzJyQ1N4aDczRjJEdUtuL25oYThIajMyajNyM1B3bDhQZEowWk1hWEFXa1BGemV5Y3ZjZlZ1
+dw0KSG9NRDhhNlhGSUs2SXhYUkhES1RmeE45MkxSUlJWRWhSUlJRQVVVVVVBRkZGRkFCUlJSUUFV
+VVVVQUZGRkZBQlJSUlFBVVVVVUFGRg0KRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZG
+RkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVQ0KVUFGRkZGQUJSUlJR
+QVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJYeUxDZ2kxeWNJQXEr
+ZmN4cXZvbQ0KNlFqOUFLK3VxK1RQRmx1YmZYNUIwek1KUHd2SWdmMTMwNEV5T3Q4UzJIbjI3aFI4
+d0gyaVAvZWk1NC8zZ01Wem5nYSt5cm94NkVYRQ0KWTltNE9QcGdWMmhpZnNjanBqUFVIMUJ6WG05
+bG5UN3phK1ZUZDluYlAvUEdYcHVQdGtHbG1FTHJSSFRsVlcwbGYwZm9laFVVVVY4Ng0KZmNoUlJS
+UUFVVVVVQUZVZFl0SkpZbUZ1TXR3NGpKLzF5b3d5ckgvcG9CaXIxRk5QdDZrempmZS9abkV6Nlk3
+ejVoczVZRzJ0ZHJCTw0KRllTTW1PTGFJRURqM2FraXZudkRqWGRXaHRZd2ZLZTBUZ3pNbi9QVnVu
+Ni9nSzY2NzAyMm5BKzF3TEpqNW95ZjRDZjdwSHJYUFhYaA0KcWRsOHRMVmZMM0dhM3VWZkFpU1Z2
+K1dzSGN4amdWMXhxTDdYb3ZJOG1yaDVMK0dtK3JYZjdoME9wdTQyZUZMRkVRZkxKZk9QbFErcQ0K
+NTZuNjVQdFdqcDNobUNFN3JwMnVyajd6WEVuOExmOEFUTmZiODYxSVlFalVDRkZSUjhxcUIwQTlo
+VDZ3bFA4QWwrZm1kMU9nditYdA0KbjJYUmVpT1d2L0NkMzVwYlNMdGJkSEcyNXd4QlhjZWRvWHMr
+UFd0VFIvRGR0Wmo5MFdra0kyU1R0M0hvcStoUC93Q3V0V2lpVlI3Tg0KK1FVOExCTzhZSysvb1J3
+MnNNZWZzOXZGSG41cENpZ2IyUDhBZXhVbEZGWnQ5enBTL2xTQ2lpaWtNSzVMeHJxNVVDT0ZpQ2Yz
+MXhqdg0KR0R3UCtCRVYxdGNVdG1kUjFPT01MdVV5Slp1UFNGR0c3SS8yUUdycHdzZGRWNW5tWnJV
+dEgzWHY3dnlQWmZoTDhOSWRPaFdiVUlBYg0KNlJmTlhjUCtQQzJrSENvRDNkY0U5KzMxOUxvQTlC
+OUI2VVY3Q1I4a0ZGRkZNQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaQ0KZ0Fvb29vQUtL
+S0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdB
+b29vb0FLS0tLQQ0KQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtL
+S0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BSw0KS0tLQUNpaWlnQXI1eitMbnd2OEFFN2Fn
+OXo0ZjA2YTdpYnk3aU5yY0F0YVQyOFNyaHJmcWVVendwSHJYMFpSUUI4Y0g0aitJN1JpbQ0KcTJj
+Zm5ENVpvYm1JcThSSS9palhiMUgrelZQVS9Felg3Z3o2ZUxlUUxzWmdUaWNBOEVBanRuMU5kdjQ4
+MDIySGlSUnFFQ3lRU3lXLw0KbVJOMGRKbzBVN2lQOW9HbS9FMjJ2WUx0NGJPYStObUFrbW42Y2pN
+VWdReGppS0hKSERnOXFjbStyWW9wZEVhV2hhbUxtRldKeTMrcQ0KbjlwRTY1LzNoeldqWEIrRXRS
+ZTNsTWQwcng3djNmbHVNR0s0VHN5bis5MHJ2SzhLdkN6MjgwZmE0Q3RlSzEvdXlDaWlpc1RzQ2lp
+aQ0KZ0Fvb29vQUtLS0tBQ2lxOTlmeFc2RnJna0tCa2dmeEU5QW8vMmpXVkEvaU9jQnJXenNJWXo4
+OEVVcE9YUS8zdWY0aDlLMXAwMi9oUg0KeVlqRXdqL0ZrKzZSdTBWbmFYcTdURmx1cmZ5TGhEc3VZ
+Q2VtZTZIMGF0R29sRnI0bDZuUlNtbXIwM3B1Z29vb3FTd29vb29BaXVybA0KWWtabjZLREt3OVFv
+N2ZXcWZ3UTBaN3ErZVdkZHdpVXpGeVArWG02eUJuNnJ2ckw4WjZqNWNRVkd3em5ERDBpVHIrWnhY
+clB3VjhObQ0KMHNROHNlMlNaamV0bnFJRjRYbjBJQkkrdGVuZ285L2tmTlp6VjFzdW1yOVQwZWlp
+aXU4OFFLS0tLQUNpaWlnQW9vb29BS0tLS0FDaQ0KaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtL
+S0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLSw0KS0FDaWlp
+Z0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtL
+S0tBQ2lpaWdBb29vbw0KQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnRDVxL2FLczJodm9KSVN5
+Rm9oR3JyL3dBOWJhWmprTjZnTUtzL0RqNHk2TnBzRWk2OQ0KZTNja2hmN1ZCc1FzWkZlTUE1Yy8z
+U283MTdENHkrR09qNjc1WDl1TGRaaUprZ2FGOGVZa3VNcktTRHcrMGVoSFlpdkt2amw0QjBYVA0K
+YkdFNkJvMXBhQVRDMWxralg1cFZraGNqenBqa25CWHVUUUJ4SGp6eGRvMnAzZm0rSFliMkhjb2E2
+ODVRdm1YTVp4dWl3eDZydDlQVw0KdXAwTFdWdTRnU1FKQis3dUZIWngzQS8yeFhrOEI0VDZHUDhB
+SUQvQ3R2UTlhZXprQjVNWi9kM0NEK0pQVlI2cFhMaXFWOWw1bzlITA0KY1J5djNuby9ka2VvVVV5
+S1pIQU1McXlrYjBZZnhLZlNuMTVCOWVuMmZvRkZGRklBb28rdkg5S3dScW1xM1pQL0FBajlsQzBJ
+UGxOZA0KVGRKbkgvUElaSEEvSDhLMHB3YitGZXB6NGl2R1A4VitTTjZpc1cxMWEramtFZXVXYVJP
+d0xXczhaK1djcjI2bm9QOEE5WFN0cWxPRA0KWHhMektvVm95VjZUOG1ZM2lpMGtrZ2J5VjNFRVhC
+VCsrcUhuajJGYjFqNGkwK2RBME41YnFNWmVOMkFNSjlKRnovRFVWWlV2aFBTbg0KT1gwK1BQVTdT
+UU0vN2lrQ3VpaFdTK0pQdWp6OGZnM0ozcHlYOHNybFhUN2hMcTdsa3RWL2NoUlpMTC96M2NiZVYr
+Z1d0K280TGVLTQ0KQVc4U1JvT0ZSUndQdzk2cmFycWlXc1paMTNZK1dOUDc3dDA1cktwSzcwWGtq
+cnc5TlJqNzh0dmVreTdSV05Cb1d2ektHbTFtTzJZag0KZUxaWXgrNUI3TWZZZldwTksxRzRMUEhx
+YW9MaE1GM1RwY1JOMEtqNkdxblJhM3Q1bVZER3didEhtL3UrWnEwVVZnZUt0YUZ2SHRpWQ0KQ1Yv
+M2FnZjhzNHoxUDVjQ3NvUnZzZGRhb2tyeWZtWTBWbExyZCtrZG96YkdZV3FPdi9MSzJUbG1IMFVF
+L3BYMWJhMnNVS0t0dEdFag0KVUNDQ01kSTQ0MUFBSCs2QlhrZndOOEVHR05yaStoSWtrSDJiVFF3
+KzVhQThzQi8wMllZSHNQUTE3RG12YnB4dHQ2SHhGYWJidkorYg0KRm9vb3JRekNpaWlnQW9vb29B
+S0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlp
+Zw0KQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29B
+S0tLS0FDaWlpZ0Fvb29vQUtLS0tBQw0KaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNp
+aWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUs4eCtQZGtaTktjZ1oyU1IzSg0KUG9HZmIvN1BYcDFj
+bjhUTk1OMXBsMHFyaytVMTBvOVd0Y053UGNyUUI4ZzJ6Zkl2c2NIMkJKSDhqVjRpczJ5T1kyQTZq
+NXg5Y2Y0aQ0KdEpXQkhIMUgwTk93STZQd3Y0bThnN0x4OFFuL0FGVG4vbDNjK3ZzMzZkYTc0RUhv
+ZnA5SzhlSytuNVYxUGhyeGQ1ZUUxRi8zZjNJSg0Kei95d0hwSWZUK1gwNmViaXFIV0M5VDM4c3h2
+U3MvS0w3SGNVVWdZSDdwQkhVRWR3ZlEwdGVjZlEraEhQRVhVaFRna0dNSDBMRCtsVQ0KUEIrcldx
+UWlPZVdPQ1pDMGM4TG5HU1hKeXVmci9uaXRPczYrOE9XRnljM1ZxcGZvWkZKQllEKzhSNkN1bWhV
+dDhTWjV1WVlWeXR5Tg0KYWFGZnhCZXczTThDV0VzY3JLMzJ5NWREa1FJaEhETVA3MksyYXFXR2sy
+dHNNV1Z1cWYzMjd1Ui9lWStsVzZtdlV2c3ZKR21Bdy9Ldg0KZWEvbWtGRllMYXhxTjB4SGgyemlr
+UlQ1YzkxS2VHZjBqNUhUOGFmRHEyb1FTS212V1VVZTc1TGE1aVBEdjZOeWV2OEFrVWV4bHZieg0K
+QlkybmV5bC9kVDZYTnVzbnhIcHN0eENSYkFGd1JjUnAvd0E5Q21lQjlRYTFxS3lpKzNxZFZXQ2Fh
+bGZYM1dWYlh4M3BUb0RjM2F3Tw0KQmllM2NITWJqcUFNVm02WTdYVnhKTXNicEVRTE95M0RtYU5j
+Wk9QY2l0T1hUTFJ6bWF4dFhiKys2QW5qL2FJN1ZKY1hNVUtrenlMRw0KZzVaajJIc1BldXFwWHZw
+R1Brenk4TmdGRjNxVkZwckVaZTM4TnVoYTViQ2puSDk0bnNvLzJxNW53ajRYdS9FZDUrL0RwYmpF
+Mm9Tcg0KL3dBdTFxRHdzYmVzdlFmaWNjR3VlOFIrSjJ1VHlXU0VmNmlMKzhmVmg2c1B5cjZQK0V2
+OWhtd1ErR3BONFB6YWs3WTMvYnNESXVWSA0KVFoyN1l3Um5xZW5EVWJmRWp6Y3l4ZDlLYjBXM21k
+dGJXc1VLcXR0RWtjYWdRUVJLT0lvMEhBUWY3SUZTMFVWMm5raFJSUlFBVVVVVQ0KQUZGRkZBQlJS
+UlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFG
+RkZGQUJSUlJRQQ0KVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJS
+UlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUg0KUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVV
+QUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJVVnphcE1qTE1Nb3dNRWc5VWRTRCtZcVdpZ0Q0Vg0KdDda
+NEpYU2NZWlNZSkIvdHhNUWVLdFd4TzBaN2Z1ejlVNC9wV3o4UmROK3g2dGNydHdESWJ0UjdYaWh2
+bC9GcXhvZUN3OThqNk1CLw0KV21nSmFRcjZVdEZEWGNQUTJ0RjhYWEZyaFpsTTBQOEF6elBXSUgv
+bmszOVA1VjNkaHExcmNqTm5Pci8zazd4bi9hU3ZLU0JSWlhNLw0Kbkt0Z0ovUEpFTnFzWFdhU1RH
+QWdIZHljWTcxeFZzT3ZzbnE0VEh5V2s5VnN2STlob3JpYlh4eGVRSGJyRm03TVBra3lOcnhrZjg5
+RQ0KUC8xcTZDejhWNmJOOXk4U052N2t2R0Q5VHgrdGVmT2xKYnhaNzlIRjAzOE0xNk0xcUtSWFZo
+OGpLdzdNTzQ5aUtXc2pydXVqTWp3Zg0KZXdXNk5GZVBGRE1qRm5Wemp6NDN4aGxKOXYwcFBGTjlE
+Y3RGSFl6Unl5ZVlMcVF4blAyZUtNSDc1SHNhdFgraFdWemo3WmJCbUhDdQ0KQ1FRUGRoVGJUVE5Q
+c2grNVNLSFBEeU9lV0h1N0h0WGQ5WTAwaTc3SGdMTDNmV3BHM3hlWm9VVmpYWGpMUzR2K1hreW4w
+aUdmeWZweg0KOWE1dlV2SDl3NElzWTF0MTd5dHkyUFk5Qng5ZnJYUENqSjdSWjZkYkdVMXZOUHlS
+MXVwNjlhV2cvd0JKbCtickhBdlYvb0s4L3dCWA0KOFFYTjQzNzA3SXh6RkFPaWY3eDljVm52STdu
+TXNqTXgrWm5ZOHNmOW9tb2t1SWowdVlCMkNrODVIcnhqOWE5R2hoMHR6NTdHWTJVdg0KaDBYWWM4
+U3NNT3VSMy84QXJmU3R6NGJlTjdqUWIxTjA3Q3prSzJ1cHhIbzBEbkFZajF0eWMvbU85WThLcS8z
+Ym0yejBWZDQ1SjlBQw0KZXRVTmF0WkUyK1lnSFZRd1BEZE9uMCtsZGR1eVBOUHVtaXMzdy9kR2Ey
+aFp5U1dpam5aai9FWklnZWZybXRLa0FVVVVVQUZGRkZBQg0KUlJSUUFVVVVVQUZGRkZBQlJSUlFB
+VVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRg0K
+RkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFB
+VVVVVUFGRkZGQUJSUlJRQVVVVQ0KVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZG
+RkZBQlJSUlFBVVVVVUFmTUg3UXVtK1JxTWJvdUJKRXNqTjZ6UVNNRA0KK1NCYTgrWGhqanVBdytx
+ay93QkRYdHY3U21sYm9iYVFMOTEzc0hiMSswSUNNL1R5elhoc2I1Q0gyOHMvVXIvaUthQXNzNFVa
+WWdEcQ0KVDZDcEk3QzdZQWhZVUJHOEE1eW9QOTRjZEtoa1VuR3dLU0NKRUI2TXluK0llOWFTNnhh
+a2ZQT3lIK0tJZzVRL2dPMVV2TVJRYXl2RQ0KUE1heWorSUlQdS83cEpxRFRyM3lMeUZpcklVa2pu
+WUgrRm9wUWYwRldibTc4emkyTXFwL0ZLeE9XSi81NXFmYXNuVVlsVGI1WTI5Ug0KeDJJeDNwUHlB
+KzF0YjhHYUxxUXhyV2tXdHlmdXJLd3cwWVA5eVpjRWZuWG5Hci9zMDZiSms2THJOM2FucUlwbERn
+SC9BR1dHMC9xYQ0KOVYweTlFOFViZy9lUmJrSDJrUUgrdFc2aG9kK3pQbkc2L1o4OFZXNS93Q0pk
+ZFdFNDZxMFVwVW4vZURBZnpOVXo4S1BpR09sbGVrZA0KQVJkUjhnZWc4MnZwckZGUTRMcWthUnFT
+NlRrZk1vK0V2eEJiaDdHN0E2RXRkUjRBL3dCb0NVL3lxL1ovczUrSTVqblViL1RMY2RHTA0KT3pO
+Z2VnVmNmK1BWOUYwVUtDNklIVWYycE0rVHZpZjhQazhQQ0FSYXg5cm1rRHZPcGp3SVZpMjRLRGNm
+dkZqK1ZjWmh0cWh5U1RqZQ0KVDZkVCtuRmQxOGVOVk4xcW13TmxZa2pzdG83TklOeC9SeFhFamx2
+b01EMkxuL0FWb2w1R1krUjlvNkQwSDQrcHJVMDZ4aWRGemIyNQ0KYkcwc1FPcStoTlpoM0RtTnRy
+RG1OdjdyRWVsU1E2aGNNUnRtbklIM2s4ckljcWY0aWcvaSt0VWdOYTV0Q3ZFZmxJMzhQUEFIMFEx
+ag0KZUk0RzJxV2tUaktzUDc1YkgzUjdZOWExNys0YVhEUk5EWUlBRWFLSkd3N1o2dDU3T2N0MDRP
+UGF1ZDFhZHBuVlVkeXB3cWc5Mkp4bA0KVjk2Yjh3UHN6d25xZHBjMnNMYWE3dEZzV0NQY3BVcVls
+QUlLT0I5MGowK25GYlZVTkYweVMwaFJKNytlOFpCNUgydVVEZE9pZFBOSQ0KN3F1Qm52MXEvVUFG
+RkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJR
+QVVVVVVBRg0KRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFG
+RkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVQ0KVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJS
+UlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVZ4SGlqNDFlRjlLeQ0KTHJWVXVa
+eHg5aHRQbVlNTzBqQTRHUGRnZmFnRHQ2eE5mOGJhSnBhNTE3V0xTMC9pU0p6bHBRUCtlVUM1Sng3
+Q3ZubnhQKzBwNGh2cw0KcjRkdG85TGlQeWlSUG1rWlQ2ekVZR2ZaY2oxcnphYTNubVl0cTE3Skk1
+K2VXV1JzdEszL0FFMGtiLzY5QUhyUHhZK051ZzZ4YkdIUw0KTFBVSGJldDFGZVNxRlZXaXo5eE1r
+L01wSTZDdkc0NzlsQUd3SEIzZy9RLzFxOUhGYmovVTI3UC9BTFdPL3dEdk5VMkpUMGloVWVoUA0K
+OU1VMGdJb05TamZnZ29ld1BjK3hxM1ZDWFN5MzNXalU5Z280SjkrYXRXNGNLUE9IemZkUHVCNys0
+cGdTMVExVmZsSDF4K1kvK3RWKw0KcW1vcmxQeEIvd0EvblFCOWZmRG05OC9UYlE1eis1amdKOVdn
+UUx6K0sxMUZlZGZBMjlNdWt3Z25KUXlXcFBzSjJJL0pXRmVpMUlCUg0KUlJRQVVVVVVBZkduanU1
+YWJWcm91Y2tUU1FqNlFrcVB5QXJLaDVMZlhhUG9vSDlhditNUCtRcmQ0LzU3emY4QW81cW9XL1Q4
+UzM1cw0KZjZVMEJMU1FvRWJNYk9wNnVvUERnRCtJVXRGTUNXZTRrZklhVnRuWk1EZ0ErdU8xVnRQ
+dGpQZVFLbys5SkZiZ2U4a3cvd0Fha3JZKw0KR1duZmF0WHR4dHlGZjdZZjluN0pHVzUvNEV0Smdm
+WWRGRkZJQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLSw0KS0tBQ2lpaWdB
+b29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tL
+QUNpaWlnQW9vbw0Kb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdB
+b29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaXVGMQ0KbjQ1ZUQ3Rnl0enJxVFNENUpZN1pHY1Jr
+ZjNwVUdPUDk3SXJ5YjRtZnRCUGZxSXZCVTE3YnduaSt2Y2JYdWlmNFlNSElHT3ZRbnB3Tw0Kb0I3
+M3FmalRRckk0MVh4QnBWcTNlS1dWUTNIcEdUbjlLNW04K1AzZ2lIcjRpV1UvM1lZcERuNk9FeCt0
+ZktLYVFUL3Jwam5xd0h2Ng0KbXBWMG1BZGQ1K3Avd3AyQStqYnY5cUh3bkgveDcyMnQzQjZEWkdv
+QitwZHgvS3VQMW45cTIrZmp3OTRkdG9PeXpYVEZpYy8zWVUyNA0KeC92TlhrWnRiUlB2S2c5aWUv
+c0tlaC81OXJjS09tOWhnZmdLTEFhMnVmRVh4ZHFnSTFYWEx2eWp3OXNoQ0lWUFo0b3dNNDl3YTU2
+Sw0KeGk5R21QZmJ3QjlYcThMY0gvWE1YOUZQUUgyV3BRTWRCanNCNlVXQWdTQi83eXhqKzRnL214
+L3dwNjI4WTZJQ2Y3eDYvbWFrb3BnRg0KSVdBNm5BcGFoWlpXYjkwRHdQdElBL2pLTjAvQVVBU2lL
+NE9QSmlTVElFcWtIZ3FmVS83SDYwTkRLajdaR1VrcjUwT0I5OGpxTSt3cg0KYjBLQmlHOC9pREln
+OC9IRnVMa05qSndlRWRDZU9TQmp2VmZWTFFrY29SSXB5aW4rSWpxcC93QjRjVXdNd0VIcDlSOURW
+ZSsrNGZ3Lw0KbUt0eVI3VHcyUVI1c2JmM3czK0pyTzFPY0FBQThuNW1Ib285ZnJTWWo2VS9aNzNm
+Mllkd09QT2syZjd1eE9uNDE2dFhIZkMzd3pKcA0KdW5RSmNSbEpTcHZydEQxU1c1WXRoaDZ4cVFQ
+d3JzYWtZVVVVVUFGRkZGQUh4VjRxZmRxZDJmOEFwNG54OUJjTi9TcWxzUGxIMEIvRQ0KMDdXNWQ5
+OWNuMWxtbC83Nm1ha2hIeWo2QWZwVFFFbEZGRk1CQ1FPdkg5QUs5Qy9aMjBvelgwc2pya1J4RlZQ
+OTJhNWtHUHpSV3J6ZQ0KN2syb2ZwdEgxTmU5L3M0Nk41Vm5OSXk0YVNYeUVQOEFmaHRVR1A4QXg5
+MnBNRDJlaWlpa0FVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRg0KRkZBQlJSUlFBVVVVVUFGRkZGQUJS
+UlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVQ0K
+VUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJS
+UlJRQVVVVVVBRkZGRkFCUlJSUQ0KQVVVVVVBRmVYL0hieFpjNmZZYmRQbGVLU1p4cDd5cjFqdHRo
+TGJHLzJ3QVBvVFhvR3IrSWRPMDlOK3RhbGEya1hRU1RNQnZiMGpIYw0KNDdBRTE0WjhUdmp0NGIx
+Q0I0Tk0wcVhVY2pFT295Z0t0blAyZTJSd1RsQVQyVDYwQWVMdzJscUVIbkl4Yy9PZVQwLzJFWDIr
+dFN4cA0KRXY4QXg2d2t0MDNFSDVCL3RFMGFlUVZ6a0UvY2IvWkNqajlLc3VoSTRabDdBanQ5S1lF
+WXRnZjlhN3NmcjAraWlsK3lSZDR3ZlkxWA0KRnhMRWNYSTNMMFdVRHAvdkNwaktWSjJuSUk4MlAz
+WWVuMUZNQ1ZJa1g3a2FyOUJUcWJHNFlBcjBQekQyelRxQUNpaWlnQW9vb29BSw0Kbmd1eEdSbEZ4
+L3kwYnVCanQvdTVxcTh5TDk5MVg2bitsVnBOVmhIM056bnRqL0UvNFVBYmhuWWdmMmRLeEFJV2FF
+ZEpvUzNjZjdIWQ0KMUxjQ01BTTg1UlI4N05uaDFQOEFlSHNjWXJJMGJSTmUxUjhlSHRKdXAySEJl
+RmVJQ2Y4QW50Y0hBR2ZjaXU5MFg5bmZ4TE16THJNaA0KZ2lSNFlKb3czRjlhenNwYzJzeDR6YUlm
+UWduSUdjVVg4aEhuMS9yS3pGUnAwVWp0ekVnMi9mWnlNZVdnOWNlbGVzL0M3NEJYa2tpeg0KK003
+ZG9ZMUl1TFBTNUI4MTFJT2h2RTdCRDI2bnVBT3ZzZmh2NGFlSGRKNTBQUkxhS1RvYnQ4czU0N1RP
+U1J1OUJnZTFkTFNiR0ZGRg0KRklBb29vb0FLaXVybElrWnBUaFZCbWYyVkZ6L0FDcVd1VStKZXNy
+WjZiY3N6aFQ1VFdrUi93Q210ME5vMi9SbW9BK1BMV1Y1V2RwVA0KbGpsM1BxMGhKL1d0Q0g3bytn
+L2xWSFQwd2pFajIvQUQvd0N2VjZJY0Q2QWZwVFFENktLS1lGUFUyd24xSVg4cStxdmd4WW1IU2Jm
+Yw0KdUN3ZTZiM0V0dzVINXBpdmxEVlcrNytKeDlNVjlwK0VkUEZ0Wlc2QmNiWVlvV0grMHNLNXo5
+VFNZR3pSUlJTQUtLS0tBQ2lpaWdBbw0Kb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9v
+b29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaQ0KaWdBb29vb0FLS0tL
+QUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9v
+b29BS0tLSw0KQUNpaWlnQW9vb29BS0tLS0FQbFR4UERkZUl0YmtpdjlRa2lpUjVOUHQ4Y2kxdDdM
+T1JDaDd5bGZ6T2VhNy93dDhLOUZzSm44cTBXNg0KYmFvdGpjZ00wRWlPK1NoeGo5NHBUb09QeHJp
+dkVNZjluZUpjcU5xdktraW4rOE5SaEFPZitCdWE5bWpuRU15c1Z5RG1OaC92cjIvMw0KU3EwQ1BN
+dmk1OE1JNEltdWRJaWFLWU1yYXRCSDkxN2VVWTM3UFZaT3ZidjYxdzlqOFBOZnViZFp0R1N5MUtF
+akx3d05pUzJkT3F5dw0KdGpsVDJHNG5naXZxZTV0b2JoQ0hpam1qWUdDZUJ4eGNRdU1GWkI3aXZD
+ZFY4Q2VLUERjelNlQUd1THl6YjVwdE5DbG10UjJGeGE5Uw0KRTdNdlByZ2RaZC9zMktqYjdTWjVn
+VHlWdUlaSXBCKzdudDVSZ3hzT3pxZlExVEk4dGdNbmJuTVJQWkg2Z24vWk5kd3ZnVHhYNGdqZQ0K
+NGZWTlB1TGhNeDNGZ3dLU3crWGs3VEY1WUh6RHA4MkQ2NXlLNHRsODVRVndHKzhQWWc4MWE4eFB5
+Skloc09Ed3Yzb1Q3SHQrRlQxWA0KbXU0QnhLNDkxOVB5OUtnZlVIY2hiR09TUnlSSEdBTWwyYm9F
+VDFZMHdMck9xL2ZaVkhxZjhhclNhcEF2M1N6ZXcveHIwZnd6K3pScg0KOTZBM2lLOGkweU0vTjVM
+RGRLVlByRUNBTWoxYkk3aXZWdEQvQUdkdkNGbmo3UllUNmpJT2ZOdTN5TSswS2JSK1lOSzRIekha
+cnFWNA0KMjNSdE11Ymwrb2lnUXMyUGRWQi9sWFc2YjhDL0hONTkvU2phSWY0N3FSVngvdlJBay84
+QWpsZlYxaHBWbmFydDAyeHRiV01mZGhnUQ0KS0FmWkZBcTFTQStlOUkvWk9tT0RyM2lhSlA3OE5w
+R1RuL2Rua0kvOUYxNkRvbjdQM2c2eXdXMGw3NlFjaVc5YmRuSDk2RVlYbi9jcg0KME9pZ0NLMnRJ
+WVZDMmx2RERHUGxqaGpVQVJqL0FHVUZTMFVVQUZGRkZBQlJSUlFBVVVVVUFGZUYvdEgrSjlrVU52
+QytDNU9xWGFqdA0KRERrS0NQOEFiY3Nmd3IzU3ZrSDRxYTZkUjFXWXErNk9OaHBjQS91cGFjSEIv
+d0JxWGNmeG9BNWdSbEk4QVlPTnYvQW4vd0RybXJJRw0KT24wSDBGUlNja0FmOWRYOWd2VDh6VTFV
+QVVWQWIyRWZlY2c5TUVIajhNVTRYQVArcVIyOThZQStwTkFGRFZlbytoeFgzVGFNaFJmSw0KWUZk
+b01iRHVoVVl4OVJYd3hxaEh5NTY4bmpzT0srMVBDVU15V1ZzTHNFU2lHS080QjZpVllGem44YWxn
+Yk5GRkZBQlJSUlFBVVVVVQ0KQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFC
+UlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQQ0KVVVVVUFGRkZGQUJSUlJRQVVV
+VVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFC
+Ug0KUlJRQVVVVVVBRkZGRkFCUlJSUUI4ei9IMlA3TnFrRWtZd1RISGNFK3NsdmNQL0pRSzlZMU1Z
+VUZlbytjSDJUbmo2bFJYbDM3U1lIMg0KbTM5ZktZSDZlYWE5UHZReGpBd2VjSy9zSHdPVDlXRkFI
+VTZZcENkZXBMRDZmNUZTM1NncnlvM2ZkaWIrNDdjRGFmcWFaYnpSS29DTg0KbkFBSVVad1FPK0ta
+ZFRxdytSWkhBQmR4SDFCUEF4bjB5VCtGQUdYTGV4UlNsM2VWQnRZU3F5NDNSUlk0WStxWXlPY25w
+eHhYeCt0Kw0KcUo4bU54SllLUDhBbG1DZS93QksrdEx5Q09kSkZ1Sjd0VVpUWk80SUI4dVJDTjBS
+WStoeDk4ZmlPbnp2NDgrR052bzBhdEJxejNSTA0KL1o4Rk51MVNoUHpKenl1QjM1N1V4SGJmQ3I0
+QzJPbzIvbmVLMXVTam5PbVcwYkZjd0tUbHBtSFA3dzlPbkhQY1Y3RjRjK0ZmaG5TVw0KM2FMb2NF
+YzNRWFVoTE91ZitlY2toT01qMHhTL0RhWm4weTBMSXEvdVk0d0FPb2pRRHAvdEFWMU5JWVVVVVVB
+RkZGRkFCUlJSUUFVVQ0KVVVBRkZGRkFCUlJSUUFVVVVVQUgwcjRWdDNsYVZ6ZDVFcExOTUQvejBM
+YzVIMXI3cXI0MStJSXN2N1d1UDdGQUVQbUVFTDA4L1lOKw0KMzI4N2RRZ01tSGtrbnJuWVBaVW9t
+Mmo3OHpJT2d3ZjVVaUVndHNBUFIxSCswUjYrK0tpU3dMSE4wKzl1eTlsSHNLb0NNWERmOHU4cw0K
+OGc5MXp6L3ZjVkpIZFQvOHRiVnNkTnk5dnFEVXJUZ0VMREU4a2grU0tDTVpMTWVnVlI2MTAxdDhL
+dkc4eTdvUENrcXA5NVZsZEZiSA0KdkU3cWYvSGFRSEp0TkhEUEcxNWIrZkNHV1dhM0ovNCtJbzNC
+S2svN1lyN2MwelZiYThpU1RUNVJKQzZpNXQ1Qi9GRzQ3ajIvU3ZpZg0KV0xTNnR5WTlaMCs0c3B4
+ODRobVVnbkhkYzluN2RqMk5mUTM3UEdyenpXRHBPV0t4U3REYXNmNFlwVVZzTC91dVNmeHBNRDEy
+aWlpZw0KQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9v
+b29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQw0KaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tL
+QUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLSw0KS0tBQ2lpaWdB
+b29vb0FLS0tLQUNpaWlnQW9vb29BK2FQajR4dXRVZ2loK1p2TGp0dHY4QTAxdWJoLzVqRmUzZUlM
+VllvMUVFVy9HMw0KY3Y4QXowWnBrNmsrcFd2RXZHZUc4VHhmYVQ4bm5Xb2lCOU5zZU1mVjY5ODhR
+V3pPcDh0U1cyK2NnSDhUMjBpbkMrN3J1b0FyeHhhcQ0KNEdaN0sxWEh5b2lsaUIvdE1TQjA5cWhu
+ZzFOdUZ2TEtZZzd3Zm1SZ1IvZUM3dVB5clRzcmhaRVV4c0NNRGtmNTcwK2EyamtINzFjLw0KM1dI
+VlQvc21nREZGak5BTUNlWk9wVmw1NFBYQnlPRDF4eVI2RVpOZUlmRzYrK1NGUzl1U1hrdXBGaUhU
+eTFRQXQwKytENkRHUFd2ZQ0KM01zWEZ5VExFZmxFaDZ4SC9hK2xmTi94Q0Q2bHFWdkRFMjVpSXJD
+VVkrN2MzVW5PU1BxS1lqNlU4RjJCdDdHMlJsd1ZoaWprSC9UUQ0KUXJuODJyY3Bxb0FNSUFBUGxV
+RHNCNkQycDFJWVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFJYzlzZTMxcjRZ
+Zw0KUjFsa0YrekxjQmpITWo5VEtHTzdjZlVOWDNSWHl4OGROQXM0OVRVYVJBeXp6SWwxZVJnamE5
+NU5Jd0JRZGpJRkJQdnpRZ09GdCtuUA0KWEozK3pBOS9vS2p2THNSajVDTng0VWVnOVNLMUYrRzNq
+QlgycDRmMUJuUHlrcUFRMlA4QXBxQ1IwOTY5TStIWHdMdkxlWlp2R0VjSg0KZGYzOWpwUVlNVE9P
+alhicmtBUkhvTW5uOGk3Z2FYd3I4QWFscEVKbTFhejBxT2Q4UEZIT3JlYkJDNEh5dE5uQytaNmJN
+LzN6MkhxSA0KOXZxZnVDM0Ivd0NXbTUvOVNNZnhFS1J4OWNuc0t2R0dRY2h5emRXVTlISG9xKzNi
+OWF4cDdTUlQrNGt1eXY4QXJiaTRZcVBNQTdTTg0KOHYzZS9OQWpqUEZYZ2JSOVMzTnExdktNZytU
+cXFZRHBLVHg1WVk4ckdUakc0NDlqMDg0MFhYTmY4RDNXelVvbXVMQ1RFMHNhSDViNg0KTGo1N05q
+MGVNZFIzNkhqQnIzSmlIR1pyV1Z5Y1J3MjhtM29QUlBsNFFkQU9PNU9LeHRaOEwydDVFMGVxMnNW
+MUM1RWhkVkFOazY5Nw0KSzVHQnVRSHNHSGJrWm9ZenZkQzhTYWRxVVN5YUxleDNFTGZkZGVzYmVr
+cWRpdm9SbXRLdmsvN040azhJek5KNGN1MnViTFBsek13eQ0KczZBOERVYmRTY0VkQWNqMlBVVjds
+NEUrTldpYTJBdm1yWlgzUjlPbWIvV3Qvd0JPY3ZHN1AwRGUxSUR2cUtLS0FDaWlpZ0Fvb29vQQ0K
+S0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlp
+Z0Fvb29vQUtLS0tBQ2lpaWdBbw0Kb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29B
+S0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaQ0KaWdBb29vb0FLS0tLQVBu
+VDlvSFJiaTB1N2U2c1ZLNUFnTW8vNVpYdG0rVkxIL2JVOGZTdmNOQzE2MzFhMWltMDJSUUhBdVlo
+bi9qMw0KbkhCV1RIOXhzcWYwcG5qRHdmYWF6YXZEZi9LR0crM25BNXRMbE9qSVA5Zys0eU1qdlh6
+NTRLOGNhbjRPdTN0L0ZOdkw5akxadUZYbg0KN094NlMyZnFzaWprZHg3akZBSHU0YzJURWhHRnNU
+aDBQL01PbWIrRi9aczhIcDI5SzJvNUZZWmpZRWRpS2JETlozMGF2cHQxYnp4cw0KTXczQ1lLM01K
+N1NEdU05dW85cXlUYVhObzMraFJzeWRXc1NjbFFPOW01NmdEdHd3L0lVQ05rcUQ5NEFqb1FlNFBx
+SytiL2l2cHN1aQ0KYXJEY1djZVkyS2FuQXA2RzRzMkc1U2ZjQmZ6cjZHczlWdDV4KzZrQVAzV2pQ
+VldIWWoyL092TXYyZ2RMV1N3Und2elJ5cVEzcEZNag0KQS84QWZUYmFCbnIxamZRM0VhUGF2dWpk
+VnVyZC93Qy9GS29JT1BjR3JGY0g4R2RRZWZTYll6U0YyVVBaa24rRklKM0FIL0FZd29ydg0KS0FD
+aWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQXI1bytOcCt5YXhCSk1BWTlzTjZj
+ZjNiZTRiT1I5RnI2WHI1cg0KL2FCajh2VXJkN3BDMEhsSXBCL2lFTnpJV0dQOTFoUUI2M1pYZHJN
+QTJuM0Z2TW5XT2FGZ1F4SG82bnRYUzJyeHN1WVZWZjd3SFp2OQ0KcXVNczdEVDNVSFNaTE14OVk1
+TGZHT2Y3cnhZL3JWdUtlK2dQN21Vc082dnprZjc2alA1cWZyUUk2NnF0eGJSdVFKRURBL05KSDZG
+Tw0KNFA4QXM5S3pyZnhRbU0zZHU4WTZHVWNxRC92amo4eUtXOTFlSXh5RzB1RjNuRUVEaitFUGdm
+S2Y5Z3NhQmxXMHNqTEsyeUszRWFreA0KeXp4amdrZEZqeU9venljSEhyNmRCSGJScDl4Qm5vWFBK
+WWY3VG1tV3NVRVNoYmNvRkEyS0FldzlUNzFQa2Vvb0FxWG1qMlZ3Q0wyeA0KdDVnZmtmZW8rWlNP
+NTl4WGtmakg5bTJ6bXkvZzY1RmxML3JQc0VwT3gySC9BRHdrNUsvK1BENlY3STA4YS9mbFFmai9B
+RXFoUDRndA0KbE9JUzB6OUJGR01rbi9kSCtGQUhpL2dMNHY2NXBOeUxYNGcrZXlaRnBIYzNCK2ZU
+bmZHREpOL0VqK3VUZ2NnNDRyNklyNW4rUGtUdQ0KMXU5eEZISElmTXRTQjFFY2V3Z1NrZjNDeDR5
+U004OWEraHZEMTFKTmJRTk9TWGFLT2VWajNkNGxKejlTYUFOS2lpaWdBb29vb0FLSw0KS0tBQ2lp
+aWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FL
+S0tLQUNpaWlnQW9vbw0Kb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lp
+aWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZw0KQW9vb29BS0tLS0FDdVY4Y2ZEWFN0
+ZWkyNm5HWTVWeWJHL2pIeldibjA5UTNjSGcreHdhNnFpZ0Q1WXQ3L3dBWCtCWnl0eEQ5cHNHTw0K
+UWh6NVdvZ2Q3ZVQrRjhmajZnakZlMitGZmpENFkxdFFzVjVIYjNCeHUwMjZ3R0wvQVBUQitod2Vt
+RG51UUs3Qy93Qk10YnBDbXBXaw0KRnhDdzJTd1NxQ0pCL3RLZlN2SFBGWDdMbW5Ua3Q0VTFGckJ1
+b3NwOHRHVy82Wnk5Ui80LzdVQWVwMzNoMUpEbENTL1JaYzRkUVA4QQ0KcHNBYzQ5R1Z2clhoSHhx
+OGJmS0xXQzkrMHlCaGNhZ1FCbTJLQTRSeXJNTXNTRHdlTzR6MHJMNEgrTG1uZ3g2ZGRhbkpDZjNN
+YlFYSw0KbFZVLzg4Zk1ZRmZ5V3V6K0dQd0JOZzRuOFh0RmNYZ1BuV2xrRHVXeWxQOEFGUEozWlQw
+NmdkY2s0d0FkejhNZkRjMm02ZEJIZG95VA0KYlRkWFViZFlwYmx5MkhIckh1eFhYVVVVQUZGRkZB
+QlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCWEllUGZoZnB2aUNORg0KMUtXNGdsUWw3
+TzdpeG1MekFNaDBicUh3UFE4Y0d1dm9vQStiYjc5bTN4VllNVzhKK0lJYmcvdzdIYUtSc2VneVIv
+NUVGWmIrUC9IKw0KaGtEeFRwVTBzZjNBOTFId3cvNlkzc2ZCUDR0WDFOVEpJa2NFU3hvNm41WFJo
+a01wL3ZLZldnRHd6dzU4ZmZEczdEKzJJYnJUblB5Uw0KU0hKVVo5Sm8rZUQ2cUJYbzFuRG91b0x1
+MG0vMDY4WHEwa1JVN2Y4QWVlSXFjajNPYW9lSVBnTjRSMURKT2svWVpUejU5aWRtQ2ZXSA0KQlhu
+L0FITTE1dHFmN0xPcVFOdThMK0o0R0krYUpad3lOSC91elI3djVMUUI3QWZEZVA4QVZ5djdBU01N
+Zjk5RjZhUER6OTVKdnA1Mw0KYi92M1hpZjloL0dQVGY4QWozbjFTNVFjS3dramxCQTlFa0xIL3dB
+ZHBSNDkrTHFjUDRmMVZ6MDNmWUR5ZnFxVUFlM0w0YmovQU9XbQ0KMXZhUm5iOU53SDZWWmEwdExk
+Q2JtZU9HSWZOSVNRaVJnZjN5dU9QcVRYaEg5dGZHVzY0aXNkVmdCK1hIMmVOTVovMjVGQi9XblEv
+QQ0KYngzcXpBK0w5Y0VDOVNMbVl5TkVEL3p4aFFrY2Y3NjBBVVBqUDR2MC9XSnJlSHd2SUx6eTkw
+RzZBZkxQY1hUSUF0c1IxMjdlM0hQQg0KcjZXMHF5TUVNYUhHVVJMWTQ5WWtBNFA0VnhuZ2o0SWFE
+b2pCNFZsdmJ3Y0xmWEdQM0JJNSt5eERnYmg5VDc0cnY2QUNpaWlnQW9vbw0Kb0FLS0tLQUNpaWln
+QW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tL
+S0FDaWlpZw0KQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWln
+QW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQw0KaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FL
+S0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLSw0KS0tBQ2lp
+aWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FL
+S0tLQUNpaWlnQW9vbw0Kb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lp
+aWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZw0KQW9vb29BS0tLS0FDaWlpZ0Fvb29v
+QUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQw0K
+aWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29v
+QUtLS0tBQ2lpaWdBb29vb0FLSw0KS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FD
+aWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vbw0Kb0FLS0tLQUNpaWlnQW9v
+b29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FD
+aWlpZw0KQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9v
+b29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQw0KaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tL
+QUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLSw0KS0tBQ2lpaWdB
+b29vb0FLS0tLQUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tL
+QUEvOWs9DQo=</imageData>
+      <aspectRatio>1</aspectRatio>
+    </imageElement>
+    <textElement>
+      <location units="cm">
+        <width>2.910416666</width>
+        <height>2.778125</height>
+      </location>
+      <size units="cm">
+        <width>11.00666667</width>
+        <height>2.301875</height>
+      </size>
+      <text>Scale Degrees: 1 2 b3 4 5 b6 b7&#xd;
+Sale Notes: A B C D E F G&#xd;
+Intervals: T S T T S T</text>
+      <font name="Verdana" height="14" style="0"/>
+      <margin>0</margin>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColourFollows>FOREGROUND</borderColourFollows>
+      </border>
+      <transparent>false</transparent>
+      <textAlignment>16384</textAlignment>
+    </textElement>
+    <textElement>
+      <location units="cm">
+        <width>12.938125</width>
+        <height>27.384375</height>
+      </location>
+      <size units="cm">
+        <width>5.318125</width>
+        <height>0.9260416666</height>
+      </size>
+      <text>Marcus Wynwood &#xd;
+MarcusGuitar.com </text>
+      <font name="Verdana" height="10" style="0"/>
+      <margin>0</margin>
+      <border>
+        <paintBorder>false</paintBorder>
+        <borderThickness>2</borderThickness>
+        <borderColourFollows>FOREGROUND</borderColourFollows>
+      </border>
+      <transparent>true</transparent>
+      <textAlignment>131072</textAlignment>
+    </textElement>
+    <connections/>
+    <backgroundColor>
+      <red>255</red>
+      <green>255</green>
+      <blue>255</blue>
+    </backgroundColor>
+  </page>
+  <leftRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>false</horizontal>
+  </leftRuler>
+  <topRuler>
+    <listeners serialization="custom">
+      <java.beans.PropertyChangeSupport>
+        <default>
+          <source class="editorruler" reference="../../../.."/>
+          <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+        </default>
+        <null/>
+      </java.beans.PropertyChangeSupport>
+    </listeners>
+    <guides/>
+    <unit>2</unit>
+    <horizontal>true</horizontal>
+  </topRuler>
+  <rulersVisibility>true</rulersVisibility>
+  <snapToGeometry>true</snapToGeometry>
+  <gridEnabled>false</gridEnabled>
+  <zoom>0.75</zoom>
+</document>
